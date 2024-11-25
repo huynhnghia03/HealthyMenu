@@ -445,5 +445,5 @@ if __name__ == '__main__':
     # # Chạy scheduler
     # run()
     app.run(host="0.0.0.0", port=os.environ.get(
-        "FLASK_PORT"), debug=True)
+        "FLASK_PORT"), debug=False)
 
