@@ -65,7 +65,7 @@ def test_connection():
         if(result):
             return jsonify(status="success", collections="admin exited"), 200
         else:
-            user.insert_one({"email": os.environ.get("EMAIL_ADMIN"), "password": generate_password_hash(os.environ.get("PASSWORD"))})
+            user.insert_one({"email": os.environ.get("EMAIL_ADMIN"), "password": generate_password_hash(os.environ.get("PASSWORD")),'role':"admin"})
             return jsonify(status="success", collections="account admin added"), 200
     except Exception as e:
         return jsonify(status="error", message=str(e)), 500
@@ -85,7 +85,7 @@ def login():
             print("ok")
             access_token = create_access_token(identity=result["email"])
             return jsonify({
-                "data": {"email":result["email"]},
+                "data": {"email":result["email"],"role":result["role"]},
                 "success":1,
                 "err":None,
                 "message": "Login Success",
@@ -108,7 +108,7 @@ def register():
                 "message": "Account exited",})
         else:
             user_name = email.split('@')[0]
-            user.insert_one({"email":email,"username": user_name,"password": password})
+            user.insert_one({"email":email,"username": user_name,'role':"user","password": password})
             return jsonify({"success":1,
                 "err":None,
                 "message": "Account was created successfully",})
@@ -317,23 +317,6 @@ def detailUser(email):
         return jsonify({"exists": False})
 
 
-@app.route('/delete_data', methods=['POST'])
-def delete_data():
-    id = request.json.get("id")
-    print(id)
-    CS = mongo.connection.cursor()
-    try:
-        CS.execute(f"""DELETE FROM history WHERE id = '{id}'""")
-        mongo.connection.commit()
-        CS.close()
-        return jsonify({'success': True})
-    except Exception as e:
-        mongo.connection.rollback()
-        CS.close()
-        return jsonify({'success': False, 'error': str(e)})
-
-
-
 @app.route("/change-password", methods=["POST"])
 @jwt_required()
 def change_password():
@@ -341,47 +324,67 @@ def change_password():
     if email:
         current_pwd = request.json.get('oldpas')
         new_pwd = request.json.get('newpass')
-        cur = mongo.connection.cursor()
-        cur.execute(f"SELECT password FROM user WHERE email = '{email}'")
-        user_data = cur.fetchone()
-        print(check_password_hash(user_data[0], current_pwd))
-        if user_data and check_password_hash(user_data[0], current_pwd):
-            cur.execute(f"UPDATE user SET password = '{generate_password_hash(new_pwd)}' WHERE email = '{email}'")
-            mongo.connection.commit()
-            cur.close()
+        
+        # Tìm người dùng trong MongoDB
+        user_collection = db.users
+        user_data = user_collection.find_one({"email": email})
+
+        if user_data and check_password_hash(user_data['password'], current_pwd):
+            # Cập nhật mật khẩu mới
+            new_hashed_pwd = generate_password_hash(new_pwd)
+            user_collection.update_one(
+                {"email": email},
+                {"$set": {"password": new_hashed_pwd}}
+            )
             return jsonify({'success': True})
         else:
-            return jsonify({'success': False,"error":"Current password is incorrect"})
+            return jsonify({'success': False, "error": "Current password is incorrect"})
     else:
-        return jsonify({'success': False,"error":"Cant find user"})
+        return jsonify({'success': False, "error": "Can't find user"})
     
 @app.route("/changeUsername", methods=["POST"])
 def change_username():
-    if request.form['email']:
-        current_username = request.form['username']
-        email = request.form['email']
-        cur = mongo.connection.cursor()
-        cur.execute(f"SELECT * FROM user WHERE email = '{email}'")
-        user_data = cur.fetchone()
-        path_save = user_data[2]
-        if request.files.getlist('File'):
-            current_avatar = request.files.getlist('File')[0]
-            filename = secure_filename(current_avatar.filename)
-            if(filename):
-                path_save = os.path.join(app.config['UPLOAD_FOLDER'] + "/upload/users/", filename)
-                current_avatar.save(path_save)
+    email = request.form.get('email')
+    if email:
+        new_username = request.form.get('username')
+        user_collection = db.users
+        user_data = user_collection.find_one({"email": email})
+
         if user_data:
-            cur.execute(f"UPDATE user SET username = '{current_username}', avatar='/{path_save}' WHERE email = '{email}'")
-            mongo.connection.commit()
-            cur.execute(f"SELECT * FROM user WHERE email = '{email}'")
-            Executed_DATA= cur.fetchone()
-            print(Executed_DATA)
-            cur.close()
-            return jsonify({"email": Executed_DATA[0], "auth":True,"password":"","username":Executed_DATA[1], "avatar":Executed_DATA[2], "admin":Executed_DATA[4],"date":Executed_DATA[5],"access_token":"Bearer "+create_access_token(identity=Executed_DATA[0])})
+            # Đường dẫn mặc định để lưu ảnh đại diện
+            avatar_path = user_data.get('avatar', '')
+
+            # Nếu có ảnh đại diện mới được tải lên
+            if 'File' in request.files:
+                current_avatar = request.files['File']
+                filename = secure_filename(current_avatar.filename)
+                if filename:
+                    # Tạo đường dẫn lưu file
+                    avatar_path = os.path.join(app.config['UPLOAD_FOLDER'], "upload/users", filename)
+                    current_avatar.save(avatar_path)
+
+            # Cập nhật tên người dùng và đường dẫn avatar mới
+            user_collection.update_one(
+                {"email": email},
+                {"$set": {"username": new_username, "avatar": avatar_path}}
+            )
+
+            # Lấy dữ liệu mới nhất sau khi cập nhật
+            updated_user = user_collection.find_one({"email": email})
+
+            return jsonify({
+                "email": updated_user['email'],
+                "auth": True,
+                "role":updated_user["role"],
+                "username": updated_user['username'],
+                "avatar": updated_user['avatar'],
+                "date": updated_user.get('date', str(datetime.now())),
+                "access_token": "Bearer " + create_access_token(identity=updated_user['email'])
+            })
         else:
-            return jsonify({'success': True, 'image_path': "incorrect", "Info": {}})
+            return jsonify({'success': False, 'error': "User not found"})
     else:
-        return jsonify({'success': False})
+        return jsonify({'success': False, 'error': "Email is required"})
     
 def recommend_dishes_by_health(calories, carbs, protein, fat, fiber, Sodium, VitaminC, Purine, sugar, Cholesterol, iron, health_condition=''):
     data = pd.read_csv('Recipes.csv')
@@ -434,7 +437,7 @@ def backup_to_csv():
 #         schedule.run_pending()
 #         time.sleep(1)
 if __name__ == '__main__':
-    test_connection()
+    # test_connection()
     # from threading import Thread
     # flask_thread = Thread(target=lambda: app.run(debug=True, use_reloader=False))
     # flask_thread.start()
