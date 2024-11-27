@@ -29,7 +29,7 @@ api = Api(app)
 # Apply Flask CORS
 CORS(app)
 app.config['CORS_HEADERS'] = 'Content-Type'
-app.config['UPLOAD_FOLDER'] = "static"
+# app.config['UPLOAD_FOLDER'] = "static"
 
 app.config["MONGO_URI"] = os.environ.get("MONGO_URI")
 mongo = PyMongo(app)
@@ -45,13 +45,12 @@ jwt = JWTManager(app)
 features = ['Calo', 'Carbohydrate', 'Protein', 'fat', 'fiber', 'Sodium', 'VitaminC', 'Purine', 'sugar', 'Cholesterol', 'iron']
 diseases = pd.read_csv('diseases.csv')
 
-UPLOAD_FOLDER = './uploads'
+app.config['UPLOAD_FOLDER'] = "static"
 ALLOWED_EXTENSIONS = {'png', 'jpg', 'jpeg', 'gif'}
-app.config['UPLOAD_FOLDER'] = UPLOAD_FOLDER
 
-# Tạo thư mục nếu chưa tồn tại
-if not os.path.exists(UPLOAD_FOLDER):
-    os.makedirs(UPLOAD_FOLDER)
+# # Tạo thư mục nếu chưa tồn tại
+# if not os.path.exists(UPLOAD_FOLDER):
+#     os.makedirs(UPLOAD_FOLDER)
 
 def allowed_file(filename):
     return '.' in filename and filename.rsplit('.', 1)[1].lower() in ALLOWED_EXTENSIONS
@@ -115,7 +114,7 @@ def create_food():
         try:
             # Lấy dữ liệu từ form-data
             title = request.form.get('name')
-            type0fgroup = request.form.get('typeoffgroup')  # Assuming this is an ID
+            type0fgroup = request.form.get('type0fgroup')  # Assuming this is an ID
             typeoffood = request.form.get('typeofffood')  # Assuming this is an ID
             description = request.form.get('description')
             ingredient = request.form.get('ingredient')
@@ -123,8 +122,8 @@ def create_food():
             image_file = request.files.get('image')
 
             # Kiểm tra các trường bắt buộc
-            if not title or not type0fgroup or not typeoffood or not description or not ingredient or not methob or not image_file:
-                return jsonify({"error": "Thiếu thông tin bắt buộc hoặc ảnh!"}), 400
+            if not title or not type0fgroup or not typeoffood :
+                return jsonify({"error": "Thiếu thông tin bắt buộc!"}), 400
 
             # Kiểm tra định dạng file ảnh
             if not allowed_file(image_file.filename):
@@ -134,7 +133,7 @@ def create_food():
             filename = secure_filename(image_file.filename)
             image_path = os.path.join(app.config['UPLOAD_FOLDER'], filename)
             image_file.save(image_path)
-
+            realFilePath = 'static/'+filename
             # Tạo món ăn mới
             new_food = {
                 "title": title,
@@ -143,7 +142,7 @@ def create_food():
                 "description": description,
                 "ingredient": ingredient,
                 "methob": methob,
-                "image_path": image_path  # Đường dẫn lưu ảnh trên server
+                "image_path": realFilePath  # Đường dẫn lưu ảnh trên server
             }
             # Thêm món ăn vào MongoDB
             result = db.Recipes.insert_one(new_food)
@@ -201,7 +200,8 @@ def edit_food(food_id):
                 filename = secure_filename(image_file.filename)
                 image_path = os.path.join(app.config['UPLOAD_FOLDER'], filename)
                 image_file.save(image_path)
-                update_data["image_path"] = image_path
+                realFilePath = 'static/'+filename
+                update_data["image_path"] = realFilePath
 
             # Kiểm tra nếu có dữ liệu cần cập nhật
             if not update_data:
@@ -422,7 +422,7 @@ def change_username():
                 filename = secure_filename(current_avatar.filename)
                 if filename:
                     # Tạo đường dẫn lưu file
-                    avatar_path = os.path.join(app.config['UPLOAD_FOLDER'], "upload/users", filename)
+                    avatar_path = os.path.join(app.config['UPLOAD_FOLDER'], filename)
                     current_avatar.save(avatar_path)
 
             # Cập nhật tên người dùng và đường dẫn avatar mới
