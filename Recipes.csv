@@ -1,5 +1,27 @@
 _id,title,type0fgroup,typeoffood,status,Calo,Carbohydrate,Protein,fat,fiber,Sodium,VitaminC,Purine,sugar,Cholesterol,iron,description,image_path,ingredient,methob
-67441138c36b585cf943d3f6,Salad cam cà chua sốt dầu giấm tỏi,Món ăn,Món ăn,Tiểu đường,120.0,20.0,2.0,8.0,4.5,0.25,0.07,0.015,9.0,0.0,0.0015,null,static/added_1.png,null,null
+67441138c36b585cf943d3f6,Salad cam cà chua sốt dầu giấm tỏi,Món ăn,Món ăn,Tiểu đường,120.0,20.0,2.0,8.0,4.5,0.25,0.07,0.015,9.0,0.0,0.0015,null,static/salad-cam-ca-chua-dau-giam.jpg,"2 quả Mỹ cam tươi, gọt vỏ, tách múi và cắt miếng vừa ăn;
+2 quả cà chua, rửa sạch và cắt lát mỏng;
+1/2 củ hành tây nhỏ, thái lát mỏng;
+1/2 quả dưa leo, rửa sạch và thái lát mỏng;
+1 ít rau mùi (ngò rí), rửa sạch và cắt nhỏ;
+1 bó (cụm) rau xà lách lô lô xanh, rửa sạch và để ráo nước.
+
+Phần sốt dầu giấm tỏi:
+3 thìa canh dầu ô-liu;
+2 thìa canh giấm táo hoặc giấm gạo;
+1 tép tỏi, băm nhuyễn;
+2 thìa cà phê đường cỏ ngọt stevia;
+1/4 thìa cà phê muối;
+1/4 thìa cà phê tiêu.","Chuẩn bị nguyên liệu:
+Gọt vỏ cam, tách múi và cắt thành từng miếng vừa ăn.
+Rửa sạch cà chua, dưa leo, hành tây, rau mùi và xà lách. Cắt cà chua và dưa leo thành lát mỏng, hành tây thái lát mỏng, rau mùi cắt nhỏ.
+Pha chế sốt dầu giấm tỏi: Trong một bát nhỏ, trộn đều dầu ô-liu, giấm táo (hoặc giấm gạo), tỏi băm nhuyễn, đường ăn kiêng, muối và tiêu. Khuấy đều cho đến khi các thành phần hòa quyện vào nhau.
+Trộn salad:
+Trong một bát lớn, cho cam, cà chua, hành tây, dưa leo và rau xà lách vào. Rưới phần sốt dầu giấm tỏi đã chuẩn bị lên trên.
+Nhẹ nhàng trộn đều các nguyên liệu để sốt dầu giấm thấm đều vào rau củ và cam.
+Thưởng thức:
+Cho salad ra đĩa, rắc một ít rau mùi lên trên để tăng thêm hương vị.
+Thưởng thức ngay khi salad còn tươi ngon."
 67441138c36b585cf943d3f7,Sinh tố cam cà rốt táo,Đồ uống,Sinh tố,Tiểu đường,135.0,33.0,1.0,0.4,6.0,0.075,0.08,0.015,22.5,0.0,0.00075,,,,
 67441138c36b585cf943d3f8,Cá hồi sốt cam sành,Món ăn,Món chính,Tiểu đường,275.0,11.0,21.0,17.0,0.5,0.5,0.025,0.175,7.5,0.07,0.0015,,,,
 67441138c36b585cf943d3fb,Salad mận mùa hè,Món ăn,Món khác,Tiểu đường,250.0,23.0,23.0,11.0,4.0,0.15,0.035,0.015,17.5,0.0,0.00075,,,,
