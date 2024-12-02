@@ -51,6 +51,7 @@ ALLOWED_EXTENSIONS = {'png', 'jpg', 'jpeg', 'gif'}
 # # Tạo thư mục nếu chưa tồn tại
 # if not os.path.exists(UPLOAD_FOLDER):
 #     os.makedirs(UPLOAD_FOLDER)
+# để xem luôn cái app cho xong
 
 def allowed_file(filename):
     return '.' in filename and filename.rsplit('.', 1)[1].lower() in ALLOWED_EXTENSIONS
@@ -64,7 +65,7 @@ def test_connection():
         if(result):
             return jsonify(status="success", collections="admin exited"), 200
         else:
-            user.insert_one({"email": os.environ.get("EMAIL_ADMIN"), "password": generate_password_hash(os.environ.get("PASSWORD")),'role':"admin","username":"admin","createdAt": datetime.utcnow()})
+            user.insert_one({"email": os.environ.get("EMAIL_ADMIN"), "password": generate_password_hash(os.environ.get("PASSWORD")),'role':"admin","username":"admin","createdAt": datetime.utcnow(),"new":True,"avatar":""})
             return jsonify(status="success", collections="account admin added"), 200
     except Exception as e:
         return jsonify(status="error", message=str(e)), 500
@@ -74,16 +75,39 @@ def login():
         pwd = request.json.get('password')
         user = db.users
         result = user.find_one({"email": email})
-        print(check_password_hash(result["password"], pwd))
         if result and  check_password_hash(result["password"], pwd):
             print("ok")
             access_token = create_access_token(identity=result["email"])
-            return jsonify({
-                "data": {"email":result["email"],"role":result["role"],"username":result["username"]},
-                "success":1,
-                "err":None,
-                "message": "Login Success",
-                "acesstoken":"Bearer "+access_token})
+            if(result['new']):
+                return jsonify({
+                    "data": {
+                        "email":result["email"],
+                        "role":result["role"],
+                        "username":result["username"],
+                         "new":result["new"],
+                         "avatar":result['avatar']
+                        },
+                    "success":1,
+                    "err":None,
+                    "message": "Login Success",
+                    "acesstoken":"Bearer "+access_token})
+            else:
+                return jsonify({
+                    "data": {
+                        "email":result["email"],
+                        "role":result["role"],
+                        "username":result["username"],
+                         "weight":result["weight"],
+                         "gender":result["gender"],
+                          "height":result["height"],
+                           "statusHealth":result["statusHealth"],
+                            "new":result["new"],
+                             "avatar":result['avatar']
+                        },
+                    "success":1,
+                    "err":None,
+                    "message": "Login Success",
+                    "acesstoken":"Bearer "+access_token})
         else:
             return jsonify({ "success":0,
                 "err":None,
@@ -102,7 +126,7 @@ def register():
                 "message": "Account exited",})
         else:
             user_name = email.split('@')[0]
-            user.insert_one({"email":email,"username": user_name,'role':"user","password": password,"createdAt": datetime.utcnow()})
+            user.insert_one({"email":email,"username": user_name,'role':"user","password": password,"createdAt": datetime.utcnow(),"new":True,"avatar":""})
             return jsonify({"success":1,
                 "err":None,
                 "message": "Account was created successfully",})
@@ -115,7 +139,7 @@ def create_food():
             # Lấy dữ liệu từ form-data
             title = request.form.get('name')
             type0fgroup = request.form.get('type0fgroup')  # Assuming this is an ID
-            typeoffood = request.form.get('typeofffood')  # Assuming this is an ID
+            typeoffood = request.form.get('typeoffood')  # Assuming this is an ID
             description = request.form.get('description')
             ingredient = request.form.get('ingredient')
             methob = request.form.get('methob')
@@ -156,17 +180,17 @@ def create_food():
                 "title": title,
                 "type0fgroup": type0fgroup,
                 "typeoffood": typeoffood,
-                "calo": nutrition.get('calo', 0),
-                "carbohydrate": nutrition.get('carbohydrate', 0),
-                "protein": nutrition.get('protein', 0),
-                "fat": nutrition.get('fat', 0),
-                "fiber": nutrition.get('fiber', 0),
-                "sodium": nutrition.get('sodium', 0),
-                "vitaminc": nutrition.get('vitaminc', 0),
-                "purine": nutrition.get('purine', 0),
-                "sugar": nutrition.get('sugar', 0),
-                "cholesterol": nutrition.get('cholesterol', 0),
-                "iron": nutrition.get('iron', 0),
+                "Calo": nutrition.get('Calo'),
+                "Carbohydrate": nutrition.get('Carbohydrate'),
+                "Protein": nutrition.get('Protein'),
+                "fat": nutrition.get('fat'),
+                "fiber": nutrition.get('fiber'),
+                "Sodium": nutrition.get('Sodium'),
+                "VitaminC": nutrition.get('VitaminC'),
+                "Purine": nutrition.get('Purine'),
+                "sugar": nutrition.get('sugar'),
+                "Cholesterol": nutrition.get('Cholesterol'),
+                "iron": nutrition.get('iron'),
                 "ingredient": ingredient,
                 "methob": methob,
                 "description": description,
@@ -188,6 +212,109 @@ def create_food():
             "message":"Unauthoried"
             
             })
+@app.route('/loveFood', methods=['POST'])
+@jwt_required()
+def love_food():
+    email = get_jwt_identity()
+    if(email):
+        try:
+            data = request.form
+            food_id = data.get("food_id")
+            print(food_id)
+            if not food_id:
+                return jsonify({"error": "food_id is required"}), 400
+            
+            # Kiểm tra người dùng tồn tại không
+            user = db.Users.find_one({"email": email})
+            if not user:
+                return jsonify({"error": "User not found"}), 404
+            
+            # Kiểm tra món ăn đã tồn tại trong bảng Favourites chưa
+            existing_favourite = db.Favourites.find_one({"user_email": email, "food_id": food_id})
+            if existing_favourite:
+                return jsonify({"message": "This food is already in favorites"}), 200
+            
+            # Thêm món ăn yêu thích vào bảng Favourites
+            new_favourite = {
+                "user_email": email,
+                "food_id": food_id,
+                "created_at": datetime.utcnow()  # Thời gian thêm vào danh sách yêu thích
+            }
+            db.Favourites.insert_one(new_favourite)
+            
+            return jsonify({
+                "message": "Food added to favorites successfully!",
+                "food_id": food_id
+            }), 200
+        except Exception as e:
+            return jsonify({"error": str(e)}), 500
+    else:
+            return jsonify({
+            "message":"Unauthoried"
+            
+            })
+@app.route('/favorites', methods=['GET'])
+@jwt_required()
+def get_favorites():
+    email = get_jwt_identity()
+    if email:
+        try:
+            # Lấy danh sách món ăn yêu thích từ bảng Favourites
+            favorites = db.Favourites.find({"user_email": email})
+            favorite_list = []
+
+            for fav in favorites:
+                # Lấy chi tiết món ăn từ bảng Recipes
+                recipe = db.Recipes.find_one({"_id": fav["food_id"]})
+                
+                # Thêm thông tin chi tiết món ăn vào danh sách
+                favorite_list.append({
+                    "food_id": fav["food_id"],
+                    "created_at": fav["created_at"],
+                    "recipe_details": {
+                        "title": recipe["title"] if recipe else None,
+                        "type0fgroup": recipe["type0fgroup"] if recipe else None,
+                        "typeoffood": recipe["typeoffood"] if recipe else None,
+                        "ingredient": recipe["ingredient"] if recipe else None,
+                        "methob": recipe["methob"] if recipe else None,
+                        "description": recipe["description"] if recipe else None,
+                        "image_path": recipe["image_path"] if recipe else None,
+                        "createdAt": recipe["createdAt"] if recipe else None,
+                    }
+                })
+            
+            return jsonify({
+                "message": "Favorites retrieved successfully!",
+                "favorites": favorite_list
+            }), 200
+        except Exception as e:
+            return jsonify({"error": str(e)}), 500
+    else:
+        return jsonify({"message": "Unauthorized"}), 401
+
+@app.route('/remove_favorite/<food_id>', methods=['DELETE'])
+@jwt_required()
+def remove_favorite(food_id):
+    email = get_jwt_identity()
+    if email:
+        try:
+            
+            if not food_id:
+                return jsonify({"error": "food_id is required"}), 400
+            
+            # Xóa món ăn khỏi bảng Favourites
+            result = db.Favourites.delete_one({"user_email": email, "food_id": food_id})
+            if result.deleted_count == 0:
+                return jsonify({"message": "Food not found in favorites"}), 404
+            
+            return jsonify({
+                "message": "Food removed from favorites successfully!",
+                "food_id": food_id
+            }), 200
+        except Exception as e:
+            return jsonify({"error": str(e)}), 500
+    else:
+        return jsonify({"message": "Unauthorized"}), 401
 
 @app.route('/editFood/<food_id>', methods=['PUT'])
 @jwt_required()
@@ -197,8 +324,8 @@ def edit_food(food_id):
         try:
             # Lấy dữ liệu từ form-data
             title = request.form.get('name')
-            type0fgroup = request.form.get('typeoffgroup')  # Assuming this is an ID
-            typeoffood = request.form.get('typeofffood')  # Assuming this is an ID
+            type0fgroup = request.form.get('type0fgroup')  # Assuming this is an ID
+            typeoffood = request.form.get('typeoffood')  # Assuming this is an ID
             description = request.form.get('description')
             ingredient = request.form.get('ingredient')
             methob = request.form.get('methob')
@@ -220,15 +347,17 @@ def edit_food(food_id):
             if methob:
                 update_data["methob"] = methob
             update_data["updatedAt"] =datetime.utcnow()
-            if description:
-              
+            
+            if description != "null":
+                print(description!=None)
                 nutrition = {}
                 try:
                     for item in description.split(','):
+                       
                         key, value = item.split(':')
-                        key_lower = key.strip().lower()
-                        if key_lower in features:
-                            nutrition[key_lower] = float(value.strip())
+                        print(value)
+                        if key in features:
+                            nutrition[key] = float(value.strip())
                 except ValueError:
                     return jsonify({"error": "Dữ liệu mô tả dinh dưỡng không hợp lệ!"}), 400
 
@@ -332,9 +461,14 @@ def get_dishes():
         # Pagination parameters
         page = int(request.args.get('page', 1))
         limit = int(request.args.get('limit', 12))
+        search = request.args.get('searchDish', '')
         # Calculate skip and fetch records
         skip = (page - 1) * limit
-        dishes = db.Recipes.find().sort("createdAt", -1).skip(skip).limit(limit)
+       # Nếu 'searchDish' có giá trị, thực hiện tìm kiếm, nếu không thì bỏ qua tìm kiếm
+        if search:
+            dishes = db.Recipes.find({"title": {"$regex": search, "$options": "i"}}).sort("createdAt", -1).skip((page - 1) * limit).limit(limit)
+        else:
+            dishes = db.Recipes.find().sort("createdAt", -1).skip((page - 1) * limit).limit(limit)
         
         # Get total records
         total_dishes = db.Recipes.count_documents({})
@@ -363,41 +497,70 @@ def get_dishes():
         })
     except Exception as e:
         return jsonify({"message": "Internal Server Error", "error": str(e),"auth":False}), 500
-@app.route('/recommand_dishes', methods=['POST'])
+
+
+@app.route('/recommand_dishes', methods=['GET'])
+@jwt_required()
 def recommand_dishes():
-    # Retrieve the status from the request JSON
-    status = request.json.get('status')
-    
-    # Filter the data based on the status
-    filtered_data = diseases[diseases['status'] == status]
-    print(filtered_data)
-    # If filtered_data is empty, return a response indicating no data found
-    if filtered_data.empty:
-        return jsonify({"message": "No data found for the given health condition."}), 404
-    
-    # Extract the nutritional values from the filtered data
-    row = filtered_data.iloc[0]  # Assuming you only need the first matching record
-    
-    # Extract the necessary features from the row
-    calories = row['Calo']
-    carbs = row['Carbohydrate']
-    protein = row['Protein']
-    fat = row['Fat']
-    fiber = row['Fiber']
-    sodium = row['Sodium']
-    vitamin_c = row['VitaminC']
-    purine = row['Purine']
-    sugar = row['Sugar']
-    cholesterol = row['Cholesterol']
-    iron = row['Iron']
-    
-    # Call the function to recommend dishes based on the extracted values
-    recommended_dishes = recommend_dishes_by_health( calories, carbs, protein, fat, fiber, sodium,
-        vitamin_c, purine, sugar, cholesterol, iron, status
-    )
-    
-    # Return the recommended dishes as a JSON response
-    return jsonify(recommended_dishes.to_dict(orient='records'))  # Converts DataFrame to list of dicts
+    email = get_jwt_identity()
+    if not email:
+        return jsonify({"message": "Unauthorized"}), 401
+
+    try:
+        # Retrieve the user data from the database based on email
+        user = db.users.find_one({"email": email})
+        # search = request.args.get('searchDish', '')
+        par = request.args.get('typeOfGroup', '')
+        print(par)
+        # Get the user's health conditions
+        user_health_conditions = user.get("statusHealth", [])
+        print(user)
+        if not user_health_conditions:
+            return jsonify({"message": "No health conditions found for the user."}), 400
+        
+        # Filter the diseases dataframe based on the user's health conditions
+        filtered_data = diseases[diseases['status'].isin(user_health_conditions)]
+        # print(filtered_data)
+        if filtered_data.empty:
+            return jsonify({"message": "No data found for the given health conditions."}), 404
+        
+        # Extract the nutritional values from the first matching row
+        row = filtered_data.iloc[0]
+        print(row)
+        nutrition_data = {
+            "calories": row['Calo'],
+            "carbs": row['Carbohydrate'],
+            "protein": row['Protein'],
+            "fat": row['Fat'],
+            "fiber": row['Fiber'],
+            "Sodium": row['Sodium'],
+            "VitaminC": row['VitaminC'],
+            "Purine": row['Purine'],
+            "sugar": row['Sugar'],
+            "Cholesterol": row['Cholesterol'],
+            "iron": row['Iron'],
+        }
+        
+        # Call the function to recommend dishes
+        recommended_dishes = recommend_dishes_by_health(**nutrition_data, typeOfGroup=par)
+        
+        # Extract list of IDs from the recommended dishes
+        recommended_ids = [ObjectId(dish['_id']) for dish in recommended_dishes.to_dict(orient='records')]
+        # print("Recommended IDs:", recommended_ids)  # Debug
+        
+        # Find the documents in the database that match these IDs
+        dishes_cursor = db.Recipes.find({"_id": {"$in": recommended_ids}})
+        dishes = list(dishes_cursor)  # Convert cursor to list
+
+        # Convert ObjectId to string for JSON serialization
+        for dish in dishes:
+            dish['_id'] = str(dish['_id'])
+        
+        # Return the dishes to the user
+        return jsonify({"data": dishes})
+        
+    except Exception as e:
+        return jsonify({"success": 0, "message": "Server error", "error": str(e)}), 500
 
 @app.route('/user_detail/<user_id>', methods=['GET'])
 @jwt_required()
@@ -439,76 +602,69 @@ def get_user_detail(user_id):
 
 
 
-@app.route("/change-password", methods=["put"])
+@app.route("/update-user-info", methods=["PUT"])
 @jwt_required()
-def change_password():
+def update_user_info():
     email = get_jwt_identity()
-    if email:
-        current_pwd = request.json.get('oldpas')
-        new_pwd = request.json.get('newpass')
-        
-        # Tìm người dùng trong MongoDB
-        user_collection = db.users
-        user_data = user_collection.find_one({"email": email})
+    if not email:
+        return jsonify({'success': False, "error": "Email is required"}), 400
 
-        if user_data and check_password_hash(user_data['password'], current_pwd):
-            # Cập nhật mật khẩu mới
+    # Lấy dữ liệu từ request
+    current_pwd = request.form.get('oldpass')
+    new_pwd = request.form.get('newpass')
+    new_username = request.form.get('username')
+    avatar_file = request.files.get('image')
+    print(current_pwd,new_pwd,avatar_file)
+    user_collection = db.users
+    user_data = user_collection.find_one({"email": email})
+
+    if not user_data:
+        return jsonify({'success': False, 'error': "User not found"}), 404
+
+    # Xử lý cập nhật mật khẩu
+    if current_pwd and new_pwd:
+        if check_password_hash(user_data['password'], current_pwd):
+            # Hash mật khẩu mới và cập nhật
             new_hashed_pwd = generate_password_hash(new_pwd)
             user_collection.update_one(
                 {"email": email},
                 {"$set": {"password": new_hashed_pwd}}
             )
-            return jsonify({'success': True})
         else:
-            return jsonify({'success': False, "error": "Current password is incorrect"})
-    else:
-        return jsonify({'success': False, "error": "Can't find user"})
-    
-@app.route("/changeUsername", methods=["Put"])
-@jwt_required()
-def change_username():
-    email = get_jwt_identity()
-    if email:
-        new_username = request.form.get('username')
-        user_collection = db.users
-        user_data = user_collection.find_one({"email": email})
-        realPath=""
-        if user_data:
-            # Đường dẫn mặc định để lưu ảnh đại diện
-            avatar_path = user_data.get('avatar', '')
+            return jsonify({'success': False, "error": "Current password is incorrect"}), 400
 
-            # Nếu có ảnh đại diện mới được tải lên
-            if 'image' in request.files:
-                current_avatar = request.files['image']
-                filename = secure_filename(current_avatar.filename)
-               
-                if filename:
-                    # Tạo đường dẫn lưu file
-                    avatar_path = os.path.join(app.config['UPLOAD_FOLDER'],"uploads/users", filename)
-                    current_avatar.save(avatar_path)
-                    realPath='static/uploads/users/'+filename
-            # Cập nhật tên người dùng và đường dẫn avatar mới
+    # Xử lý cập nhật tên người dùng
+    if new_username:
+        user_collection.update_one(
+            {"email": email},
+            {"$set": {"username": new_username}}
+        )
+
+    # Xử lý cập nhật avatar
+    real_path = user_data.get('avatar', '')
+    if avatar_file:
+        filename = secure_filename(avatar_file.filename)
+        if filename:
+            avatar_path = os.path.join(app.config['UPLOAD_FOLDER'], "uploads/users", filename)
+            avatar_file.save(avatar_path)
+            real_path = 'static/uploads/users/' + filename
             user_collection.update_one(
                 {"email": email},
-                {"$set": {"username": new_username, "avatar": realPath}}
+                {"$set": {"avatar": real_path}}
             )
 
-            # Lấy dữ liệu mới nhất sau khi cập nhật
-            updated_user = user_collection.find_one({"email": email})
-            data = {
-                "email": updated_user['email'],
-                "success": 1,
-                "role":updated_user["role"],
-                "username": updated_user['username'],
-                "avatar": updated_user['avatar'],
-                "date": updated_user.get('date', str(datetime.now())),
-                "access_token": "Bearer " + create_access_token(identity=updated_user['email'])
-            }
-            return jsonify({"data":data})
-        else:
-            return jsonify({'success': False, 'error': "User not found"})
-    else:
-        return jsonify({'success': False, 'error': "Email is required"})
+    # Lấy dữ liệu mới nhất sau khi cập nhật
+    updated_user = user_collection.find_one({"email": email})
+    data = {
+        "email": updated_user['email'],
+        "success": 1,
+        "role": updated_user["role"],
+        "username": updated_user['username'],
+        "avatar": updated_user['avatar'],
+        "date": updated_user.get('date', str(datetime.now())),
+        "access_token": "Bearer " + create_access_token(identity=updated_user['email'])
+    }
+    return jsonify({"data": data}), 200
 
 @app.route('/users', methods=['GET'])
 @jwt_required()
@@ -568,6 +724,48 @@ def get_all_users():
     except Exception as e:
         return jsonify({"message": "Internal Server Error", "error": str(e)}), 500
 
+@app.route('/infor_user', methods=['PUT'])
+@jwt_required()
+def infor_user():
+    email = get_jwt_identity()
+    if not email:
+        return jsonify({"message": "Unauthorized"}), 401
+    data = request.json
+
+    # Kiểm tra user_id hợp lệ
+    try:
+        user =  db.users.find_one({"email":email})
+        if not user:
+            return jsonify({"success": 0, "message": "User not found"}), 404
+    except Exception as e:
+        return jsonify({"success": 0, "message": "Invalid user ID", "error": str(e)}), 400
+
+    # Dữ liệu cần cập nhật
+    update_data = {
+        "gender": data.get("gender", user.get("gender")),
+        "statusHealth": data.get("statusHealth", user.get("statusHealth")),
+        "height": data.get("height", user.get("height")),
+        "weight": data.get("weight", user.get("weight")),
+        "updatedAt": datetime.utcnow(),
+        "new":False
+    }
+    print(data)
+    print(update_data)
+    try:
+        # Cập nhật thông tin người dùng
+        res= db.users.update_one({"email": email}, {"$set": update_data})
+        dataRes={
+             "email":user["email"],
+                        "role":user["role"],
+                        "username":user["username"],
+                        
+        }
+        dataRes.update(update_data)
+        print(res)
+        return jsonify({"data":dataRes,"success": 1, "message": "User updated successfully"})
+    except Exception as e:
+        return jsonify({"success": 0, "message": "Server error", "error": str(e)}), 500
+
 @app.route('/edit_user/<user_id>', methods=['PUT'])
 def edit_user(user_id):
     data = request.json
@@ -621,30 +819,33 @@ def delete_user(user_id):
 
     except Exception as e:
         return jsonify({"message": "Internal Server Error", "error": str(e)}), 500
-def recommend_dishes_by_health(calories, carbs, protein, fat, fiber, Sodium, VitaminC, Purine, sugar, Cholesterol, iron, health_condition=''):
+def recommend_dishes_by_health(calories, carbs, protein, fat, fiber, Sodium, VitaminC, Purine, sugar, Cholesterol, iron, typeOfGroup):
     data = pd.read_csv('Recipes.csv')
    
     # Convert categorical column 'Tình trạng sức khoẻ' to numerical
     # label_encoder = LabelEncoder()
     # data['status'] = label_encoder.fit_transform(data['status'])
-
+    filtered_data = data[data['type0fgroup'] == typeOfGroup]
     # Standardize the data
     scaler = StandardScaler()
-    data_scaled = scaler.fit_transform(data[features])
+    data_scaled = scaler.fit_transform(filtered_data[features])
 
     # Initialize the KNN model
-    knn_model = NearestNeighbors(n_neighbors=10, algorithm="brute", metric="cosine")
+    knn_model = NearestNeighbors(n_neighbors=30, algorithm="brute", metric="cosine")
     knn_model.fit(data_scaled)  # Fit the model on the entire dataset
+    
+    # filtered_data = data[data['status'] == health_condition]
     input_features_df = pd.DataFrame([[calories, carbs, protein, fat, fiber, Sodium, VitaminC, Purine, sugar, Cholesterol, iron]], columns=features)
-    distances, indices = knn_model.kneighbors(input_features_df)
+    input_features_scaled = scaler.transform(input_features_df)
+    distances, indices = knn_model.kneighbors(input_features_scaled)
 
     # Retrieve the recommended dishes
-    recommended_dishes = data.iloc[indices[0]]
+    recommended_dishes = filtered_data.iloc[indices[0]]
 
     # Select relevant columns for the output
-    return recommended_dishes[['title','type0fgroup','typeoffood']]
+    result = recommended_dishes[["_id"]]
 
-    
+    return result
 def backup_to_csv():
     # Lấy tất cả dữ liệu từ collection
     
@@ -653,10 +854,6 @@ def backup_to_csv():
     # Chuyển dữ liệu từ MongoDB sang DataFrame của pandas
     df = pd.DataFrame(list(data))
     
-    # Loại bỏ trường `_id` khỏi DataFrame (vì MongoDB sẽ tự động thêm trường này)
-    # if '_id' in df.columns:
-    #     df = df.drop(columns=['_id'])
-    
     # Đặt tên file với thời gian hiện tại
     filename = "Recipes.csv"
     
@@ -664,21 +861,7 @@ def backup_to_csv():
     df.to_csv(filename, index=False)
     print(f"Backup saved as {filename}")
 
-# Lập lịch sao lưu hàng ngày (ví dụ vào lúc 2:00 AM)
-# schedule.every().day.at("02:00").do(backup_to_csv)
-# schedule.every(10).minutes.do(backup_to_csv)
-# def run():
-#     while True:
-#         schedule.run_pending()
-#         time.sleep(1)
 if __name__ == '__main__':
-    # test_connection()
-    # from threading import Thread
-    # flask_thread = Thread(target=lambda: app.run(debug=True, use_reloader=False))
-    # flask_thread.start()
-    
-    # # Chạy scheduler
-    # run()
     app.run(host="0.0.0.0", port=os.environ.get(
         "FLASK_PORT"), debug=True)
 

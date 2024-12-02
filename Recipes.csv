@@ -21,29 +21,305 @@ Trong một bát lớn, cho cam, cà chua, hành tây, dưa leo và rau xà lác
 Nhẹ nhàng trộn đều các nguyên liệu để sốt dầu giấm thấm đều vào rau củ và cam.
 Thưởng thức:
 Cho salad ra đĩa, rắc một ít rau mùi lên trên để tăng thêm hương vị.
-<<<<<<< HEAD
 Thưởng thức ngay khi salad còn tươi ngon.",2024-11-28 07:53:04.878,2024-11-28 07:53:04.878
-67441138c36b585cf943d3f7,Sinh tố cam cà rốt táo,Đồ uống,Sinh tố,Tiểu đường,135.0,33.0,1.0,0.4,6.0,0.075,0.08,0.015,22.5,0.0,0.00075,,,,,2024-11-28 07:53:04.878,2024-11-28 07:53:04.878
-67441138c36b585cf943d3f8,Cá hồi sốt cam sành,Món ăn,Món chính,Tiểu đường,275.0,11.0,21.0,17.0,0.5,0.5,0.025,0.175,7.5,0.07,0.0015,,,,,2024-11-28 07:53:04.878,2024-11-28 07:53:04.878
-67441138c36b585cf943d3f9,Hải sản sốt cam,Món ăn,Món chính,Tiểu đường,190.0,14.0,27.0,5.0,0.5,0.6,0.025,0.2,7.5,0.09,0.0025,,,,,2024-11-28 07:53:04.878,2024-11-28 07:53:04.878
-67441138c36b585cf943d3fa,Smoothie cải xoăn cam táo,Đồ uống,Sinh tố,Tiểu đường,165.0,38.0,3.0,2.0,7.0,0.075,0.09,0.015,22.5,0.0,0.0015,,,,,2024-11-28 07:53:04.878,2024-11-28 07:53:04.878
-67441138c36b585cf943d3fb,Salad mận mùa hè,Món ăn,Món khác,Tiểu đường,250.0,23.0,23.0,11.0,4.0,0.15,0.035,0.015,17.5,0.0,0.00075,,,,,2024-11-28 07:53:04.878,2024-11-28 07:53:04.878
-67441138c36b585cf943d3fc,Salad mận và trái cây thập cẩm,Món ăn,Món khác,Tiểu đường,200.0,33.0,2.0,7.0,5.0,0.15,0.06,0.015,25.0,0.0,0.0015,,,,,2024-11-28 07:53:04.878,2024-11-28 07:53:04.878
-67441138c36b585cf943d3fd,Vịt áp chảo sốt mận,Món ăn,Món chính,Tiểu đường,425.0,18.0,28.0,23.0,0.5,0.7,0.015,0.25,7.5,0.09,0.0025,,,,,2024-11-28 07:53:04.878,2024-11-28 07:53:04.878
-67441138c36b585cf943d3fe,Salad mận hạnh nhân sốt gừng,Món ăn,Món ăn,Tiểu đường,150.0,23.0,5.0,9.0,6.0,0.15,0.035,0.015,17.5,0.0,0.0015,null,static/uploads/dishes/added_4.png,null,null,2024-11-28 07:53:04.878,2024-11-28 08:08:04.583
-67441138c36b585cf943d3ff,Mận xóc da heo,Món ăn,Món khác,Tiểu đường,325.0,30.0,13.0,23.0,1.5,0.8,0.015,0.075,7.5,0.11,0.0015,,,,,2024-11-28 07:53:04.878,2024-11-28 07:53:04.878
-67441138c36b585cf943d400,Salad cồi sò điệp thanh long đỏ,Món ăn,Món khác,Tiểu đường,250.0,18.0,20.0,11.0,3.5,0.4,0.06,0.075,6.0,0.06,0.0025,,,,,2024-11-28 07:53:04.878,2024-11-28 07:53:04.878
-67441138c36b585cf943d401,Smoothie thanh long đỏ nhiệt đới,Đồ uống,Sinh tố,Tiểu đường,180.0,28.0,4.0,5.0,5.0,0.075,0.07,0.015,17.5,0.0,0.0015,,,,,2024-11-28 07:53:04.878,2024-11-28 07:53:04.878
+67441138c36b585cf943d3f7,Sinh tố cam cà rốt táo,Đồ uống,Sinh tố,Tiểu đường,135.0,33.0,1.0,0.4,6.0,0.075,0.08,0.015,22.5,0.0,0.00075,"Calo: 135, Carbohydrate: 33, Protein: 1, Fat: 0.4, Fiber: 6, Sodium: 0.075, VitaminC: 0.08, Purine: 0.015, Sugar: 22.5, Cholesterol: 0, Iron: 0.00075",static/uploads/dishes/sinh-to-cam-ca-rot-tao.jpg,"1 quả cam sành, gọt vỏ và tách múi;
+1 củ cà rốt nhỏ, gọt vỏ và cắt nhỏ;
+1 quả táo xanh, gọt vỏ, bỏ hạt và cắt miếng;
+1/2 quả chanh, vắt lấy nước cốt;
+1/2 cốc nước lọc (có thể điều chỉnh tùy ý);
+1 thìa cà phê hạt chia (tùy chọn, để tăng thêm chất xơ và dinh dưỡng).
+Đá viên (tùy chọn)","Chuẩn bị nguyên liệu:
+Gọt vỏ cam, tách múi và bỏ hạt.
+Gọt vỏ cà rốt và cắt nhỏ để dễ xay.
+Gọt vỏ táo, bỏ hạt và cắt miếng nhỏ.
+Xay sinh tố:
+Cho cam, cà rốt, táo, nước cốt chanh và nước lọc vào máy xay sinh tố.
+Xay nhuyễn hỗn hợp cho đến khi mịn. Nếu hỗn hợp quá đặc, bạn có thể thêm nước lọc để đạt được độ lỏng mong muốn.
+Nếu thích uống lạnh, bạn có thể thêm đá viên vào xay cùng.
+Thêm hạt chia (tùy chọn): Nếu sử dụng hạt chia, sau khi xay nhuyễn sinh tố, thêm hạt chia vào và khuấy đều. Để yên trong vài phút để hạt chia nở ra, tạo thêm độ sệt và tăng cường chất xơ cho sinh tố.
+Hoàn thành và thưởng thức: Đổ sinh tố ra ly và thưởng thức ngay. Món sinh tố này không chỉ tươi ngon mà còn giàu dinh dưỡng.",2024-11-28 07:53:04.878,2024-11-29 17:22:03.227
+67441138c36b585cf943d3f8,Cá hồi sốt cam sành,Món ăn,Món chính,Tiểu đường,275.0,11.0,21.0,17.0,0.5,0.5,0.025,0.175,7.5,0.07,0.0015,"Calo: 275, Carbohydrate: 11, Protein: 21, Fat: 17, Fiber: 0.5, Sodium: 0.5, VitaminC: 0.025, Purine: 0.175, Sugar: 7.5, Cholesterol: 0.07, Iron: 0.0015",static/uploads/dishes/ca-hoi-sot-cam.jpg,null,null,2024-11-28 07:53:04.878,2024-11-29 17:30:55.067
+67441138c36b585cf943d3f9,Hải sản sốt cam,Món ăn,Món chính,Tiểu đường,190.0,14.0,27.0,5.0,0.5,0.6,0.025,0.2,7.5,0.09,0.0025,"Calo: 190, Carbohydrate: 14, Protein: 27, Fat: 5, Fiber: 0.5, Sodium: 0.6, VitaminC: 0.025, Purine: 0.2, Sugar: 7.5, Cholesterol: 0.09, Iron: 0.0025",static/uploads/dishes/hai-san-sot-cam.jpg,"200g tôm tươi, bóc vỏ và bỏ chỉ lưng;
+200g mực tươi, làm sạch và cắt khoanh;
+2 quả cam sành, vắt lấy nước cốt;
+1/2 quả chanh, vắt lấy nước cốt;
+1 thìa canh dầu ô-liu;
+2 tép tỏi, băm nhuyễn;
+1 củ hành tím nhỏ, băm nhuyễn;
+1 thìa canh nước tương (hoặc nước mắm nhạt);
+1 muỗng canh đường cỏ ngọt stevia;
+1/2 thìa cà phê tiêu;
+1/2 thìa cà phê gừng băm nhuyễn;
+1 ít rau mùi (ngò rí), cắt nhỏ để trang trí.","Chuẩn bị nguyên liệu:
+Rửa sạch tôm và mực, để ráo nước.
+Vắt nước cốt cam và chanh, để riêng.
+Làm sốt cam: Trong một bát nhỏ, trộn đều nước cốt cam, nước cốt chanh, nước tương (hoặc nước mắm), đường ăn kiêng và tiêu.
+Chế biến hải sản:
+Đun nóng chảo trên lửa vừa và thêm dầu ô-liu.
+Cho tỏi băm và hành tím băm vào phi thơm.
+Thêm gừng băm vào, đảo đều trong khoảng 1 phút.
+Cho tôm và mực vào chảo, xào đều cho đến khi hải sản chuyển màu và săn lại (khoảng 3-4 phút).
+Nấu sốt cam:
+
+Đổ hỗn hợp sốt cam đã chuẩn bị vào chảo hải sản.
+Đun nhỏ lửa và khuấy đều để sốt thấm vào hải sản, nấu thêm khoảng 2-3 phút cho đến khi sốt hơi sệt lại.
+Hoàn thành và trang trí:
+Tắt bếp và cho hải sản sốt cam ra đĩa.
+Rắc một ít rau mùi (ngò rí) cắt nhỏ lên trên để trang trí.",2024-11-28 07:53:04.878,2024-11-29 17:05:25.174
+67441138c36b585cf943d3fa,Smoothie cải xoăn cam táo,Đồ uống,Sinh tố,Tiểu đường,165.0,38.0,3.0,2.0,7.0,0.075,0.09,0.015,22.5,0.0,0.0015,"Calo: 165, Carbohydrate: 38, Protein: 3, Fat: 2, Fiber: 7, Sodium: 0.075, VitaminC: 0.09, Purine: 0.015, Sugar: 22.5, Cholesterol: 0, Iron: 0.0015",static/uploads/dishes/Smoothie-cai-xoan-cam-tao.jpg,"1 quả cam sành, gọt vỏ và tách múi;
+1 quả táo xanh, gọt vỏ, bỏ hạt và cắt miếng;
+3 – 5 lá cải xoăn (kale), rửa sạch và cắt nhỏ;
+1/2 quả chanh, vắt lấy nước cốt;
+250 ml cốc nước lọc hoặc sữa hạnh nhân (có thể điều chỉnh tùy ý);
+1 muỗng cà phê đường cỏ ngọt stevia
+Đá viên (tùy chọn).","Chuẩn bị nguyên liệu:
+Gọt vỏ cam, tách múi và bỏ hạt.
+Gọt vỏ táo, bỏ hạt và cắt miếng nhỏ.
+Rửa sạch cải xoăn, cắt nhỏ.
+Xay smoothie:
+Cho cam, táo, cải xoăn, nước cốt chanh và nước lọc (hoặc sữa hạnh nhân) vào máy xay sinh tố.
+Xay nhuyễn hỗn hợp cho đến khi mịn. Nếu hỗn hợp quá đặc, bạn có thể thêm nước lọc để đạt được độ lỏng mong muốn.
+Nếu thích uống lạnh, bạn có thể thêm đá viên vào xay cùng.
+Khi hỗn hợp đã hòa quyện, đổ smoothie ra ly và thưởng thức ngay.",2024-11-28 07:53:04.878,2024-11-29 16:51:51.584
+67441138c36b585cf943d3fb,Salad mận mùa hè,Món ăn,Món khác,Tiểu đường,250.0,23.0,23.0,11.0,4.0,0.15,0.035,0.015,17.5,0.0,0.00075,"Calo: 250, Carbohydrate: 23, Protein: 23, Fat: 11, Fiber: 4, Sodium: 0.15, VitaminC: 0.035, Purine: 0.015, Sugar: 17.5, Cholesterol: 0, Iron: 0.00075",static/uploads/dishes/Salad-man-mua-he.jpg,"200g ức gà, không da, cắt lát mỏng;
+5 quả mận, gọt vỏ và cắt lát;
+50g rau mầm;
+50g cải bó xôi;
+50g cải xoăn, xé nhỏ;
+50g xà lách romaine, cắt nhỏ;
+1 quả dưa leo, cắt lát mỏng;
+3 – 5 quả cà chua bi, cắt lát hoặc bổ múi cau;
+1 lọ (85g) sữa chua không đường;
+2 thìa canh giấm táo hoặc giấm gạo;
+2 thìa canh dầu ô-liu;
+1 tép tỏi, băm nhuyễn;
+1/2 thìa cà phê đường cỏ ngọt stevia;
+1/4 thìa cà phê muối;
+1/4 thìa cà phê tiêu.","Chuẩn bị ức gà:
+Ướp ức gà với một chút muối và tiêu.
+Nướng hoặc áp chảo ức gà trên lửa vừa cho đến khi chín vàng và không còn màu hồng ở bên trong (khoảng 5-7 phút mỗi mặt).
+Để nguội, sau đó cắt lát mỏng.
+Chuẩn bị rau củ và trái cây:
+Rửa sạch và để ráo các loại rau mầm, cải bó xôi, cải xoăn, xà lách romaine.
+Gọt vỏ và cắt lát mận.
+Cắt lát mỏng dưa leo và cà chua.
+Làm sốt sữa chua: Trong một bát nhỏ, trộn đều sữa chua không đường, giấm táo (hoặc giấm gạo), dầu ô-liu, tỏi băm, đường ăn kiêng, muối và tiêu. Khuấy đều cho đến khi các thành phần hòa quyện vào nhau.
+Trộn salad:
+Trong một bát lớn, cho rau mầm, cải bó xôi, cải xoăn và xà lách romaine vào. Thêm dưa leo, cà chua và mận đã cắt lát.
+Cho ức gà đã cắt lát vào bát rau củ.
+Rưới đều sốt sữa chua lên trên các nguyên liệu trong bát.
+Nhẹ nhàng trộn đều tất cả các thành phần để sốt thấm đều vào rau củ và ức gà.
+Hoàn thành và thưởng thức:
+Cho salad ra đĩa, có thể thêm một ít rau mầm lên trên để trang trí.
+Thưởng thức ngay khi salad còn tươi ngon.",2024-11-28 07:53:04.878,2024-11-29 17:28:29.309
+67441138c36b585cf943d3fc,Salad mận và trái cây thập cẩm,Món ăn,Món khác,Tiểu đường,200.0,33.0,2.0,7.0,5.0,0.15,0.06,0.015,25.0,0.0,0.0015,"Calo: 200, Carbohydrate: 33, Protein: 2, Fat: 7, Fiber: 5, Sodium: 0.15, VitaminC: 0.06, Purine: 0.15, Sugar: 25, Cholesterol: 0, Iron: 0.0015",static/uploads/dishes/salad-man-trai-cay-thap-cam.jpg,"3 quả mận, gọt vỏ và cắt lát;
+1/2 quả táo xanh, gọt vỏ, bỏ hạt và cắt lát;
+1/2 quả cam Mỹ, gọt vỏ, tách múi và cắt miếng;
+3 trái dâu tây, cắt lát;
+1 miếng dưa hấu, cắt thành nhiều múi nhỏ;
+85g sốt mayonnaise loại không đường, ít béo;
+1/2 thìa canh đường cỏ ngọt stevia.","Gọt vỏ và cắt lát mận, táo; tách múi và cắt miếng cam; rửa sạch và cắt lát dâu tây, dưa hấu.
+Trộn đều sốt mayonnaise với đường ăn kiêng trong một bát nhỏ.
+Cho tất cả trái cây vào một bát lớn, rưới sốt mayonnaise lên trên trái cây và trộn đều.
+Cho salad ra đĩa và thưởng thức ngay.",2024-11-28 07:53:04.878,2024-11-29 17:48:32.211
+67441138c36b585cf943d3fd,Vịt áp chảo sốt mận,Món ăn,Món chính,Tiểu đường,425.0,18.0,28.0,23.0,0.5,0.7,0.015,0.25,7.5,0.09,0.0025,"Calo: 425, Carbohydrate: 18, Protein: 28, Fat: 23, Fiber: 0.5, Sodium: 0.7, VitaminC: 0.015, Purine: 0.25, Sugar: 7.5, Cholesterol: 0.09, Iron: 0.0025",static/uploads/dishes/Vit-ap-chao-sot-man.jpg,"2 ức vịt còn nguyên da;
+5 – 6 quả mận Hà Nội, gọt vỏ và cắt miếng;
+2 – 3 nhánh cỏ xạ hương (thyme);
+1 hoa hồi;
+1 củ hành tím, băm nhuyễn;
+115 ml rượu vang đỏ;
+115 ml cốc nước bò hầm;
+1 thìa canh dầu ô-liu;
+1 thìa canh bơ thực vật;
+Gia vị: Muối, tiêu, đường cỏ ngọt stevia (lượng vừa đủ).","Chuẩn bị ức vịt:
+Rửa sạch và lau khô ức vịt.
+Dùng dao khứa nhẹ lên da vịt để tạo các đường chéo, giúp mỡ thừa chảy ra khi áp chảo.
+Ướp ức vịt với muối và tiêu, để thấm gia vị khoảng 15 phút.
+Áp chảo ức vịt:
+Đun nóng chảo không dính với dầu ô-liu trên lửa vừa.
+Cho ức vịt vào chảo, phần da xuống trước. Áp chảo khoảng 5 – 7 phút cho đến khi da vàng giòn và mỡ thừa chảy ra.
+Lật ức vịt và áp chảo thêm 3 – 5 phút cho đến khi chín tới.
+Lấy ức vịt ra khỏi chảo, để nguội vài phút rồi cắt lát mỏng.
+Làm sốt mận:
+Trong cùng chảo, thêm bơ thực vật.
+Phi thơm hành tím băm nhuyễn, thêm cỏ xạ hương và hoa hồi vào chảo.
+Cho mận cắt miếng vào xào đều, thêm đường cỏ ngọt stevia, rượu vang đỏ và nước bò hầm.
+Đun nhỏ lửa cho đến khi mận mềm và sốt sệt lại (khoảng 10 – 15 phút). Lọc bỏ cỏ xạ hương và hoa hồi ra khỏi sốt.
+Hoàn thành món ăn:
+Cho ức vịt đã cắt lát ra đĩa, rưới sốt mận lên trên hoặc rưới ra xung quanh.
+Trang trí với vài nhánh cỏ xạ hương tươi (nếu có) và thưởng thức ngay khi còn nóng.",2024-11-28 07:53:04.878,2024-11-29 17:00:25.084
+67441138c36b585cf943d3fe,Salad mận hạnh nhân sốt gừng,Món ăn,Món ăn,Tiểu đường,150.0,23.0,5.0,9.0,6.0,0.15,0.035,0.015,17.5,0.0,0.0015,"Calo: 150, Carbohydrate: 23, Protein: 5, Fat: 9, Fiber: 6, Sodium: 0.15, VitaminC: 0.035, Purine: 0.015, Sugar: 17.5, Cholesterol: 0, Iron: 0.0015",static/uploads/dishes/salad-man-sot-gung.jpg,"50g mận Hà Nội;
+1 muỗng canh đường cỏ ngọt stevia;
+1 quả chanh, vắt lấy nước cốt;
+1 muỗng canh gừng, cạo vỏ và băm nhuyễn;
+10g ngò tây, rửa sạch và cắt nhỏ;
+2 muỗng canh hạt hạnh nhân lát;
+30g hạt lúa mì bulgur;
+Gia vị: Muối, tiêu, dầu cải (hoặc dầu ô-liu).","Sơ chế nguyên liệu:
+Rửa sạch mận, gọt bỏ vỏ và cắt thành múi cau.
+Rửa sạch ngò tây và cắt nhỏ.
+Nấu chín hạt lúa mì bulgur, sau đó vớt ra để ráo nước.
+Vắt chanh lấy nước cốt, gừng cạo vỏ và băm hoặc bào nhuyễn.
+Làm nước sốt gừng: Trộn đều 1 muỗng gừng băm nhuyễn với 2 muỗng canh nước cốt chanh, 3 muỗng canh dầu cải (hoặc dầu ô-liu), 1 muỗng canh đường cỏ ngọt, 1/4 muỗng cà phê muối và 1/4 muỗng cà phê tiêu trong một bát nhỏ.
+
+Trộn salad:
+Cho ngò tây băm nhỏ, mận hậu, hạnh nhân lát và lúa mì bulgur vào tô.
+Rưới nước sốt gừng lên và trộn đều.",2024-11-28 07:53:04.878,2024-11-29 16:56:51.155
+67441138c36b585cf943d3ff,Mận xóc da heo,Món ăn,Món khác,Tiểu đường,325.0,30.0,13.0,23.0,1.5,0.8,0.015,0.075,7.5,0.11,0.0015,"Calo: 325, Carbohydrate: 30, Protein: 13, Fat: 23, Fiber: 1.5, Sodium: 0.8, VitaminC: 0.015, Purine: 0.75, Sugar: 7.5, Cholesterol: 0.11, Iron: 0.0015",static/uploads/dishes/man-xoc-da-heo.jpg,"700g mận Hà Nội;
+500g da heo
+20g lá chanh khô;
+50g rau răm tươi;
+30g tép khô;
+50g sả;
+10g ớt hiểm;
+Gia vị: 50 ml giấm, 50g đường cỏ ngọt stevia, muối, 10 ml rượu trắng, 50ml nước mắm, 2 củ gừng, 10g ớt khô.","Sơ chế mận:
+Rửa sạch mận, ngâm trong thau nước với 10g muối khoảng 10 phút.
+Chẻ mận làm đôi, bỏ hạt và cắt thành lát mỏng khoảng 0.5 cm.
+Sơ chế da heo:
+Chà xát da heo bằng hỗn hợp 2 muỗng canh giấm và 1 muỗng canh muối, cạo sạch lông, bỏ mỡ dính trên da.
+Rửa sạch với nước nhiều lần và để ráo.
+Cuộn tròn da heo, dùng dây buộc lại cho cố định.
+Sơ chế các nguyên liệu khác:
+Rửa sạch sả và thái lát.
+Rửa sạch gừng, cạo vỏ và băm nhuyễn.
+Rửa sạch lá chanh / ớt / rau răm. Riêng ớt và chanh cắt lát;
+Luộc da heo:
+Bắc nồi nước lên bếp, thêm sả, gừng thái lát, lá chanh, rượu trắng và cuộn da heo vào nồi.
+Luộc khoảng 30 phút cho đến khi da heo mềm, vớt ra thau nước đá ngâm 10 phút, sau đó để ráo.
+Để da heo trong tủ lạnh ít nhất 15 phút, sau đó thái thành lát mỏng.
+Làm nước sốt:
+Cho 50 ml nước mắm và 50g đường vào nồi, khuấy đều cho tan, đun sôi rồi tắt bếp, để nguội.
+Khi nước mắm nguội, thêm 10g ớt hiểm vào khuấy đều.
+Làm mận xóc da heo: 
+Cho mận và da heo vào lọ nhựa to, thêm 30g tép khô, 10g ớt khô và 10g rau răm cắt nhỏ. Rưới nước sốt lên và xóc đều, sau đó bày ra đĩa.",2024-11-28 07:53:04.878,2024-11-29 17:08:52.168
+67441138c36b585cf943d400,Salad cồi sò điệp thanh long đỏ,Món ăn,Món ăn,Tiểu đường,250.0,18.0,20.0,11.0,3.5,0.4,0.06,0.075,6.0,0.06,0.0025,null,static/uploads/dishes/Salad-coi-so-diep-thanh-long-do.jpg,"200g cồi sò điệp;
+1 cây cần tây, cắt khúc nhỏ;
+1/2 củ hành tây, thái mỏng;
+1 quả thanh long đỏ, gọt vỏ và cắt miếng;
+2 muỗng canh sốt mayonnaise (có thể dùng loại ít béo hoặc thay thế bằng sữa chua không đường);
+2 muỗng canh rượu trắng;
+1 ít ngò tây, cắt nhỏ;
+1 muỗng canh bơ thực vật.","Sơ chế cồi sò điệp: Rửa sạch cồi sò điệp với nước, sau đó ngâm trong rượu trắng khoảng 10 phút để khử mùi tanh. Rửa lại với nước sạch và để ráo.
+Chuẩn bị nguyên liệu:
+Cắt cần tây thành khúc nhỏ.
+Thái mỏng hành tây.
+Gọt vỏ và cắt miếng thanh long đỏ.
+Cắt nhỏ ngò tây.
+Áp chảo cồi sò điệp:
+Đun nóng chảo với bơ thực vật trên lửa vừa.
+Cho cồi sò điệp vào áp chảo mỗi mặt khoảng 2-3 phút cho đến khi chín vàng và thơm. Sau đó, lấy ra để nguội.
+Làm nước sốt: Trộn sốt mayonnaise (hoặc sữa chua không đường) với một chút nước cốt chanh, muối và tiêu cho vừa ăn.
+Trộn salad:
+Trong một bát lớn, cho cần tây, hành tây, thanh long đỏ và cồi sò điệp đã áp chảo vào.
+Rưới nước sốt lên trên và trộn đều.
+Hoàn thành và trang trí:
+Cho salad ra đĩa, rắc ngò tây cắt nhỏ lên trên để trang trí.
+Thưởng thức ngay khi salad còn tươi ngon.",2024-11-28 07:53:04.878,2024-11-28 11:21:37.436
+67441138c36b585cf943d401,Smoothie thanh long đỏ nhiệt đới,Đồ uống,Sinh tố,Tiểu đường,180.0,28.0,4.0,5.0,5.0,0.075,0.07,0.015,17.5,0.0,0.0015,"Calo: 180, Carbohydrate: 28, Protein: 4, Fat: 5, Fiber: 5, Sodium: 0.075, VitaminC: 0.07, Purine: 0.015, Sugar: 17.5, Cholesterol: 0, Iron: 0.0015",static/uploads/dishes/smoothie-thanh-long-do.jpg,"1/2 quả thanh long đỏ, gọt vỏ và cắt miếng;
+1/2 quả chuối, cắt lát (có thể dùng chuối chín vừa để kiểm soát lượng đường);
+1 quả kiwi, gọt vỏ và cắt miếng;
+1 thìa canh hạt chia;
+1 cốc sữa hạnh nhân không đường.","Chuẩn bị nguyên liệu:
+Gọt vỏ và cắt miếng thanh long đỏ.
+Gọt vỏ và cắt miếng kiwi.
+Cắt lát chuối.
+Làm smoothie:
+Cho thanh long đỏ, chuối, kiwi và sữa hạnh nhân không đường vào máy xay sinh tố.
+Xay nhuyễn cho đến khi hỗn hợp mịn.
+Thêm hạt chia vào và khuấy đều, hoặc có thể xay nhẹ để hạt chia phân đều trong hỗn hợp.
+Hoàn thành và thưởng thức:
+Đổ smoothie ra ly.
+Để hạt chia nở trong smoothie khoảng 5-10 phút trước khi thưởng thức.",2024-11-28 07:53:04.878,2024-11-29 17:26:01.072
 67441138c36b585cf943d402,Canh thanh long nấu tôm tươi,Món ăn,Món khác,Tiểu đường,200.0,13.0,18.0,4.0,2.5,0.5,0.04,0.125,4.0,0.08,0.0015,,,,,2024-11-28 07:53:04.878,2024-11-28 07:53:04.878
-67441138c36b585cf943d403,Thịt bò xào thanh long,Món ăn,Món chính,Tiểu đường,300.0,10.0,23.0,17.0,2.5,0.6,0.025,0.25,5.0,0.09,0.0035,,,,,2024-11-28 07:53:04.878,2024-11-28 07:53:04.878
-67441138c36b585cf943d404,Salad thanh long hồng giòn và dưa leo sốt dầu giấm,Món ăn,Món khác,Tiểu đường,120.0,23.0,2.0,6.0,4.0,0.25,0.05,0.015,6.0,0.0,0.0015,,,,,2024-11-28 07:53:04.878,2024-11-28 07:53:04.878
+67441138c36b585cf943d403,Thịt bò xào thanh long,Món ăn,Món chính,Tiểu đường,300.0,10.0,23.0,17.0,2.5,0.6,0.025,0.25,5.0,0.09,0.0035,"Calo: 300, Carbohydrate: 10, Protein: 23, Fat: 17, Fiber: 2.5, Sodium: 0.6, VitaminC: 0.025, Purine: 0.25, Sugar: 5, Cholesterol: 0.09, Iron: 0.0035",static/uploads/dishes/mon-ngon-la-thit-bo-xao-thanh-long.jpg,"200g thịt bò, thái lát mỏng;
+1/2 quả thanh long trắng, gọt vỏ và cắt miếng vừa ăn;
+1 củ hành tây, thái lát mỏng;
+2 – 3 nhánh hành lá, cắt khúc;
+2 tép tỏi, băm nhuyễn;
+1 thìa canh dầu ô-liu (hoặc dầu thực vật);
+Gia vị: Muối, tiêu, nước tương, hạt nêm, gừng băm nhuyễn, đường ăn kiêng (tùy chọn).","Sơ chế nguyên liệu:
+Thái lát thịt bò mỏng, ướp với một chút muối, tiêu, và gừng băm nhuyễn (tùy chọn), để thấm gia vị khoảng 15 phút.
+Gọt vỏ thanh long, cắt miếng vừa ăn.
+Thái lát hành tây mỏng.
+Cắt khúc hành lá.
+Băm nhuyễn tỏi.
+Xào thịt bò:
+Đun nóng chảo với dầu ô-liu trên lửa vừa.
+Cho tỏi băm vào phi thơm.
+Thêm thịt bò vào xào nhanh trong 2 – 3 phút đến khi thịt bò chín tới. Sau đó, lấy thịt bò ra khỏi chảo và để riêng.
+Xào hành tây và thanh long:
+Trong cùng chảo, thêm một chút dầu nếu cần.
+Cho hành tây vào xào cho đến khi hành tây mềm và chuyển sang màu hơi trong suốt (khoảng 2 – 3 phút).
+Thêm thanh long vào xào cùng hành tây trong khoảng 1 – 2 phút.
+Hoàn thành món ăn:
+Cho thịt bò trở lại chảo, xào cùng với hành tây và thanh long.
+Nêm nếm thêm với nước tương ít muối, hạt nêm, đường ăn kiêng và tiêu cho vừa ăn.
+Thêm hành lá vào, đảo đều rồi tắt bếp.
+Hoàn thành và thưởng thức:
+Cho thịt bò xào thanh long ra đĩa, trang trí thêm một chút hành lá lên trên.
+Thưởng thức ngay khi món ăn còn nóng.",2024-11-28 07:53:04.878,2024-11-29 17:41:17.087
+67441138c36b585cf943d404,Salad thanh long hồng giòn và dưa leo sốt dầu giấm,Món ăn,Món khác,Tiểu đường,120.0,23.0,2.0,6.0,4.0,0.25,0.05,0.015,6.0,0.0,0.0015,"Calo: 120, Carbohydrate: 23, Protein: 2, Fat: 6, Fiber: 4, Sodium: 0.25, VitaminC: 0.05, Purine: 0.015, Sugar: 6, Cholesterol: 0, Iron: 0.0015",static/uploads/dishes/Salad-thanh-long-hong-gion-va-dua-leo-sot-dau-giam.jpg,"1/2 quả thanh long trắng, gọt vỏ và cắt miếng vuông;
+1 quả hồng giòn, gọt vỏ và cắt lát mỏng;
+1 quả dưa leo, rửa sạch và thái lát mỏng;
+1/2 củ hành tây, thái lát mỏng;
+Rau mùi (ngò rí), rửa sạch và cắt nhỏ;
+2 muỗng canh dầu ô-liu (hoặc dầu hạt cải);
+1 muỗng canh giấm táo (hoặc giấm gạo);
+1/2 muỗng canh nước cốt chanh;
+1/2 muỗng canh đường cỏ ngọt stevia;
+1/4 muỗng cà phê muối;
+1/4 muỗng cà phê tiêu.","Sơ chế nguyên liệu:
+Gọt vỏ và cắt miếng vuông thanh long.
+Gọt vỏ và cắt lát mỏng hồng giòn.
+Rửa sạch và thái lát mỏng dưa leo.
+Thái lát mỏng hành tây.
+Rửa sạch và cắt nhỏ rau mùi (ngò rí).
+Làm nước sốt dầu giấm: Trong một bát nhỏ, trộn đều dầu ô-liu, giấm táo, nước cốt chanh, mật ong, muối và tiêu. Khuấy đều cho đến khi các thành phần hòa quyện vào nhau.
+Trộn salad:
+Trong một bát lớn, cho thanh long, hồng giòn, dưa leo và hành tây vào.
+Rưới nước sốt dầu giấm lên trên các nguyên liệu.
+Nhẹ nhàng trộn đều để các nguyên liệu thấm đều nước sốt.
+Cho salad ra đĩa, rắc rau mùi (ngò rí) cắt nhỏ lên trên để trang trí.
+Thưởng thức ngay khi salad còn tươi mát.",2024-11-28 07:53:04.878,2024-12-01 07:41:20.363
 67441138c36b585cf943d405,Canh chuối xanh nấu tôm thịt,Món ăn,Món khác,Tiểu đường,400.0,38.0,20.0,19.0,3.5,0.6,0.025,0.125,3.0,0.07,0.0025,,,,,2024-11-28 07:53:04.878,2024-11-28 07:53:04.878
 67441138c36b585cf943d406,Cà ri tôm chuối sáp,Món ăn,Món chính,Tiểu đường,200.0,28.0,15.0,5.0,4.5,0.7,0.04,0.175,6.0,0.08,0.0025,,,,,2024-11-28 07:53:04.878,2024-11-28 07:53:04.878
-67441138c36b585cf943d407,Bánh chuối yến mạch,Món ăn,Ăn vặt,Tiểu đường,250.0,40.0,5.0,9.0,6.0,0.4,0.015,0.015,12.5,0.025,0.0025,,,,,2024-11-28 07:53:04.878,2024-11-28 07:53:04.878
+67441138c36b585cf943d407,Bánh chuối yến mạch,Món ăn,Ăn vặt,Tiểu đường,250.0,40.0,5.0,9.0,6.0,0.4,0.015,0.015,12.5,0.025,0.0025,"Calo: 250, Carbohydrate: 40, Protein: 5, Fat: 9, Fiber: 6, Sodium: 0.4, VitaminC: 0.015, Purine: 0.015, Sugar: 12.5, Cholesterol: 0.025, Iron: 0.0025",static/uploads/dishes/banh-chuoi-yen-mach.jpg,"4 quả chuối chín vừa, 2 quả trứng gà, 20g yến mạch cán dẹt, 1 hộp sữa chua không đường, 2g baking soda, 2g baking powder, các loại hạt tùy thích (hạt điều, hạnh nhân,…).","Dầm chuối và trứng gà cho nhuyễn rồi trộn đều với sữa chua. Sau đó cho yến mạch và các loại hạt vào trộn đều;
+Làm nóng lò trước ở nhiệt độ 200 độ C trong 10 phút. Khi lò còn 5 phút, thêm baking powder, baking soda vào hỗn hợp trứng bột ở bên ngoài, trộn đều rồi đổ vào khuôn;
+Nướng bánh dưới 160 độ C trong 20 – 25 phút. Sau đó, chỉnh lên 180 độ C và nướng thêm 5 phút nữa. Khi bánh chín vàng đều, lấy ra và thưởng thức.",2024-11-28 07:53:04.878,2024-11-29 17:35:20.108
 67441138c36b585cf943d408,Kem chuối dâu tây,Món ăn,Ăn vặt,Tiểu đường,150.0,25.0,2.0,6.0,3.5,0.15,0.04,0.015,17.5,0.025,0.0015,,,,,2024-11-28 07:53:04.878,2024-11-28 07:53:04.878
-67441138c36b585cf943d409,Bánh mì chuối,Món ăn,Món khác,Tiểu đường,300.0,50.0,6.0,11.0,4.5,0.5,0.015,0.015,15.0,0.035,0.0025,,,,,2024-11-28 07:53:04.878,2024-11-28 07:53:04.878
+67441138c36b585cf943d409,Bánh mì chuối,Món ăn,Món khác,Tiểu đường,300.0,50.0,6.0,11.0,4.5,0.5,0.015,0.015,15.0,0.035,0.0025,"Calo: 300, Carbohydrate: 50, Protein: 6, Fat: 11, Fiber: 4.5, Sodium: 0.5, VitaminC: 0.015, Purine: 0.015, Sugar: 15, Cholesterol: 0.035, Iron: 0.0025",static/uploads/dishes/banh-mi-chuoi.jpg,"4 quả chuối chín, 30 ml dầu ô-liu, 220g bơ tách béo, 2 lòng trắng trứng, 2 – 3 giọt vani, 5g đường ăn kiêng, 240g bột mì đa dụng, 20g hạt lanh.","Làm nóng lò ở nhiệt độ 180 độ C trong 15 phút. Trong lúc đó, nghiền nhuyễn chuối rồi cho dầu ô-liu, bơ, lòng trắng trứng, vani và đường ăn kiêng vào trộn đều;
+Thêm bột làm bánh, hạt lanh vào tô, tiếp tục trộn cho đến khi hỗn hợp hòa quyện. Sau đó, đổ hỗn hợp vào khuôn bánh mì;
+Nướng bánh dưới 200 độ C trong vào 20 phút. Sau đó, lấy bánh ra, để nguội và thưởng thức.",2024-11-28 07:53:04.878,2024-11-29 17:38:34.103
 67441138c36b585cf943d40a,Gỏi đu đủ xanh trộn gà xé và cà rốt,Món ăn,Món chính,Tiểu đường,180.0,15.0,20.0,5.0,5.0,0.4,0.06,0.025,6.0,0.04,0.0015,,,,,2024-11-28 07:53:04.878,2024-11-28 07:53:04.878
-67441138c36b585cf943d40b,Canh đu đủ hầm xương,Món ăn,Món khác,Tiểu đường,150.0,11.0,10.0,5.0,2.5,0.6,0.04,0.125,3.0,0.06,0.0015,,,,,2024-11-28 07:53:04.878,2024-11-28 07:53:04.878
+67441138c36b585cf943d40b,Canh đu đủ hầm xương,Món ăn,Món khác,Tiểu đường,150.0,11.0,10.0,5.0,2.5,0.6,0.04,0.125,3.0,0.06,0.0015,"Calo: 150, Carbohydrate: 11, Protein: 10, Fat: 5, Fiber: 2.5, Sodium: 0.6, VitaminC: 0.04, Purine: 0.125, Sugar: 3, Cholesterol: 0.06, Iron: 0.0015",static/uploads/dishes/canh-du-du-ham-xuong.jpg,"500g xương heo hoặc xương gà;
+1/2 quả đu đủ chín vừa (vỏ nửa vàng nửa xanh), gọt vỏ, bỏ hạt, cắt miếng vừa ăn;
+1 củ hành tím, băm nhỏ;
+2 tép tỏi, băm nhỏ;
+1 củ cà rốt, gọt vỏ, cắt miếng vừa ăn (tùy chọn);
+1/4 củ hành tây, cắt múi cau;
+2 nhánh hành lá, cắt nhỏ;
+1 ít ngò rí, rửa sạch, cắt nhỏ;
+1 muỗng canh dầu ô-liu hoặc dầu thực vật;
+Gia vị: Muối, tiêu, đường ăn kiêng và nước mắm (lượng vừa đủ).","Chuẩn bị xương: Rửa sạch xương heo hoặc xương gà, chần qua nước sôi để loại bỏ tạp chất, sau đó rửa lại với nước lạnh.
+Chuẩn bị đu đủ và cà rốt:
+Gọt vỏ đu đủ xanh, bỏ hạt, cắt miếng vừa ăn.
+Gọt vỏ cà rốt, cắt miếng vừa ăn (nếu dùng).
+Chuẩn bị các nguyên liệu khác:
+Băm nhỏ hành tím và tỏi.
+Cắt múi cau hành tây.
+Rửa sạch và cắt nhỏ hành lá và ngò rí.
+Nấu canh:
+Đun nóng dầu trong nồi lớn, cho hành tím và tỏi băm vào phi thơm.
+Cho xương heo hoặc xương gà vào nồi, đảo đều với hành tỏi.
+Thêm khoảng 1.5 – 2 lít nước vào nồi, đun sôi. Hớt bọt để nước dùng trong.
+Hạ lửa nhỏ, hầm xương trong khoảng 30-45 phút cho đến khi xương mềm và nước dùng ngọt.
+Sau khi hầm xương, cho đu đủ và cà rốt vào nồi.
+Thêm hành tây cắt múi cau vào.
+Nêm nếm với muối, tiêu và hạt nêm ít muối cho vừa ăn.
+Đun sôi trở lại, sau đó giảm lửa nhỏ và nấu thêm khoảng 10 – 15 phút cho đến khi đu đủ và cà rốt chín mềm.
+Hoàn thành:
+Khi canh đã chín, thêm hành lá và ngò rí cắt nhỏ vào nồi, khuấy đều rồi tắt bếp.
+Múc canh ra tô, dùng nóng. Món canh đu đủ hầm xương này có thể dùng kèm với cơm gạo lứt hoặc bánh mì nâu.",2024-11-28 07:53:04.878,2024-11-29 17:44:15.509
 67441138c36b585cf943d40c,Canh cá đu đủ,Món ăn,Món khác,Tiểu đường,200.0,15.0,20.0,6.0,2.5,0.5,0.04,0.125,3.0,0.06,0.0015,,,,,2024-11-28 07:53:04.878,2024-11-28 07:53:04.878
 67441138c36b585cf943d40d,Gỏi đu đủ thịt bò,Món ăn,Món chính,Tiểu đường,250.0,20.0,23.0,9.0,4.0,0.5,0.05,0.175,6.0,0.07,0.0025,,,,,2024-11-28 07:53:04.878,2024-11-28 07:53:04.878
 67441138c36b585cf943d40e,Salad đu đủ chín và bơ,Món ăn,Món khác,Tiểu đường,200.0,15.0,2.0,15.0,6.0,0.25,0.07,0.015,8.5,0.0,0.0015,,,,,2024-11-28 07:53:04.878,2024-11-28 07:53:04.878
@@ -52,7 +328,6 @@ Thưởng thức ngay khi salad còn tươi ngon.",2024-11-28 07:53:04.878,2024-
 67441138c36b585cf943d411,Thịt kho mít,Món ăn,Món chính,Tiểu đường,350.0,10.0,30.0,20.0,2.5,0.6,0.025,0.125,5.0,0.07,0.0025,,,,,2024-11-28 07:53:04.878,2024-11-28 07:53:04.878
 67441138c36b585cf943d412,Cá đối kho xơ mít,Món ăn,Món chính,Tiểu đường,250.0,8.0,25.0,10.0,2.5,0.6,0.025,0.125,4.0,0.06,0.0015,,,,,2024-11-28 07:53:04.878,2024-11-28 07:53:04.878
 67441138c36b585cf943d413,Xơ mít xào chua ngọt,Món ăn,Món chay,Tiểu đường,180.0,20.0,2.0,6.0,3.5,0.4,0.04,0.125,6.0,0.0,0.0015,,,,,2024-11-28 07:53:04.878,2024-11-28 07:53:04.878
-67441138c36b585cf943d414,Gỏi chôm chôm tôm thịt,Món ăn,Món chính,Tiểu đường,200.0,10.0,20.0,5.0,3.5,0.5,0.04,0.025,6.0,0.07,0.0015,,,,,2024-11-28 07:53:04.878,2024-11-28 07:53:04.878
 67441138c36b585cf943d415,Gỏi gà chôm chôm,Món ăn,Món chính,Tiểu đường,180.0,10.0,20.0,5.0,4.0,0.4,0.05,0.125,6.0,0.06,0.0015,,,,,2024-11-28 07:53:04.878,2024-11-28 07:53:04.878
 67441138c36b585cf943d416,Gà hấp chôm chôm,Món ăn,Món chính,Tiểu đường,400.0,20.0,35.0,15.0,2.5,0.5,0.025,0.125,4.0,0.07,0.0015,,,,,2024-11-28 07:53:04.878,2024-11-28 07:53:04.878
 67441138c36b585cf943d417,Canh chôm chôm nhồi thịt,Món ăn,Món khác,Tiểu đường,200.0,10.0,15.0,5.0,2.5,0.6,0.025,0.125,4.0,0.06,0.0015,,,,,2024-11-28 07:53:04.878,2024-11-28 07:53:04.878
@@ -93,7 +368,22 @@ Thưởng thức ngay khi salad còn tươi ngon.",2024-11-28 07:53:04.878,2024-
 67441138c36b585cf943d43a,Salad táo cá hồi sốt sữa chua,Món ăn,Món khác,Tiểu đường,250.0,15.0,20.0,10.0,3.0,0.4,0.03,0.03,6.0,0.1,0.004,,,,,2024-11-28 07:53:04.878,2024-11-28 07:53:04.878
 67441138c36b585cf943d43b,Bí đỏ um nấm,Món ăn,Món chay,Tiểu đường,100.0,10.0,5.0,4.0,3.0,0.3,0.02,0.01,3.0,0.0,0.002,,,,,2024-11-28 07:53:04.878,2024-11-28 07:53:04.878
 67441138c36b585cf943d43c,Canh bí đỏ nấu tôm thịt viên,Món ăn,Món khác,Tiểu đường,180.0,12.0,15.0,7.0,2.0,0.5,0.02,0.02,2.0,0.05,0.003,,,,,2024-11-28 07:53:04.878,2024-11-28 07:53:04.878
-67441138c36b585cf943d43d,Canh bí đỏ hầm đậu,Món ăn,Món khác,Tiểu đường,120.0,15.0,5.0,3.0,4.0,0.4,0.02,0.01,2.0,0.0,0.003,,,,,2024-11-28 07:53:04.878,2024-11-28 07:53:04.878
+67441138c36b585cf943d43d,Canh bí đỏ hầm đậu,Món ăn,Món khác,Tiểu đường,120.0,15.0,5.0,3.0,4.0,0.4,0.02,0.01,2.0,0.0,0.003,"Calo: 120, Carbohydrate: 15, Protein: 5, Fat: 3, Fiber: 4, Sodium: 0.4, VitaminC: 0.02, Purine: 0.01, Sugar: 2, Cholesterol: 0, Iron: 0.003",static/uploads/dishes/canh-bi-do-ham-dau.jpg,"Bí đỏ: 100g;
+Nấm bào ngư: 50g;
+Đậu phộng: 30g;
+Hạt nêm vị nấm: 2 muỗng cà phê;
+Đường ăn kiêng: 1/2 muỗng cà phê;
+Rau mùi (ngò): để trang trí.","Chuẩn bị nguyên liệu:
+Bí đỏ gọt vỏ, rửa sạch và cắt khúc vừa ăn.
+Luộc nấm bào ngư trong 5 phút để nấm giòn hơn, sau đó vớt ra để ráo.
+Rửa sạch đậu phộng, ngâm nước khoảng 30 phút cho mềm.
+Nấu đậu phộng:
+Giã nhuyễn đậu phộng, sau đó cho vào nồi hầm với nước. Khi đậu phộng sôi, nếu thấy bọt, vớt bọt ra.
+Để đậu phộng sôi khoảng 15 phút cho đến khi mềm.
+Nấu canh:
+Cho bí đỏ vào nồi đậu phộng đang sôi, tiếp tục nấu cho đến khi bí đỏ chín mềm.
+Thêm nấm bào ngư vào nồi, nêm 2 muỗng cà phê hạt nêm và 1/2 muỗng cà phê đường ăn kiêng. Nấu thêm khoảng 5 phút cho nấm chín và thấm gia vị.
+Hoàn thiện món ăn: Tắt bếp, múc canh ra tô, rắc thêm ít rau mùi (ngò) để trang trí.",2024-11-28 07:53:04.878,2024-12-01 12:45:36.671
 67441138c36b585cf943d43e,Bí đỏ hấp tôm mọc,Món ăn,Món chính,Tiểu đường,160.0,8.0,12.0,5.0,2.0,0.4,0.02,0.02,1.0,0.05,0.003,,,,,2024-11-28 07:53:04.878,2024-11-28 07:53:04.878
 67441138c36b585cf943d43f,Salad ức gà bí đỏ nướng,Món ăn,Món khác,Thừa cân,220.0,10.0,20.0,8.0,3.5,0.4,0.02,0.05,3.0,0.1,0.003,,,,,2024-11-28 07:53:04.878,2024-11-28 07:53:04.878
 67441138c36b585cf943d440,Canh tôm nấu với cà rốt bông cải,Món ăn,Món khác,Tiểu đường,150.0,10.0,20.0,3.0,3.0,0.5,0.03,0.02,2.0,0.05,0.003,,,,,2024-11-28 07:53:04.878,2024-11-28 07:53:04.878
@@ -149,7 +439,34 @@ Thưởng thức ngay khi salad còn tươi ngon.",2024-11-28 07:53:04.878,2024-
 67441138c36b585cf943d472,Bún sườn mọc chua,Món ăn,Món khác,Tiểu đường,350.0,40.0,25.0,10.0,2.0,0.6,0.01,0.02,2.0,0.05,0.003,,,,,2024-11-28 07:53:04.878,2024-11-28 07:53:04.878
 67441138c36b585cf943d473,Bún măng gà,Món ăn,Món khác,Tiểu đường,300.0,30.0,20.0,5.0,2.0,0.6,0.01,0.02,1.0,0.05,0.003,,,,,2024-11-28 07:53:04.878,2024-11-28 07:53:04.878
 67441138c36b585cf943d474,Bún ốc chuối đậu,Món ăn,Món khác,Tiểu đường,400.0,45.0,20.0,15.0,3.0,0.5,0.02,0.02,2.0,0.05,0.004,,,,,2024-11-28 07:53:04.878,2024-11-28 07:53:04.878
-67441138c36b585cf943d475,Bún cá ngừ,Món ăn,Món khác,Tiểu đường,350.0,30.0,25.0,10.0,2.0,0.5,0.01,0.03,1.0,0.1,0.004,,,,,2024-11-28 07:53:04.878,2024-11-28 07:53:04.878
+67441138c36b585cf943d475,Bún cá ngừ,Món ăn,Món khác,Tiểu đường,350.0,30.0,25.0,10.0,2.0,0.5,0.01,0.03,1.0,0.1,0.004,"Calo: 350, Carbohydrate: 30, Protein: 25, Fat: 10, Fiber: 2, Sodium: 0.5, VitaminC: 0.01, Purine: 0.03, Sugar: 1, Cholesterol: 0.1, Iron: 0.004",static/uploads/dishes/bun-ca-ngu.jpg," Cá ngừ 500 gr
+ Cà chua 2 quả
+ Thơm 1/4 quả
+ Nghệ 1 củ
+ Hành tím 4 củ
+ Sả cây 4 cây
+ Hành lá 2 nhánh
+ Ngò 1 ít
+ Nước mắm 3 muỗng canh
+ Dầu ăn 5 muỗng canh
+ Dầu điều 1 muỗng cà phê
+ Gia vị thông dụng 1 ít
+(đường/ muối/ bột ngọt/ hạt nêm/ tiêu xay)","Sơ chế nguyên liệu
+Cà chua rửa sạch rồi cắt múi cau, thơm rửa sạch cắt miếng vừa ăn. Hành ngò bạn cắt nhỏ, sả đập dập rồi cắt khúc, hành củ đập dập cắt nhỏ. Nghệ gọt bỏ vỏ, đập dập rồi cắt nhỏ.
+Ướp cá ngừ
+Bạn ướp cá ngừ với 2 muỗng cà phê hạt nêm, 1 muỗng cà phê muối, 1 muỗng cà phê bột ngọt, 1/2 muỗng cà phê tiêu xay, một vài lát ớt cắt nhỏ, nghệ cắt nhỏ, 1 muỗng canh nước mắm.
+Tiếp theo bạn đeo bao tay nilon rồi thoa gia vị cho cá được thấm đều, sau đó bạn ướp cá trong khoảng 20 phút.
+Chiên cá
+Bạn đặt chảo lên bếp rồi cho vào chảo 3 muỗng canh dầu ăn, đợi dầu nóng thì bạn cho cá vào chiên với lửa nhỏ. Bạn lật 2 bên mặt cá để cá được chín đều.
+Xào nguyên liệu phụ
+Bạn cho vào chảo 2 muỗng canh dầu ăn, đợi dầu nóng thì bạn cho hành băm, sả đập dập, nghệ vào rồi phi thơm. Tiếp theo bạn cho cà chua, thơm và 1 muỗng cà phê dầu điều vào rồi đảo đều khoảng 5 phút trên lửa vừa.
+Nấu nước dùng
+Bạn đặt nồi lên bếp với khoảng 1.5 lít nước, sau khi đun cho nước gần sôi thì bạn cho phần nguyên liệu phụ đã xào vào nồi và nấu trên lửa lớn cho đến khi nước sôi rồi cho cá vào.
+Tiếp theo bạn nêm vào nồi nước dùng với 2 muỗng canh nước mắm, 2 muỗng cà phê hạt nêm, 1 muỗng cà phê bột ngọt, 2 muỗng cà phê muối, 2 muỗng cà phê đường. Bạn tiếp tục nấu thêm khoảng 5 phút nữa trên lửa vừa rồi tắt bếp.
+Thành phẩm
+Bạn cho bún vào tô rồi thêm nước dùng và cá vào thì bạn đã có ngay món bún cá ngừ đầy thơm ngon hấp dẫn rồi. Khi ăn bạn sẽ cảm nhận được vị ngon, ngọt của nước dùng, miếng cá mềm ngọt. Bạn có thể ăn kèm với một ít rau sống thì sẽ vô cùng tuyệt vời đấy.
+
+",2024-11-28 07:53:04.878,2024-11-29 16:39:38.696
 67441138c36b585cf943d476,Bún riêu cua,Món ăn,Món khác,Tiểu đường,380.0,35.0,30.0,15.0,2.0,0.6,0.01,0.03,2.0,0.1,0.004,,,,,2024-11-28 07:53:04.878,2024-11-28 07:53:04.878
 67441138c36b585cf943d477,Phở bò nạm,Món ăn,Món khác,Tiểu đường,450.0,40.0,35.0,15.0,1.0,0.7,0.01,0.03,1.0,0.1,0.005,,,,,2024-11-28 07:53:04.878,2024-11-28 07:53:04.878
 67441138c36b585cf943d478,Phở gà,Món ăn,Món khác,Tiểu đường,350.0,30.0,25.0,10.0,1.5,2.0,0.005,0.15,1.0,0.08,0.015,,,,,2024-11-28 07:53:04.878,2024-11-28 07:53:04.878
@@ -333,11 +650,37 @@ Thưởng thức ngay khi salad còn tươi ngon.",2024-11-28 07:53:04.878,2024-
 67441138c36b585cf943d52a,Khoai tây xào gà,Món ăn,Món chính,Cao huyết áp,250.0,25.0,15.0,10.0,3.5,0.6,0.025,0.125,2.5,0.06,0.0015,,,,,2024-11-28 07:53:04.878,2024-11-28 07:53:04.878
 67441138c36b585cf943d52b,Canh Cải Bó Xôi Nấu Nấm Rơm,Món ăn,Món khác,Cao huyết áp,80.0,8.0,4.0,3.0,2.5,0.5,0.025,0.075,1.5,0.0,0.0015,,,,,2024-11-28 07:53:04.878,2024-11-28 07:53:04.878
 67441138c36b585cf943d52c,Canh cà rốt thịt bằm,Món ăn,Món khác,Cao huyết áp,120.0,8.0,10.0,5.0,2.5,0.6,0.025,0.125,2.5,0.06,0.0015,,,,,2024-11-28 07:53:04.878,2024-11-28 07:53:04.878
-67441138c36b585cf943d52d,Cà rốt xào nấm đông cô,Món ăn,Món chay,Cao huyết áp,100.0,15.0,3.0,4.0,3.5,0.4,0.025,0.015,2.5,0.0,0.0015,,,,,2024-11-28 07:53:04.878,2024-11-28 07:53:04.878
+67441138c36b585cf943d52d,Cà rốt xào nấm đông cô,Món ăn,Món chay,Cao huyết áp,100.0,15.0,3.0,4.0,3.5,0.4,0.025,0.015,2.5,0.0,0.0015,"Calo: 100, Carbohydrate: 15, Protein: 3, Fat: 4, Fiber: 3.5, Sodium: 0.4, VitaminC: 0.025, Purine: 0.015, Sugar: 2.5, Cholesterol: 0, Iron: 0.0015",static/uploads/dishes/ca-rot-xao-nam-dong-co-mon-chay.jpg,"Cà rốt 100 Gr
+Nấm đông cô 5 Gr
+Tỏi 2 Tép
+Dầu hào 3 Gr
+Đường 2 Gr
+Hạt nêm chay Knorr Nấm hương 3 Gr
+Dầu ăn 10 ml","1.
+Băm nhỏ tỏi sau đó phi thơm tỏi với dầu ăn đến khi thơm.
+2.
+Ngâm nấm đông cô với nước đến khi mềm thì vắt ráo nước, cắt sợi nhỏ. Bào vỏ cà rốt rồi cắt sợi. Cho cà rốt cắt sợi vào xào với tỏi đã thơm.
+3.
+Khi cà rốt gần chín, thêm nấm đông cô và gia vị vào xào chung đến khi tất cả nguyên liệu chín, thấm vị thì tắt bếp.
+4.
+Cho cà rốt xào nấm đông cô ra dĩa là hoàn tất món xào cho bữa cơm chay. Cà rốt giòn ngọt, nấm đông cô dai thơm hòa quyện vào nhau rất ngon miệng. Chúc các bạn thành công theo công thức này nhé.",2024-11-28 07:53:04.878,2024-12-01 12:56:19.202
 67441138c36b585cf943d52e,Cải bó xôi xào tỏi,Món ăn,Món chay,Cao huyết áp,90.0,8.0,3.0,7.0,2.5,0.3,0.04,0.015,1.5,0.0,0.0025,,,,,2024-11-28 07:53:04.878,2024-11-28 07:53:04.878
 67441138c36b585cf943d52f,Bò xào khổ qua,Món ăn,Món chính,Cao huyết áp,200.0,10.0,20.0,12.0,3.5,0.7,0.025,0.175,2.5,0.08,0.0035,,,,,2024-11-28 07:53:04.878,2024-11-28 07:53:04.878
 67441138c36b585cf943d530,Thạch cam cà rốt,Món ăn,Ăn vặt,Cao huyết áp,80.0,18.0,1.0,0.2,1.5,0.075,0.04,0.015,17.5,0.0,0.0015,,,,,2024-11-28 07:53:04.878,2024-11-28 07:53:04.878
-67441138c36b585cf943d531,Canh rau củ ngũ sắc,Món ăn,Món khác,Cao huyết áp,90.0,12.0,3.0,3.0,3.5,0.5,0.04,0.015,1.5,0.0,0.0015,,,,,2024-11-28 07:53:04.878,2024-11-28 07:53:04.878
+67441138c36b585cf943d531,Canh rau củ ngũ sắc,Món ăn,Món khác,Cao huyết áp,90.0,12.0,3.0,3.0,3.5,0.5,0.04,0.015,1.5,0.0,0.0015,"Calo: 90, Carbohydrate: 12, Protein: 3, Fat: 3, Fiber: 3.5, Sodium: 0.5, VitaminC: 0.04, Purine: 0.015, Sugar: 1.5, Cholesterol: 0, Iron: 0.0015",static/uploads/dishes/Canh.jpg,"Nấm hương 100 Gr
+Đậu hũ non 1 Cây
+Cà rốt 1 Củ
+Bắp non 100 Gr
+Cải thìa 200 Gr
+Hạt nêm chay Knorr Nấm hương 2 Muỗng cà phê
+Đường trắng 1/2 Muỗng cà phê
+Tiêu 1/3 Muỗng cà phê
+Hành tím 1 Củ","1.
+Chuẩn bị nguyên liệu canh ngũ sắc: nấm, rau ngâm nước muối pha loãng rửa sạch. Cà rốt cắt hoa (tuỳ thích), cải cắt khúc, đậu hủ cắt làm 6.
+2.
+Cho ít dầu vào nồi phi thơm củ hành (hoặc đầu hành lá) cắt nhỏ, xào nấm và cà rốt rồi nêm gia vị. Cho lượng nước đủ dùng và bắp non vào nấu. Nước dùng sôi vài lượt nêm lại vừa khẩu vị cho tiếp đậu hủ, nước sôi lại lần nữa khoảng vài phút hớt bỏ bọt cho cải thìa vào, muốn ăn rau giòn thi đảo đều tắt bếp, thích mềm thì để sôi lại lần nữa rồi tắt bếp.
+3.
+Cho canh ra tô thêm hành lá cắt khúc, ít tiêu, dùng nóng. Đậu hủ mềm mịn, nóng hổi vừa thổi vừa ăn như tan trong miệng. Các loại rau ngon ngọt...nói chung là nóng miệng nhưng rất mát lòng..",2024-11-28 07:53:04.878,2024-12-01 13:08:14.449
 67441138c36b585cf943d532,Bông cải xanh xào tỏi,Món ăn,Món chay,Cao huyết áp,120.0,10.0,4.0,8.0,3.5,0.3,0.04,0.015,1.5,0.0,0.0025,,,,,2024-11-28 07:53:04.878,2024-11-28 07:53:04.878
 67441138c36b585cf943d533,Soup bông cải xanh,Món ăn,Món khác,Cao huyết áp,100.0,10.0,3.0,5.0,2.5,0.5,0.004,0.015,1.5,0.0,0.0015,,,,,2024-11-28 07:53:04.878,2024-11-28 07:53:04.878
 67441138c36b585cf943d534,Yến mạch nấu táo đỏ,Món ăn,Món khác,Cao huyết áp,150.0,25.0,3.0,3.0,4.5,0.02,0.025,0.015,6.0,0.0,0.0025,,,,,2024-11-28 07:53:04.878,2024-11-28 07:53:04.878
@@ -539,7 +882,27 @@ Thưởng thức ngay khi salad còn tươi ngon.",2024-11-28 07:53:04.878,2024-
 67441138c36b585cf943d5f8,Cháo tôm khoai lang và nấm,Món ăn,Món khác,Máu nhiễm mỡ,150.0,20.0,8.0,3.0,3.0,0.3,0.02,0.02,2.0,0.05,0.003,,,,,2024-11-28 07:53:04.878,2024-11-28 07:53:04.878
 67441138c36b585cf943d5f9,Súp thịt gà khoai lang tím đậu hũ non,Món ăn,Món khác,Máu nhiễm mỡ,170.0,15.0,12.0,6.0,2.0,0.3,0.02,0.02,2.0,0.05,0.003,,,,,2024-11-28 07:53:04.878,2024-11-28 07:53:04.878
 67441138c36b585cf943d5fa,Sữa macca khoai lang yến mạch,Đồ uống,Sữa hạt,Máu nhiễm mỡ,120.0,18.0,2.0,4.0,2.0,0.1,0.01,0.0,8.0,0.0,0.002,,,,,2024-11-28 07:53:04.878,2024-11-28 07:53:04.878
-67441138c36b585cf943d5fb,Kimbap khoai lang,Món ăn,Món khác,Máu nhiễm mỡ,200.0,35.0,5.0,6.0,3.0,0.4,0.01,0.0,2.0,0.01,0.004,,,,,2024-11-28 07:53:04.878,2024-11-28 07:53:04.878
+67441138c36b585cf943d5fb,Kimbap khoai lang,Món ăn,Món khác,Máu nhiễm mỡ,200.0,35.0,5.0,6.0,3.0,0.4,0.01,0.0,2.0,0.01,0.004,"Calo: 200, Carbohydrate: 35, Protein: 5, Fat: 6, Fiber: 3, Sodium: 0.4, VitaminC: 0.01, Purine: 0, Sugar: 2, Cholesterol: 0.01, Iron: 0.004",static/uploads/dishes/kimbap-khoai-lang.jpg,"Rong biển: 2-3 lá (tờ);
+Cơm trắng đã nấu chín: Khoảng 1-2 chén;
+Khoai lang: 1 củ lớn (có thể kết hợp dùng nửa củ khoai lang vàng với nửa củ khoai lang tím để màu sắc món ăn thêm phần bắt mắt);
+Dưa chuột: 1 quả;
+Cà rốt: 1 củ;
+Trứng: 2 quả;
+Gạo: Đảm bảo cơm đã được nấu chín và để nguội;
+Muối và dầu mè: Lượng vừa đủ để nêm nếm;
+Mè: 1 muỗng cà phê mè rang để rắc lên trên.","Bước 1: Chuẩn bị nguyên liệu
+Khoai lang: Gọt vỏ và cắt thành sợi dài. Luộc hoặc hấp chín mềm, sau đó xào sơ qua với một chút muối và dầu mè cho thơm;
+Cà rốt: Cắt sợi và luộc chín mềm;
+Dưa chuột: Bỏ ruột để tránh bị ướt khi cuốn rồi bào sợi.
+Bước 2: Trộn cơm với một chút muối và dầu mè cho cơm có vị thơm và dễ cuốn hơn;
+Bước 3: Đánh đều trứng và chiên trên chảo với ít dầu mè, sau đó cắt thành sợi dài;
+Bước 4: Bắt đầu cuốn kimbap
+Trải một tờ rong biển ra thảm tre chuyên dụng dùng để cuốn kimbap hoặc mặt phẳng sạch;
+Dàn đều cơm lên trên tờ rong biển, để lại khoảng 2cm mép cuối lá rong biển không được dính cơm. Điều này giúp cuộn kimbap dễ dàng được dán kín sau khi cuốn;
+Xếp khoai lang, cà rốt, dưa chuột, và bánh trứng đã chuẩn bị lên trên cơm;
+Cuốn chặt từ phía gần bạn nhất, sử dụng thảm cuốn nếu có, để tạo thành một cuộn kimbap chặt và đều.
+Bước 5: Dùng một con dao sắc, phết dầu lên lưỡi dao để cắt cuộn kimbap thành từng miếng nhỏ. Có thể lau dao bằng khăn ướt sau mỗi lần cắt để miếng kimbap được sạch sẽ và đẹp mắt;
+Bước 6: Xếp kimbap ra đĩa, rắc một ít mè rang lên trên. Kimbap khoai lang có thể thưởng thức ngay hoặc giữ lạnh trong ngăn mát và ăn trong ngày.",2024-11-28 07:53:04.878,2024-12-01 13:12:02.833
 67441138c36b585cf943d5fc,Salad trộn dầu giấm thịt bò,Món ăn,Món khác,Máu nhiễm mỡ,220.0,6.0,20.0,12.0,2.0,0.3,0.03,0.02,3.0,0.05,0.004,,,,,2024-11-28 07:53:04.878,2024-11-28 07:53:04.878
 67441138c36b585cf943d5fd,Canh rong biển thịt bò,Món ăn,Món khác,Máu nhiễm mỡ,180.0,5.0,18.0,8.0,1.0,0.4,0.01,0.02,1.0,0.05,0.003,,,,,2024-11-28 07:53:04.878,2024-11-28 07:53:04.878
 67441138c36b585cf943d5fe,Thịt bò xào cần nước,Món ăn,Món chính,Máu nhiễm mỡ,250.0,8.0,20.0,15.0,1.0,0.4,0.02,0.02,1.0,0.1,0.004,,,,,2024-11-28 07:53:04.878,2024-11-28 07:53:04.878
@@ -592,7 +955,15 @@ Thưởng thức ngay khi salad còn tươi ngon.",2024-11-28 07:53:04.878,2024-
 67441138c36b585cf943d62d,Mì tươi sốt cà chua đậu hũ,Món ăn,Món khác,Máu nhiễm mỡ,200.0,30.0,8.0,6.0,3.5,0.3,0.03,0.02,3.0,0.0,0.004,,,,,2024-11-28 07:53:04.878,2024-11-28 07:53:04.878
 67441138c36b585cf943d62e,Cá hồi sốt rau củ,Món ăn,Món chính,Đau đầu,250.0,10.0,22.0,15.0,2.5,0.3,0.03,0.04,2.0,0.1,0.004,,,,,2024-11-28 07:53:04.878,2024-11-28 07:53:04.878
 67441138c36b585cf943d62f,Cá hồi chiên sốt mật ong,Món ăn,Món chính,Đau đầu,300.0,15.0,22.0,18.0,0.0,0.3,0.01,0.05,5.0,0.1,0.003,,,,,2024-11-28 07:53:04.878,2024-11-28 07:53:04.878
-67441138c36b585cf943d630,Cháo đậu đen thịt bằm chà bông,Món ăn,Món khác,Máu nhiễm mỡ,180.0,28.0,10.0,4.0,3.5,0.4,0.02,0.03,2.0,0.05,0.004,,,,,2024-11-28 07:53:04.878,2024-11-28 07:53:04.878
+67441138c36b585cf943d630,Cháo đậu đen thịt bằm chà bông,Món ăn,Món khác,Máu nhiễm mỡ,180.0,28.0,10.0,4.0,3.5,0.4,0.02,0.03,2.0,0.05,0.004,"Calo: 180, Carbohydrate: 28, Protein: 10, Fat: 4, Fiber: 3.5, Sodium: 0.4, VitaminC: 0.02, Purine: 0.03, Sugar: 2, Cholesterol: 0.05, Iron: 0.004",static/uploads/dishes/huong-dan-nau-chao-dau-den-31.jpg,"200 g thịt bằm
+1/2 lon gạo
+1 chén chà bông
+200 g đậu đen
+Hành lá
+Gia vị gồm muối, hạt nêm, tiêu","1.
+Đậu đen rửa sạch, gạo vo sạch, thêm thịt băm nấu sôi, cho vào nồi ủ, thêm muối và hạt nêm.
+2.
+Cháo chín mềm múc ra tô, thêm chà bông, hành lá và tiêu",2024-11-28 07:53:04.878,2024-12-01 13:31:24.778
 67441138c36b585cf943d631,Lê hấp táo tàu và gừng,Món ăn,Món chay,Máu nhiễm mỡ,90.0,20.0,0.0,0.0,2.5,0.1,0.02,0.01,10.0,0.0,0.002,,,,,2024-11-28 07:53:04.878,2024-11-28 07:53:04.878
 67441138c36b585cf943d632,Súp bồ câu diêm mạch,Món ăn,Món khác,Máu nhiễm mỡ,180.0,15.0,10.0,8.0,3.5,0.3,0.02,0.03,2.0,0.05,0.004,,,,,2024-11-28 07:53:04.878,2024-11-28 07:53:04.878
 67441138c36b585cf943d633,Sữa yến mạch,Đồ uống,Sữa hạt,Máu nhiễm mỡ,90.0,15.0,2.0,2.0,1.5,0.1,0.01,0.01,5.0,0.0,0.002,,,,,2024-11-28 07:53:04.878,2024-11-28 07:53:04.878
@@ -663,7 +1034,41 @@ Thưởng thức ngay khi salad còn tươi ngon.",2024-11-28 07:53:04.878,2024-
 67441138c36b585cf943d674,Đậu phụ nhồi thịt sốt cà chua,Món ăn,Món chính,Gút,150.0,8.0,10.0,7.0,1.5,0.6,0.01,0.03,3.0,0.05,0.004,,,,,2024-11-28 07:53:04.878,2024-11-28 07:53:04.878
 67441138c36b585cf943d675,Sữa hạt sen hạnh nhân,Đồ uống,Sữa hạt,Gút,100.0,12.0,2.0,4.0,1.0,0.1,0.01,0.01,9.0,0.0,0.002,,,,,2024-11-28 07:53:04.878,2024-11-28 07:53:04.878
 67441138c36b585cf943d676,Canh bí xanh nấu thịt băm,Món ăn,Món khác,Gút,150.0,5.0,12.0,6.0,1.5,0.5,0.02,0.04,2.0,0.04,0.003,,,,,2024-11-28 07:53:04.878,2024-11-28 07:53:04.878
-67441138c36b585cf943d677,Miến xào chay,Món ăn,Món khác,Gút,200.0,30.0,6.0,5.0,2.5,0.4,0.01,0.01,5.0,0.0,0.002,,,,,2024-11-28 07:53:04.878,2024-11-28 07:53:04.878
+67441138c36b585cf943d677,Miến xào chay,Món ăn,Món khác,Gút,200.0,30.0,6.0,5.0,2.5,0.4,0.01,0.01,5.0,0.0,0.002,"Calo: 200, Carbohydrate: 30, Protein: 6, Fat: 5, Fiber: 2.5, Sodium: 0.4, VitaminC: 0.01, Purine: 0.01, Sugar: 5, Cholesterol: 0, Iron: 0.002",static/uploads/dishes/mien-xao-chay-thap-cam-thumbnail-1.jpg,"Miến tươi 200 gr
+(khoảng 1 tô cỡ vừa)
+ Chả lụa chay 5 miếng
+ Cà rốt 1 trái
+(loại trái vừa)
+ Đậu cô ve 50 gr
+ Nấm Đông Cô 3 cây
+ Ớt chuông 1/2 trái
+ Giá 50 gr
+ Dầu hào 2 muỗng cà phê
+ Hạt nêm chay 1 ít
+ Nước tương 2 muỗng cà phê
+ Dầu ăn 2 muỗng canh
+ Gia vị thông dụng 1 ít
+(đường/ muối)","Sơ chế nguyên liệu
+Cà rốt mua về bạn gọt vỏ, cắt bỏ cuống và rửa sạch rồi cắt sợi dài khoảng 3 đốt ngón tay.
+Đậu que tước bỏ chỉ xơ, rửa sạch, để ráo và cắt sợi tương tự như cà rốt.
+Nấm Đông Cô rửa sạch, cắt đôi và cắt miếng mỏng vừa ăn. Ớt chuông rửa sạch, bỏ cuống, hạt và cắt sợi. Chả lụa chay bạn cũng cắt sợi mỏng nhé!                           Xào miến
+Bạn bắc chảo lên bếp ở lửa vừa và đợi đến khi chảo nóng thì cho 1 muỗng canh dầu ăn vào đun khoảng 30 giây rồi tắt bếp.
+Tiếp theo, thêm vào chảo 1 muỗng cà phê nước tương, 1 ít hạt nêm chay, 1 ít đường, 1 muỗng cà phê dầu hào và khuấy đều hỗn hợp.
+Thêm 1/2 chén nước lọc (chén ăn cơm) vào chảo và khuấy đều lần nữa.
+Tiếp tục cho miến vào chảo và đảo đều cùng hỗn hợp gia vị vừa rồi đến khi gia vị áo đều hết các sợi miến.
+Sau đó, bạn bật bếp ở lửa liu riu và tiếp tục đảo đều miến liên tục trong vòng 5 phút.
+Bạn đảo miến đến khi các sợi miến ngấm đều gia vị, mềm và trong lại thì cho miến ra tô.                                                                                                             Xào nguyên liệu
+Bạn cho vào chảo 1 muỗng canh dầu ăn và đun ở lửa vừa.
+Khi dầu nóng, bạn cho nấm Đông Cô vào đảo đều khoảng 30 giây đến khi nấm hơi se lại và dậy mùi thơm thì thêm đậu que vào xào chung.
+Đảo đều đậu que và nấm đến khi đậu que chuyển qua màu xanh đậm khoảng 1 phút thì thêm cà rốt cắt sợi vào xào.
+Bạn đảo cà rốt khoảng 30 giây thì cho chả lụa chay cắt sợi và giá và đảo đều khoảng 30 giây nữa.
+Thêm vào chảo 1 muỗng cà phê nước tương, 1/2 muỗng cà phê hạt nêm, 1/4 muỗng cà phê đường, 1 ít muối, 1 muỗng cà phê dầu hào và đảo đều.
+Lúc này, bạn mở lửa lớn và tiếp tục xào để rau củ ngấm gia vị khoảng 1 phút thì tắt bếp.
+Cuối cùng, bạn cho ớt chuông cắt sợi vào đảo đều cùng rau củ đã xào thêm 5 lần nữa là được.                                                                                                           Trộn miến
+Bạn cho miến đã xào trước đó ra 1 cái đĩa hoặc tô rồi trải dàn những sợi miến ra.
+Sau đó, cho phần nguyên liệu đã xào vào đĩa miến và trộn đều là hoàn thành rồi đó.                                                                                                                         Thành phẩm
+Vậy là món miến xào chay thập cẩm đã hoàn thành.
+Đĩa miến thơm phức, sợi miến thì mềm, dai kết hợp với đậu que, cà rốt, giá, ớt chuông giòn, ngọt và nấm thì mềm, thơm. Tất cả ngấm đều gia vị rất vừa ăn và hấp dẫn vô cùng!",2024-11-28 07:53:04.878,2024-12-01 13:41:00.743
 67441138c36b585cf943d678,Sườn xào chua ngọt,Món ăn,Món chính,Gút,350.0,20.0,20.0,25.0,1.0,0.7,0.01,0.05,10.0,0.08,0.004,,,,,2024-11-28 07:53:04.878,2024-11-28 07:53:04.878
 67441138c36b585cf943d679,Mướp nhồi tôm hấp,Món ăn,Món chính,Gút,120.0,5.0,10.0,3.0,1.5,0.3,0.01,0.03,2.0,0.06,0.003,,,,,2024-11-28 07:53:04.878,2024-11-28 07:53:04.878
 67441138c36b585cf943d67a,Mướp xào mộc nhĩ,Món ăn,Món chay,Gút,100.0,10.0,3.0,2.0,2.5,0.3,0.01,0.01,3.0,0.0,0.002,,,,,2024-11-28 07:53:04.878,2024-11-28 07:53:04.878
@@ -690,9 +1095,41 @@ Thưởng thức ngay khi salad còn tươi ngon.",2024-11-28 07:53:04.878,2024-
 67441138c36b585cf943d68f,Bắp cải xào cà rốt,Món ăn,Món chay,Gút,90.0,10.0,2.0,3.0,3.5,0.3,0.05,0.01,2.0,0.0,0.002,,,,,2024-11-28 07:53:04.878,2024-11-28 07:53:04.878
 67441138c36b585cf943d690,Cháo gà với hạt sen,Món ăn,Món khác,Gút,180.0,25.0,10.0,4.0,2.5,0.3,0.02,0.03,1.0,0.05,0.003,,,,,2024-11-28 07:53:04.878,2024-11-28 07:53:04.878
 67441138c36b585cf943d691,Cháo gà với mướp hương,Món ăn,Món khác,Gút,160.0,22.0,8.0,3.0,1.5,0.5,0.01,0.03,1.0,0.05,0.003,,,,,2024-11-28 07:53:04.878,2024-11-28 07:53:04.878
-67441138c36b585cf943d692,Cháo gà bí đỏ,Món ăn,Món khác,Gút,170.0,25.0,8.0,3.0,2.5,0.5,0.02,0.03,2.0,0.05,0.004,,,,,2024-11-28 07:53:04.878,2024-11-28 07:53:04.878
+67441138c36b585cf943d692,Cháo gà bí đỏ,Món ăn,Món khác,Gút,170.0,25.0,8.0,3.0,2.5,0.5,0.02,0.03,2.0,0.05,0.004,"Calo: 170, Carbohydrate: 25, Protein: 8, Fat: 3, Fiber: 2.5, Sodium: 0.5, VitaminC: 0.02, Purine: 0.03, Sugar: 2, Cholesterol: 0.05, Iron: 0.004",static/uploads/dishes/chaogabido.jpg,"Bí đỏ 50 gr
+ Thịt nạc gà 50 gr
+ Dầu ăn trẻ em 2 muỗng cà phê
+ Gạo tẻ 80 gr
+ Nước dùng gà 300 ml","Sơ chế thịt gà
+Thịt nạc gà bạn rửa sạch, băm nhuyễn.
+Cho gà vào chén trộn đều với 2 muỗng canh nước, để sẵn.
+Sơ chế bí đỏ
+Bí đỏ bạn gọt vỏ, bỏ ruột, rửa sạch, cắt nhỏ rồi cho vào nồi hấp khoảng 15 phút để bí chín mềm.
+Hấp xong bạn lấy bí ra, dùng nĩa tán nhuyễn.
+Nấu cháo
+Cho vào nồi 80gr gạo tẻ cùng 300ml nước dùng gà, đun sôi nhỏ lửa trong 30 - 40 phút.
+Sau khi cháo nhừ bạn cho phần gà và bí đỏ tán nhuyễn vào nồi cháo, khuấy đều. Nêm vào nồi cháo 1/2 thìa cà phê đường, 1/4 thìa cà phê muối, khuấy đều lần nữa.
+Đun cháo sôi nhỏ lửa thêm 10 phút, lúc này bạn cho vào 2 thìa cà phê dầu ăn cho trẻ em vào, khuấy cho đều dầu rồi tắt bếp.
+Thành phẩm
+Cháo gà bí đỏ sánh mịn, thơm ngọt, dễ tiêu hóa và đầy đủ chất dinh dưỡng cho bé yêu của bạn.",2024-11-28 07:53:04.878,2024-12-01 14:02:09.163
 67441138c36b585cf943d693,Cháo gà khoai tây,Món ăn,Món khác,Gút,180.0,28.0,8.0,3.0,1.5,0.5,0.01,0.03,1.0,0.05,0.003,,,,,2024-11-28 07:53:04.878,2024-11-28 07:53:04.878
-67441138c36b585cf943d694,Cháo gà hạt sen cà rốt,Món ăn,Món khác,Gút,190.0,25.0,10.0,4.0,2.5,0.5,0.02,0.03,2.0,0.05,0.004,,,,,2024-11-28 07:53:04.878,2024-11-28 07:53:04.878
+67441138c36b585cf943d694,Cháo gà hạt sen cà rốt,Món ăn,Món khác,Gút,190.0,25.0,10.0,4.0,2.5,0.5,0.02,0.03,2.0,0.05,0.004,"Calo: 190, Carbohydrate: 25, Protein: 10, Fat: 4, Fiber: 2.5, Sodium: 0.5, VitaminC: 0.02, Purine: 0.03, Sugar: 2, Cholesterol: 0.05, Iron: 0.004",static/uploads/dishes/chao-ga-hat-sen-ca-rot-1570690163.jpg,"Thịt gà: 500g
+Gạo tẻ: 150g
+Gạo nếp: 100g
+Đậu xanh bỏ vỏ: 50g
+Hạt sen: 1 nắm
+Cà rốt: 1/2 củ
+Hành khô: 1 củ hành
+Gia vị: Dầu ăn, muối bột canh, nước mắm...","Bước 1: Sơ chế nguyên liệu
+Gạo tẻ, gạo nếp, đậu xanh bạn đem vo, đãi sạch rồi ngâm 1-2h trước khi nấu cháo. Công đoạn này giúp thời gian nấu cháo được nhanh hơn, nếu không ngâm thời gian ninh cháo sẽ kéo dài. Sau đó cho vào nồi thêm nước và ninh thật nhừ cháo.
+Hạt sen đem rửa thật sạch, bóc vỏ, để ráo nước. Mình sợ bé đắng nên thường bỏ hết phần tim sen đi, nếu bé nhà bạn ăn được thì không cần bước này.
+Thịt gà rửa sạch, lọc thịt rồi mang xay hoặc băm nhỏ. Xương gà cho vào nồi ninh lấy nước dùng
+Cà rốt gọt vỏ rửa sạch thái hạt lựu
+Hành khô bóc vỏ, rửa sạch băm nhỏ.
+Bước 2: Tiến hành ninh cháo
+Sau khi xương gà đã ninh kĩ vớt xương ra cho gạo tẻ, gạo nếp, đậu xanh đã sạch cho vào nồi đun sôi sau đó để lửa nhỏ ninh đến khi cháo nhừ.
+Tiếp theo bắc chảo lên bếp cho chút dầu ăn phi thơm hành khô cho thịt gà vào đảo đến khi thịt gà chín rồi tắt bếp rồi múc riêng ra bát
+Sau đó lấy một nồi nhỏ bạn cho hạt sen vào luộc chín mềm rồi vớt ra để ráo nước
+ Khi cháo được bạn cho tất cả các nguyên liệu vào nồi cháo tiếp tục đun cho tới khi tất cả nguyên liệu đều chín nhừ, thấm đều vào nhau. Bạn nêm nếm lại gia vị tùy theo độ tuổi và khẩu phần ăn của bé. Như vậy đã hoàn thành món cháo gà cà rốt hạt sen rồi đấy.",2024-11-28 07:53:04.878,2024-12-01 14:10:27.338
 67441138c36b585cf943d695,Cháo gà rau ngót,Món ăn,Món khác,Gút,160.0,22.0,8.0,3.0,2.5,0.5,0.03,0.03,1.0,0.05,0.004,,,,,2024-11-28 07:53:04.878,2024-11-28 07:53:04.878
 67441138c36b585cf943d696,Cháo gà súp lơ xanh,Món ăn,Món khác,Gút,170.0,20.0,10.0,3.0,2.5,0.5,0.03,0.03,1.0,0.05,0.004,,,,,2024-11-28 07:53:04.878,2024-11-28 07:53:04.878
 67441138c36b585cf943d697,Cá hồi hấp nấm,Món ăn,Món chính,Gút,220.0,4.0,22.0,12.0,1.0,0.4,0.01,0.2,0.0,0.07,0.005,,,,,2024-11-28 07:53:04.878,2024-11-28 07:53:04.878
@@ -823,806 +1260,18 @@ Thưởng thức ngay khi salad còn tươi ngon.",2024-11-28 07:53:04.878,2024-
 67441138c36b585cf943d714,Hủ tiếu hoành thánh chay,Món ăn,Món chay,,450.0,80.0,20.0,10.0,8.0,2.0,0.015,0.01,5.0,0.0,0.003,,,,,2024-11-28 07:53:04.878,2024-11-28 07:53:04.878
 67441138c36b585cf943d715,Cà ri chay,Món ăn,Món chay,,500.0,70.0,15.0,25.0,10.0,1.5,0.01,0.01,5.0,0.0,0.003,,,,,2024-11-28 07:53:04.878,2024-11-28 07:53:04.878
 67441138c36b585cf943d716,Bún chay nấm sa tế đậu hũ cà chua,Món ăn,Món chay,,250.0,45.0,10.0,5.0,5.0,1.0,0.03,0.01,5.0,0.0,0.002,,,,,2024-11-28 07:53:04.878,2024-11-28 07:53:04.878
-=======
-Thưởng thức ngay khi salad còn tươi ngon."
-67441138c36b585cf943d3f7,Sinh tố cam cà rốt táo,Đồ uống,Sinh tố,Tiểu đường,135.0,33.0,1.0,0.4,6.0,0.075,0.08,0.015,22.5,0.0,0.00075,,,,
-67441138c36b585cf943d3f8,Cá hồi sốt cam sành,Món ăn,Món chính,Tiểu đường,275.0,11.0,21.0,17.0,0.5,0.5,0.025,0.175,7.5,0.07,0.0015,,,,
-67441138c36b585cf943d3fb,Salad mận mùa hè,Món ăn,Món khác,Tiểu đường,250.0,23.0,23.0,11.0,4.0,0.15,0.035,0.015,17.5,0.0,0.00075,,,,
-67441138c36b585cf943d3fc,Salad mận và trái cây thập cẩm,Món ăn,Món khác,Tiểu đường,200.0,33.0,2.0,7.0,5.0,0.15,0.06,0.015,25.0,0.0,0.0015,,,,
-67441138c36b585cf943d3ff,Mận xóc da heo,Món ăn,Món khác,Tiểu đường,325.0,30.0,13.0,23.0,1.5,0.8,0.015,0.075,7.5,0.11,0.0015,,,,
-67441138c36b585cf943d402,Canh thanh long nấu tôm tươi,Món ăn,Món khác,Tiểu đường,200.0,13.0,18.0,4.0,2.5,0.5,0.04,0.125,4.0,0.08,0.0015,,,,
-67441138c36b585cf943d404,Salad thanh long hồng giòn và dưa leo sốt dầu giấm,Món ăn,Món khác,Tiểu đường,120.0,23.0,2.0,6.0,4.0,0.25,0.05,0.015,6.0,0.0,0.0015,,,,
-67441138c36b585cf943d409,Bánh mì chuối,Món ăn,Món khác,Tiểu đường,300.0,50.0,6.0,11.0,4.5,0.5,0.015,0.015,15.0,0.035,0.0025,,,,
-67441138c36b585cf943d40a,Gỏi đu đủ xanh trộn gà xé và cà rốt,Món ăn,Món chính,Tiểu đường,180.0,15.0,20.0,5.0,5.0,0.4,0.06,0.025,6.0,0.04,0.0015,,,,
-67441138c36b585cf943d40f,Sữa chua mix mít và hạt macca,Món ăn,Ăn vặt,Tiểu đường,220.0,18.0,5.0,11.0,3.5,0.15,0.025,0.015,12.5,0.025,0.0015,,,,
-67441138c36b585cf943d411,Thịt kho mít,Món ăn,Món chính,Tiểu đường,350.0,10.0,30.0,20.0,2.5,0.6,0.025,0.125,5.0,0.07,0.0025,,,,
-67441138c36b585cf943d416,Gà hấp chôm chôm,Món ăn,Món chính,Tiểu đường,400.0,20.0,35.0,15.0,2.5,0.5,0.025,0.125,4.0,0.07,0.0015,,,,
-67441138c36b585cf943d417,Canh chôm chôm nhồi thịt,Món ăn,Món khác,Tiểu đường,200.0,10.0,15.0,5.0,2.5,0.6,0.025,0.125,4.0,0.06,0.0015,,,,
-67441138c36b585cf943d420,Salad lê bắp cải,Món ăn,Món khác,Tiểu đường,120.0,12.0,2.0,7.0,5.0,0.15,0.04,0.015,9.0,0.0,0.0015,,,,
-67441138c36b585cf943d425,Canh đậu hũ cải thìa nấm,Món ăn,Món khác,Tiểu đường,100.0,5.0,8.0,3.0,2.5,0.5,0.025,0.075,2.5,0.0,0.0015,,,,
-67441138c36b585cf943d426,Salad đậu hũ,Món ăn,Món khác,Tiểu đường,120.0,8.0,6.0,6.0,3.5,0.25,0.025,0.015,3.5,0.0,0.0015,,,,
-67441138c36b585cf943d430,Trứng khuấy,Món ăn,Món khác,Tiểu đường,100.0,2.0,7.0,4.0,0.0,0.3,0.0,0.02,0.0,0.2,0.002,,,,
-67441138c36b585cf943d431,Bầu xào trứng vịt,Món ăn,Món khác,Tiểu đường,90.0,4.0,5.0,3.0,2.0,0.4,0.01,0.02,1.0,0.2,0.003,,,,
-67441138c36b585cf943d433,Trứng cuộn lá tía tô,Món ăn,Món khác,Tiểu đường,130.0,2.0,10.0,5.0,1.0,0.3,0.01,0.02,1.0,0.2,0.003,,,,
-67441138c36b585cf943d437,Salad ức gà sữa chua,Món ăn,Món khác,Tiểu đường,200.0,8.0,18.0,5.0,2.0,0.3,0.01,0.02,3.0,0.05,0.003,,,,
-67441138c36b585cf943d439,Salad tôm xoài sốt sữa chua,Món ăn,Món khác,Tiểu đường,180.0,12.0,15.0,5.0,3.0,0.3,0.04,0.02,8.0,0.05,0.003,,,,
-67441138c36b585cf943d43a,Salad táo cá hồi sốt sữa chua,Món ăn,Món khác,Tiểu đường,250.0,15.0,20.0,10.0,3.0,0.4,0.03,0.03,6.0,0.1,0.004,,,,
-67441138c36b585cf943d43b,Bí đỏ um nấm,Món ăn,Món chay,Tiểu đường,100.0,10.0,5.0,4.0,3.0,0.3,0.02,0.01,3.0,0.0,0.002,,,,
-67441138c36b585cf943d43e,Bí đỏ hấp tôm mọc,Món ăn,Món chính,Tiểu đường,160.0,8.0,12.0,5.0,2.0,0.4,0.02,0.02,1.0,0.05,0.003,,,,
-67441138c36b585cf943d440,Canh tôm nấu với cà rốt bông cải,Món ăn,Món khác,Tiểu đường,150.0,10.0,20.0,3.0,3.0,0.5,0.03,0.02,2.0,0.05,0.003,,,,
-67441138c36b585cf943d450,Bánh Cheesecake phô mai chanh,Món ăn,Ăn vặt,Tiểu đường,420.0,25.0,12.0,35.0,1.0,0.3,0.02,0.0,20.0,0.1,0.002,,,,
-67441138c36b585cf943d458,Cari gà khoai lang,Món ăn,Món chính,Cao huyết áp,500.0,45.0,25.0,25.0,3.5,0.6,0.025,0.125,2.5,0.07,0.0025,,,,
-67441138c36b585cf943d459,Khoai lang mật nướng,Món ăn,Ăn vặt,Tiểu đường,250.0,55.0,3.0,0.0,3.0,0.1,0.02,0.0,10.0,0.0,0.002,,,,
-67441138c36b585cf943d45a,Cà ri khoai lang mật cà tím và đậu hũ non chay,Món ăn,Món chay,Cao huyết áp,500.0,40.0,10.0,38.0,4.5,0.5,0.025,0.015,4.0,0.0,0.0025,,,,
-67441138c36b585cf943d460,Sữa khoai môn macca và yến mạch,Đồ uống,Loại khác,Tiểu đường,270.0,38.0,6.0,12.0,3.0,0.2,0.01,0.0,6.0,0.0,0.002,,,,
-67441138c36b585cf943d467,Lươn om khoai sọ,Món ăn,Món chính,Tiểu đường,400.0,30.0,30.0,25.0,2.0,0.5,0.01,0.03,1.0,0.1,0.004,,,,
-67441138c36b585cf943d469,Bánh rán khoai mì tươi,Món ăn,Ăn vặt,Tiểu đường,400.0,50.0,25.0,20.0,1.0,0.2,0.0,0.0,6.0,0.0,0.002,,,,
-67441138c36b585cf943d46c,Bánh khoai mì trứng cút chiên,Món ăn,Ăn vặt,Tiểu đường,300.0,40.0,15.0,12.0,1.0,0.3,0.0,0.01,5.0,0.1,0.002,,,,
-67441138c36b585cf943d470,Xương heo hầm khoai tây cà rốt củ cải trắng,Món ăn,Món khác,Tiểu đường,350.0,40.0,25.0,15.0,2.0,0.6,0.01,0.02,1.0,0.05,0.003,,,,
-67441138c36b585cf943d474,Bún ốc chuối đậu,Món ăn,Món khác,Tiểu đường,400.0,45.0,20.0,15.0,3.0,0.5,0.02,0.02,2.0,0.05,0.004,,,,
-67441138c36b585cf943d475,Bún cá ngừ,Món ăn,Món khác,Tiểu đường,350.0,30.0,25.0,10.0,2.0,0.5,0.01,0.03,1.0,0.1,0.004,,,,
-67441138c36b585cf943d477,Phở bò nạm,Món ăn,Món khác,Tiểu đường,450.0,40.0,35.0,15.0,1.0,0.7,0.01,0.03,1.0,0.1,0.005,,,,
-67441138c36b585cf943d479,Phở cuốn thịt bò rau thơm,Món ăn,Món khác,Tiểu đường,350.0,40.0,20.0,10.0,2.0,0.4,0.01,0.02,1.0,0.05,0.003,,,,
-67441138c36b585cf943d47c,Hủ tiếu Nam Vang,Món ăn,Món khác,Tiểu đường,450.0,50.0,30.0,15.0,2.0,0.6,0.01,0.03,2.0,0.1,0.004,,,,
-67441138c36b585cf943d47d,Hủ tiếu mì chay,Món ăn,Món khác,Tiểu đường,300.0,45.0,15.0,10.0,3.0,0.4,0.01,0.01,1.0,0.0,0.002,,,,
-67441138c36b585cf943d47e,Hủ tiếu mực,Món ăn,Món khác,Tiểu đường,300.0,40.0,20.0,10.0,2.0,0.5,0.01,0.02,1.0,0.05,0.003,,,,
-67441138c36b585cf943d47f,Hủ tiếu xào tôm trứng,Món ăn,Món khác,Tiểu đường,400.0,45.0,25.0,15.0,2.0,0.5,0.01,0.02,2.0,0.1,0.003,,,,
-67441138c36b585cf943d482,Mì miso rau nấm chay,Món ăn,Món khác,Tiểu đường,350.0,50.0,8.0,8.0,3.0,0.5,0.01,0.01,1.0,0.0,0.002,,,,
-67441138c36b585cf943d486,Cháo cá hồi bí xanh,Món ăn,Món khác,Cao huyết áp,350.0,40.0,20.0,8.0,1.5,0.4,0.015,0.125,1.5,0.06,0.0015,,,,
-67441138c36b585cf943d487,Cháo gạo lứt nấm mối,Món ăn,Món khác,Tiểu đường,200.0,35.0,6.0,4.0,2.0,0.4,0.01,0.01,1.0,0.0,0.003,,,,
-67441138c36b585cf943d48a,Cháo ếch nấm và lá lốt,Món ăn,Món khác,Tiểu đường,250.0,30.0,15.0,6.0,1.0,0.3,0.01,0.02,1.0,0.05,0.002,,,,
-67441138c36b585cf943d48f,Xôi gà xé,Món ăn,Món khác,Tiểu đường,300.0,40.0,20.0,6.0,1.0,0.3,0.01,0.02,1.0,0.1,0.003,,,,
-67441138c36b585cf943d49a,Bánh canh chả cá kiểu miền Trung,Món ăn,Món khác,Tiểu đường,480.0,60.0,25.0,10.0,1.0,0.8,0.01,0.02,1.0,0.05,0.003,,,,
-67441138c36b585cf943d49d,Bánh cuốn cá rau củ,Món ăn,Ăn vặt,Tiểu đường,350.0,60.0,20.0,6.0,2.0,0.4,0.01,0.01,1.0,0.05,0.002,,,,
-67441138c36b585cf943d49e,Bánh cuốn tráng chảo với thịt băm nấm mèo,Món ăn,Ăn vặt,Tiểu đường,400.0,55.0,18.0,10.0,2.0,0.5,0.0,0.02,1.0,0.05,0.003,,,,
-67441138c36b585cf943d4a1,Bánh ít lá gai nhân đậu xanh,Món ăn,Ăn vặt,Tiểu đường,300.0,55.0,7.0,5.0,2.0,0.3,0.0,0.01,5.0,0.0,0.002,,,,
-67441138c36b585cf943d4aa,Canh rau cải nấu cá rô đồng,Món ăn,Món khác,Tiểu đường,120.0,5.0,12.0,3.0,1.0,0.4,0.01,0.02,1.0,0.05,0.003,,,,
-67441138c36b585cf943d4ab,Ốc móng tay xào rau cải,Món ăn,Món chính,Tiểu đường,180.0,10.0,20.0,8.0,2.0,0.5,0.01,0.02,1.0,0.05,0.003,,,,
-67441138c36b585cf943d4b8,Gỏi ổi tôm thịt,Món ăn,Món chính,Tiểu đường,250.0,15.0,20.0,10.0,3.0,0.4,0.02,0.02,3.0,0.05,0.003,,,,
-67441138c36b585cf943d4bb,Xà lách cuộn trứng và bơ,Món ăn,Món khác,Tiểu đường,220.0,10.0,10.0,15.0,3.0,0.3,0.01,0.01,2.0,0.1,0.002,,,,
-67441138c36b585cf943d4bc,Salad rocket trộn bơ và củ dền,Món ăn,Món khác,Cao huyết áp,200.0,15.0,3.0,15.0,4.5,0.25,0.04,0.015,3.5,0.0,0.0025,,,,
-67441138c36b585cf943d4c3,Salad cà chua và dưa hấu,Món ăn,Món khác,Cao huyết áp,80.0,15.0,1.0,2.0,2.5,0.15,0.04,0.015,7.0,0.0,0.0015,,,,
-67441138c36b585cf943d4c6,Gà nướng táo và rau củ,Món ăn,Món chính,Tiểu đường,250.0,20.0,30.0,10.0,2.0,0.4,0.03,0.02,3.0,0.1,0.004,,,,
-67441138c36b585cf943d4ca,Salad bí đỏ táo tàu,Món ăn,Món khác,Tiểu đường,130.0,22.0,2.0,4.0,3.0,0.2,0.03,0.0,5.0,0.0,0.002,,,,
-67441138c36b585cf943d4d1,Bông cải xanh xào táo tàu,Món ăn,Món chay,Cao huyết áp,120.0,10.0,4.0,8.0,3.5,0.3,0.04,0.015,2.5,0.0,0.0025,,,,
-67441138c36b585cf943d4d2,Cải Brussel táo đỏ khô nướng,Món ăn,Món chay,Tiểu đường,180.0,18.0,3.0,8.0,4.0,0.2,0.05,0.0,5.0,0.0,0.002,,,,
-67441138c36b585cf943d4db,Rau muống xào đậu phộng,Món ăn,Món chay,Tiểu đường,200.0,12.0,5.0,14.0,3.0,0.3,0.04,0.0,1.0,0.0,0.003,,,,
-67441138c36b585cf943d4e0,Canh rau tập tàng nấu bắp,Món ăn,Món khác,Tiểu đường,80.0,12.0,2.0,3.0,2.0,0.3,0.03,0.0,1.0,0.0,0.002,,,,
-67441138c36b585cf943d4e1,Sữa gạo lứt và sắn dây,Đồ uống,Loại khác,Tiểu đường,120.0,22.0,2.0,2.0,1.0,0.1,0.0,0.0,6.0,0.0,0.001,,,,
-67441138c36b585cf943d4e3,Bánh sắn dây dưa hấu,Món ăn,Ăn vặt,Tiểu đường,150.0,30.0,3.0,1.0,1.0,0.1,0.02,0.0,10.0,0.0,0.001,,,,
-67441138c36b585cf943d4ec,Mì gạo lứt xào tôm cua,Món ăn,Món khác,Tiểu đường,350.0,45.0,18.0,10.0,2.0,0.3,0.02,0.03,2.0,0.1,0.004,,,,
-67441138c36b585cf943d4f0,Canh măng chua nấu cá rô phi,Món ăn,Món khác,Tiểu đường,200.0,15.0,18.0,10.0,1.0,0.3,0.02,0.02,1.0,0.05,0.003,,,,
-67441138c36b585cf943d4f9,Salad bò trộn rau rocket nấm với cà chua,Món ăn,Món chính,Cao huyết áp,300.0,15.0,25.0,15.0,3.5,0.4,0.004,0.125,1.5,0.06,0.0025,,,,
-67441138c36b585cf943d500,Trứng cuộn rong biển và tôm hấp,Món ăn,Món chính,Tiểu đường,200.0,10.0,18.0,8.0,0.0,0.3,0.0,0.02,1.0,0.1,0.002,,,,
-67441138c36b585cf943d505,Canh cải bẹ xanh nấm hương,Món ăn,Món khác,Tiểu đường,80.0,5.0,4.0,2.0,2.0,0.3,0.03,0.02,1.0,0.0,0.003,,,,
-67441138c36b585cf943d509,Ớt chuông xào mực,Món ăn,Món chính,Tiểu đường,180.0,10.0,20.0,6.0,2.0,0.3,0.03,0.02,1.0,0.1,0.003,,,,
-67441138c36b585cf943d50a,Cà tím nướng,Món ăn,Món chay,Tiểu đường,50.0,8.0,2.0,1.0,3.0,0.2,0.02,0.0,2.0,0.0,0.002,,,,
-67441138c36b585cf943d510,Thịt gà chiên nước mắm,Món ăn,Món chính,Tiểu đường,350.0,10.0,25.0,25.0,0.0,0.5,0.0,0.03,2.0,0.1,0.003,,,,
-67441138c36b585cf943d511,Bún thịt xào,Món ăn,Món khác,Tiểu đường,400.0,60.0,20.0,12.0,2.0,0.4,0.01,0.02,1.0,0.05,0.003,,,,
-67441138c36b585cf943d517,Gà nướng hương thảo,Món ăn,Món chính,Tiểu đường,250.0,2.0,25.0,15.0,0.0,0.4,0.0,0.03,1.0,0.1,0.003,,,,
-67441138c36b585cf943d519,Súp gà rau củ,Món ăn,Món khác,Tiểu đường,150.0,15.0,10.0,5.0,2.0,0.3,0.02,0.02,1.0,0.05,0.003,,,,
-67441138c36b585cf943d51b,Nấm xào cải xanh,Món ăn,Món chay,Tiểu đường,80.0,8.0,3.0,3.0,2.0,0.3,0.02,0.0,1.0,0.0,0.002,,,,
-67441138c36b585cf943d529,Canh cải cúc thịt nạc heo,Món ăn,Món khác,Cao huyết áp,150.0,8.0,15.0,5.0,2.5,0.7,0.025,0.125,1.5,0.06,0.0015,,,,
-67441138c36b585cf943d52d,Cà rốt xào nấm đông cô,Món ăn,Món chay,Cao huyết áp,100.0,15.0,3.0,4.0,3.5,0.4,0.025,0.015,2.5,0.0,0.0015,,,,
-67441138c36b585cf943d52e,Cải bó xôi xào tỏi,Món ăn,Món chay,Cao huyết áp,90.0,8.0,3.0,7.0,2.5,0.3,0.04,0.015,1.5,0.0,0.0025,,,,
-67441138c36b585cf943d52f,Bò xào khổ qua,Món ăn,Món chính,Cao huyết áp,200.0,10.0,20.0,12.0,3.5,0.7,0.025,0.175,2.5,0.08,0.0035,,,,
-67441138c36b585cf943d530,Thạch cam cà rốt,Món ăn,Ăn vặt,Cao huyết áp,80.0,18.0,1.0,0.2,1.5,0.075,0.04,0.015,17.5,0.0,0.0015,,,,
-67441138c36b585cf943d534,Yến mạch nấu táo đỏ,Món ăn,Món khác,Cao huyết áp,150.0,25.0,3.0,3.0,4.5,0.02,0.025,0.015,6.0,0.0,0.0025,,,,
-67441138c36b585cf943d53b,Súp củ dền,Món ăn,Món khác,Cao huyết áp,100.0,15.0,3.0,4.0,2.5,0.4,0.025,0.015,3.5,0.0,0.0025,,,,
-67441138c36b585cf943d53e,Canh hẹ đậu hũ,Món ăn,Món khác,Cao huyết áp,90.0,6.0,5.0,4.0,2.5,0.5,0.025,0.015,1.5,0.0,0.0015,,,,
-67441138c36b585cf943d549,Bánh flan ,Món ăn,Ăn vặt,Thiếu cân,160.0,20.0,4.0,8.0,0.0,0.1,0.0,0.0,20.0,0.1,0.001,,,,
-67441138c36b585cf943d54c,Canh bí thịt bằm,Món ăn,Món khác,Thiếu cân,120.0,6.0,10.0,5.0,2.0,0.3,0.02,0.02,2.0,0.05,0.003,,,,
-67441138c36b585cf943d557,Canh măng ngan,Món ăn,Món khác,Thiếu cân,150.0,5.0,15.0,7.0,1.0,0.4,0.02,0.02,1.0,0.05,0.003,,,,
-67441138c36b585cf943d55b,Mì vịt tiềm,Món ăn,Món khác,Thiếu cân,350.0,40.0,20.0,15.0,3.0,0.5,0.02,0.03,2.0,0.1,0.004,,,,
-67441138c36b585cf943d55e,Sinh tố dừa,Đồ uống,Sinh tố,Thiếu cân,250.0,25.0,3.0,15.0,2.0,0.1,0.01,0.0,12.0,0.0,0.002,,,,
-67441138c36b585cf943d561,Sinh tố xoài,Đồ uống,Sinh tố,Thiếu cân,150.0,30.0,2.0,2.0,2.0,0.1,0.05,0.0,12.0,0.0,0.001,,,,
-67441138c36b585cf943d563,Canh bí nấu tôm,Món ăn,Món khác,Thiếu cân,110.0,8.0,10.0,3.0,2.0,0.3,0.02,0.02,1.0,0.05,0.003,,,,
-67441138c36b585cf943d565,Thịt kho trứng cút,Món ăn,Món chính,Thiếu cân,250.0,6.0,18.0,15.0,0.0,0.4,0.0,0.002,2.0,0.1,0.003,,,,
-67441138c36b585cf943d567,Hải sản xào cần tây,Món ăn,Món chính,Thiếu cân,150.0,6.0,12.0,7.0,2.0,0.4,0.02,0.02,1.0,0.1,0.003,,,,
-67441138c36b585cf943d56a,Dưa chuột xào thịt bằm,Món ăn,Món chính,Thiếu cân,120.0,6.0,10.0,6.0,1.0,0.3,0.02,0.02,1.0,0.05,0.003,,,,
-67441138c36b585cf943d56b,Canh rong biển đậu phụ non,Món ăn,Món khác,Thiếu cân,80.0,6.0,6.0,2.0,1.0,0.3,0.01,0.02,1.0,0.0,0.002,,,,
-67441138c36b585cf943d56d,Thịt băm chưng trứng ,Món ăn,Món chính,Thiếu cân,200.0,5.0,18.0,12.0,0.0,0.4,0.0,0.02,1.0,0.1,0.003,,,,
-67441138c36b585cf943d56f,Canh nấm kim châm nấu thịt,Món ăn,Món khác,Thiếu cân,100.0,6.0,8.0,4.0,1.0,0.3,0.01,0.02,1.0,0.05,0.003,,,,
-67441138c36b585cf943d578,Mực hấp,Món ăn,Món chính,Thiếu cân,100.0,2.0,18.0,2.0,0.0,0.3,0.0,0.02,0.0,0.1,0.002,,,,
-67441138c36b585cf943d57a,Canh xương khoai sọ,Món ăn,Món khác,Thiếu cân,180.0,12.0,10.0,8.0,2.0,0.4,0.01,0.02,1.0,0.05,0.003,,,,
-67441138c36b585cf943d57c,Canh bầu nấu tôm,Món ăn,Món khác,Thiếu cân,110.0,8.0,10.0,3.0,1.0,0.3,0.02,0.02,1.0,0.05,0.003,,,,
-67441138c36b585cf943d57e,Mousse Chocolate,Món ăn,Ăn vặt,Thiếu cân,290.0,25.0,5.0,20.0,1.5,0.15,0.0,0.015,17.5,0.06,0.0025,,,,
-67441138c36b585cf943d580,Bánh sữa tươi chiên giòn,Món ăn,Ăn vặt,Thiếu cân,400.0,50.0,6.0,20.0,0.5,0.25,0.0,0.015,12.5,0.06,0.0015,,,,
-67441138c36b585cf943d583,Bánh chậu cây kem phô mai,Món ăn,Ăn vặt,Thiếu cân,320.0,35.0,6.0,18.0,1.5,0.25,0.0,0.015,17.5,0.06,0.0025,,,,
-67441138c36b585cf943d58c,Sinh tố chuối dâu tây hạt chia,Đồ uống,Sinh tố,Thiếu cân,180.0,30.0,3.0,5.0,4.5,0.15,0.04,0.125,17.5,0.0,0.0015,,,,
-67441138c36b585cf943d590,Sinh tố cà chua,Đồ uống,Sinh tố,Thiếu cân,90.0,18.0,2.0,1.0,2.5,0.15,0.04,0.015,6.0,0.0,0.0015,,,,
-67441138c36b585cf943d592,Hồng trà sữa,Đồ uống,Loại khác,Thiếu cân,200.0,30.0,4.0,7.0,0.0,0.1,0.0,0.01,27.5,0.02,0.001,,,,
-67441138c36b585cf943d593,Trà sữa khoai môn,Đồ uống,Loại khác,Thiếu cân,250.0,40.0,3.0,8.0,1.0,0.1,0.01,0.01,32.5,0.02,0.001,,,,
-67441138c36b585cf943d596,Salad trộn mayonnaise,Món ăn,Món khác,Thiếu cân,150.0,10.0,2.0,12.0,2.5,0.3,0.02,0.01,5.0,0.05,0.002,,,,
-67441138c36b585cf943d59a,Chả giò tôm thịt,Món ăn,Món chính,Thiếu cân,200.0,15.0,10.0,10.0,1.0,0.4,0.01,0.03,2.0,0.1,0.003,,,,
-67441138c36b585cf943d59d,Sữa yến mạch bí đỏ,Đồ uống,Loại khác,Thiếu cân,130.0,20.0,3.0,4.0,1.0,0.1,0.01,0.0,6.0,0.0,0.002,,,,
-67441138c36b585cf943d59e,Canh mướp rau dền nấu tôm,Món ăn,Món khác,Thiếu cân,100.0,8.0,10.0,3.0,2.0,0.3,0.03,0.02,2.0,0.05,0.003,,,,
-67441138c36b585cf943d5a1,Cá hồi áp chảo sốt tiêu đen,Món ăn,Món chính,Thừa cân,400.0,5.0,25.0,30.0,0.0,0.4,0.0,0.03,1.0,0.1,0.004,,,,
-67441138c36b585cf943d5a4,Soup rau củ,Món ăn,Món khác,Thừa cân,70.0,10.0,2.0,2.0,3.0,0.3,0.04,0.0,2.0,0.0,0.003,,,,
-67441138c36b585cf943d5aa,Sườn ram sả ớt,Món ăn,Món chính,Thừa cân,300.0,8.0,20.0,18.0,0.5,0.6,0.01,0.1,5.0,0.1,0.003,,,,
-67441138c36b585cf943d5b0,Sữa yến mạch khoai lang,Đồ uống,Loại khác,Thừa cân,160.0,25.0,3.0,4.0,2.5,0.1,0.01,0.01,11.0,0.0,0.001,,,,
-67441138c36b585cf943d5b1,Sữa hạnh nhân yến mạch,Đồ uống,Loại khác,Thừa cân,60.0,10.0,1.0,3.0,1.5,0.1,0.0,0.01,6.0,0.0,0.001,,,,
-67441138c36b585cf943d5b4,Cháo gạo lứt yến mạch,Món ăn,Món khác,Thừa cân,140.0,25.0,5.0,2.0,3.0,0.2,0.01,0.0,1.0,0.0,0.003,,,,
-67441138c36b585cf943d5b7,Salad rau bina,Món ăn,Món khác,Thừa cân,70.0,8.0,2.0,3.0,2.0,0.1,0.04,0.0,2.0,0.0,0.003,,,,
-67441138c36b585cf943d5ba,Canh rong biển nấu cùng thịt nạc băm,Món ăn,Món khác,Thừa cân,90.0,6.0,10.0,3.0,1.5,0.4,0.01,0.02,1.0,0.05,0.002,,,,
-67441138c36b585cf943d5be,Bánh yến mạch nướng,Món ăn,Ăn vặt,Thừa cân,180.0,25.0,4.0,6.0,2.5,0.2,0.0,0.01,12.5,0.02,0.002,,,,
-67441138c36b585cf943d5c0,Nước ép bưởi,Đồ uống,Nước ép,Thừa cân,100.0,23.0,1.0,0.2,0.5,0.0,0.03,0.0,12.5,0.0,0.001,,,,
-67441138c36b585cf943d5c4,Pancake yến mạch,Món ăn,Ăn vặt,Thừa cân,180.0,30.0,4.0,6.0,2.0,0.2,0.0,0.0,5.0,0.05,0.002,,,,
-67441138c36b585cf943d5ca,Salad dưa leo,Món ăn,Món khác,Thừa cân,20.0,5.0,0.0,0.0,1.5,0.1,0.01,0.0,1.0,0.0,0.001,,,,
-67441138c36b585cf943d5cc,Nước hạt chia chanh sả,Đồ uống,Loại khác,Thừa cân,60.0,12.0,1.0,1.0,1.5,0.0,0.02,0.0,7.5,0.0,0.001,,,,
-67441138c36b585cf943d5cf,Salad gà sốt mè rang,Món ăn,Món khác,Thừa cân,150.0,5.0,18.0,8.0,2.5,0.4,0.01,0.05,4.0,0.1,0.002,,,,
-67441138c36b585cf943d5d2,Salad bơ cam,Món ăn,Món khác,Thừa cân,100.0,12.0,1.0,6.0,3.5,0.1,0.04,0.0,5.0,0.0,0.002,,,,
-67441138c36b585cf943d5d8,Ức gà phi lê sốt trái nho,Món ăn,Món chính,Thừa cân,220.0,10.0,25.0,9.0,1.0,0.3,0.02,0.03,5.0,0.1,0.003,,,,
-67441138c36b585cf943d5e3,Ớt nhồi thịt bằm,Món ăn,Món chính,Đau đầu,120.0,8.0,10.0,5.0,2.0,0.4,0.03,0.02,2.0,0.1,0.003,,,,
-67441138c36b585cf943d5e6,Cải thìa nướng,Món ăn,Món chay,Đau đầu,30.0,4.0,1.0,2.0,1.0,0.2,0.02,0.0,1.0,0.0,0.002,,,,
-67441138c36b585cf943d5ea,Nước cam,Đồ uống,Nước ép,Đau đầu,40.0,10.0,1.0,0.0,0.5,0.1,0.06,0.0,10.0,0.0,0.002,,,,
-67441138c36b585cf943d5eb,Sữa nghệ gừng và mật ong,Đồ uống,Loại khác,Đau đầu,90.0,12.0,2.0,3.0,0.5,0.1,0.01,0.0,8.0,0.0,0.02,,,,
-67441138c36b585cf943d5ec,Trà xanh chanh và bạc hà,Đồ uống,Loại khác,Đau đầu,10.0,3.0,0.0,0.0,0.0,0.1,0.03,0.0,1.0,0.0,0.001,,,,
-67441138c36b585cf943d5ed,Sinh tố quả mọng chuối và dừa,Đồ uống,Sinh tố,Đau đầu,180.0,30.0,2.0,4.0,3.0,0.1,0.04,0.0,15.0,0.0,0.002,,,,
-67441138c36b585cf943d5ef,Nước ép củ dền,Đồ uống,Nước ép,Đau đầu,60.0,13.0,1.0,0.2,0.5,0.1,0.02,0.0,9.0,0.0,0.003,,,,
-67441138c36b585cf943d5f1,Soup củ dền cốt dừa,Món ăn,Món khác,Đau đầu,150.0,18.0,3.0,8.0,2.0,0.3,0.02,0.0,4.0,0.0,0.003,,,,
-67441138c36b585cf943d5f4,Cá diêu hồng nướng gừng sả,Món ăn,Món chính,Đau đầu,180.0,2.0,20.0,8.0,0.0,0.4,0.01,0.03,1.0,0.1,0.003,,,,
-67441138c36b585cf943d5f5,Cá thu rim gừng ớt,Món ăn,Món chính,Đau đầu,200.0,5.0,18.0,10.0,0.0,0.4,0.01,0.03,2.0,0.1,0.003,,,,
-67441138c36b585cf943d5f6,Sinh tố dưa hấu cà rốt,Đồ uống,Sinh tố,Đau đầu,70.0,16.0,1.0,0.0,2.0,0.1,0.04,0.0,10.0,0.0,0.002,,,,
-67441138c36b585cf943d5f8,Cháo tôm khoai lang và nấm,Món ăn,Món khác,Máu nhiễm mỡ,150.0,20.0,8.0,3.0,3.0,0.3,0.02,0.02,2.0,0.05,0.003,,,,
-67441138c36b585cf943d5fa,Sữa macca khoai lang yến mạch,Đồ uống,Sữa hạt,Máu nhiễm mỡ,120.0,18.0,2.0,4.0,2.0,0.1,0.01,0.0,8.0,0.0,0.002,,,,
-67441138c36b585cf943d5fd,Canh rong biển thịt bò,Món ăn,Món khác,Máu nhiễm mỡ,180.0,5.0,18.0,8.0,1.0,0.4,0.01,0.02,1.0,0.05,0.003,,,,
-67441138c36b585cf943d5fe,Thịt bò xào cần nước,Món ăn,Món chính,Máu nhiễm mỡ,250.0,8.0,20.0,15.0,1.0,0.4,0.02,0.02,1.0,0.1,0.004,,,,
-67441138c36b585cf943d601,Bánh tart trứng yến mạch,Món ăn,Ăn vặt,Máu nhiễm mỡ,510.0,35.0,15.0,35.0,2.0,0.2,0.0,0.0,5.0,0.1,0.002,,,,
-67441138c36b585cf943d606,Cháo gạo lứt cá hồi,Món ăn,Món khác,Máu nhiễm mỡ,200.0,30.0,12.0,4.0,2.0,0.3,0.01,0.02,1.0,0.1,0.004,,,,
-67441138c36b585cf943d617,Dâu tây và rau củ trộn sốt tương mè,Món ăn,Món chay,Máu nhiễm mỡ,80.0,12.0,2.0,4.0,3.5,0.2,0.05,0.01,5.0,0.0,0.002,,,,
-67441138c36b585cf943d619,Salad cá hồi và đậu nành,Món ăn,Món khác,Máu nhiễm mỡ,180.0,8.0,15.0,10.0,3.5,0.3,0.02,0.04,2.0,0.1,0.004,,,,
-67441138c36b585cf943d624,Nước ép cà chua,Đồ uống,Nước ép,Máu nhiễm mỡ,20.0,5.0,1.0,0.0,1.5,0.1,0.03,0.01,12.5,0.0,0.002,,,,
-67441138c36b585cf943d625,Cá hồi nướng bơ tỏi,Món ăn,Món chính,Đau đầu,250.0,0.0,25.0,18.0,0.0,0.3,0.01,0.05,0.0,0.1,0.003,,,,
-67441138c36b585cf943d627,Cá hồi áp chảo sốt bơ chanh,Món ăn,Món chính,Đau đầu,280.0,0.0,25.0,20.0,0.0,0.3,0.02,0.05,0.0,0.1,0.003,,,,
-67441138c36b585cf943d628,Cá hồi măng tây sốt cam,Món ăn,Món chính,Đau đầu,300.0,5.0,25.0,20.0,2.0,0.3,0.03,0.04,3.0,0.1,0.004,,,,
-67441138c36b585cf943d62f,Cá hồi chiên sốt mật ong,Món ăn,Món chính,Đau đầu,300.0,15.0,22.0,18.0,0.0,0.3,0.01,0.05,5.0,0.1,0.003,,,,
-67441138c36b585cf943d63c,Nước ép dưa hấu,Đồ uống,Nước ép,Máu nhiễm mỡ,30.0,8.0,1.0,0.0,0.3,0.1,0.02,0.0,9.0,0.0,0.001,,,,
-67441138c36b585cf943d646,Cà phê sữa đậu nành Dalgona,Đồ uống,Loại khác,Máu nhiễm mỡ,100.0,8.0,2.0,4.0,0.0,0.1,0.0,0.0,10.0,0.0,0.001,,,,
-67441138c36b585cf943d648,Sữa đậu nành mè đen,Đồ uống,Sữa hạt,Máu nhiễm mỡ,100.0,12.0,3.0,5.0,1.0,0.1,0.0,0.0,5.0,0.0,0.003,,,,
-67441138c36b585cf943d64a,Sữa hạt óc chó,Đồ uống,Sữa hạt,Máu nhiễm mỡ,80.0,6.0,2.0,5.0,0.5,0.1,0.0,0.0,5.0,0.0,0.002,,,,
-67441138c36b585cf943d64b,Sữa hạt lanh,Đồ uống,Sữa hạt,Máu nhiễm mỡ,90.0,8.0,2.0,6.0,0.5,0.1,0.0,0.0,4.0,0.0,0.002,,,,
-67441138c36b585cf943d655,Canh bí xanh nấu đậu đỏ,Món ăn,Món khác,Gút,110.0,15.0,6.0,2.0,3.0,0.2,0.02,0.0,2.0,0.0,0.003,,,,
-67441138c36b585cf943d656,Cháo hạt dẻ,Món ăn,Món khác,Gút,150.0,30.0,3.0,3.0,2.0,0.1,0.01,0.0,3.0,0.0,0.002,,,,
-67441138c36b585cf943d657,Nước ép nho và táo,Đồ uống,Nước ép,Gút,60.0,15.0,0.0,0.0,0.5,0.1,0.02,0.0,12.0,0.0,0.002,,,,
-67441138c36b585cf943d659,Cà ri bí ngô đậu xanh và chuối,Món ăn,Món chay,Gút,200.0,30.0,5.0,8.0,4.0,0.3,0.03,0.0,5.0,0.0,0.004,,,,
-67441138c36b585cf943d65a,Cháo hẹ,Món ăn,Món khác,Gút,90.0,18.0,2.0,0.0,1.0,0.2,0.01,0.0,1.0,0.0,0.002,,,,
-67441138c36b585cf943d663,Sữa yến mạch lắc hạt điều việt quất,Đồ uống,Sữa hạt,Gút,150.0,20.0,3.0,7.0,1.0,0.1,0.01,0.0,8.0,0.0,0.002,,,,
-67441138c36b585cf943d665,Salad cà chua với sữa chua Hy Lạp,Món ăn,Món khác,Gút,90.0,8.0,4.0,5.0,2.0,0.2,0.03,0.0,4.0,0.01,0.002,,,,
-67441138c36b585cf943d666,Cơm súp lơ và rau củ,Món ăn,Món khác,Gút,100.0,15.0,3.0,2.0,3.0,0.2,0.03,0.0,2.0,0.0,0.003,,,,
-67441138c36b585cf943d66c,Salad cam và óc chó,Món ăn,Món khác,Gút,120.0,10.0,2.0,8.0,3.5,0.2,0.06,0.01,11.0,0.0,0.002,,,,
-67441138c36b585cf943d66e,Sinh tố chuối và việt quất,Đồ uống,Sinh tố,Gút,120.0,25.0,1.0,0.0,2.5,0.1,0.02,0.01,20.0,0.0,0.004,,,,
-67441138c36b585cf943d671,Canh bầu nấu tôm khô,Món ăn,Món khác,Gút,100.0,8.0,8.0,2.0,1.5,0.8,0.008,0.1,2.0,0.06,0.007,,,,
-67441138c36b585cf943d676,Canh bí xanh nấu thịt băm,Món ăn,Món khác,Gút,150.0,5.0,12.0,6.0,1.5,0.5,0.02,0.04,2.0,0.04,0.003,,,,
-67441138c36b585cf943d67a,Mướp xào mộc nhĩ,Món ăn,Món chay,Gút,100.0,10.0,3.0,2.0,2.5,0.3,0.01,0.01,3.0,0.0,0.002,,,,
-67441138c36b585cf943d67f,Cháo thịt nạc băm,Món ăn,Món chính,Gút,160.0,20.0,10.0,4.0,1.0,0.5,0.01,0.03,1.0,0.05,0.003,,,,
-67441138c36b585cf943d681,Sườn lợn rim,Món ăn,Món chính,Gút,200.0,5.0,18.0,12.0,0.0,0.7,0.0,0.05,5.0,0.1,0.005,,,,
-67441138c36b585cf943d689,Trứng đúc thịt,Món ăn,Món chính,Gút,160.0,5.0,10.0,8.0,0.5,0.4,0.01,0.04,1.0,0.2,0.003,,,,
-67441138c36b585cf943d68a,Bắp cải xào tỏi,Món ăn,Món chay,Gút,80.0,10.0,3.0,4.0,3.5,0.2,0.04,0.01,1.0,0.0,0.002,,,,
-67441138c36b585cf943d68e,Bắp cải xào thịt gà,Món ăn,Món chính,Gút,150.0,8.0,10.0,6.0,3.5,0.4,0.04,0.03,2.0,0.1,0.003,,,,
-67441138c36b585cf943d692,Cháo gà bí đỏ,Món ăn,Món khác,Gút,170.0,25.0,8.0,3.0,2.5,0.5,0.02,0.03,2.0,0.05,0.004,,,,
-67441138c36b585cf943d693,Cháo gà khoai tây,Món ăn,Món khác,Gút,180.0,28.0,8.0,3.0,1.5,0.5,0.01,0.03,1.0,0.05,0.003,,,,
-67441138c36b585cf943d694,Cháo gà hạt sen cà rốt,Món ăn,Món khác,Gút,190.0,25.0,10.0,4.0,2.5,0.5,0.02,0.03,2.0,0.05,0.004,,,,
-67441138c36b585cf943d695,Cháo gà rau ngót,Món ăn,Món khác,Gút,160.0,22.0,8.0,3.0,2.5,0.5,0.03,0.03,1.0,0.05,0.004,,,,
-67441138c36b585cf943d697,Cá hồi hấp nấm,Món ăn,Món chính,Gút,220.0,4.0,22.0,12.0,1.0,0.4,0.01,0.2,0.0,0.07,0.005,,,,
-67441138c36b585cf943d6a0,Đậu que xào cà rốt,Món ăn,Món chay,Gút,100.0,10.0,3.0,4.0,3.5,0.3,0.04,0.01,2.0,0.0,0.002,,,,
-67441138c36b585cf943d6ac,Thịt bò xào hành cần,Món ăn,Món chính,Thiếu máu,180.0,5.0,20.0,8.0,2.0,0.4,0.02,0.05,2.0,0.08,0.005,,,,
-67441138c36b585cf943d6ad,Thịt bò xào lúc lắc,Món ăn,Món chính,Thiếu máu,200.0,8.0,20.0,10.0,1.0,0.6,0.01,0.1,3.0,0.1,0.005,,,,
-67441138c36b585cf943d6b1,Thịt bò xào chua ngọt,Món ăn,Món chính,Thiếu máu,220.0,12.0,20.0,10.0,1.5,0.6,0.02,0.05,5.0,0.1,0.005,,,,
-67441138c36b585cf943d6b4,Thịt bò xào sa tế,Món ăn,Món chính,Thiếu máu,220.0,6.0,20.0,12.0,1.5,0.6,0.01,0.1,3.0,0.1,0.005,,,,
-67441138c36b585cf943d6b8,Thịt bò xào mướp đắng,Món ăn,Món chính,Thiếu máu,200.0,8.0,20.0,10.0,2.5,0.4,0.03,0.05,1.0,0.08,0.005,,,,
-67441138c36b585cf943d6c1,Canh gà hầm tam thất,Món ăn,Món khác,Thiếu máu,180.0,5.0,15.0,8.0,1.0,0.5,0.01,0.03,1.0,0.05,0.004,,,,
-67441138c36b585cf943d6c9,Nấm rơm xào cải thìa,Món ăn,Món chay,Thiếu máu,70.0,6.0,3.0,3.0,2.5,0.4,0.02,0.01,2.0,0.0,0.003,,,,
-67441138c36b585cf943d6d3,Sữa hạt sen,Đồ uống,Sữa hạt,Thiếu máu,90.0,10.0,2.0,3.0,1.5,0.1,0.01,0.01,12.5,0.0,0.002,,,,
-67441138c36b585cf943d6d6,Cá ngừ kho thơm,Món ăn,Món chính,Thiếu máu,180.0,8.0,20.0,6.0,1.0,0.5,0.02,0.05,5.0,0.1,0.003,,,,
-67441138c36b585cf943d6d9,Củ sắn xào thịt băm,Món ăn,Món chính,Thiếu máu,120.0,10.0,8.0,4.0,2.0,0.3,0.02,0.03,2.0,0.1,0.002,,,,
-67441138c36b585cf943d6e0,Canh rau dền thịt băm,Món ăn,Món khác,Thiếu máu,100.0,5.0,8.0,3.0,2.5,0.3,0.03,0.03,1.0,0.05,0.003,,,,
-67441138c36b585cf943d6e1,Sữa đậu đỏ,Đồ uống,Sữa hạt,Thiếu máu,90.0,12.0,3.0,2.0,1.5,0.1,0.01,0.01,12.5,0.0,0.002,,,,
-67441138c36b585cf943d6e4,Cháo cá hồi đậu phộng,Món ăn,Món khác,Thiếu máu,200.0,18.0,14.0,8.0,2.5,0.3,0.02,0.04,1.0,0.05,0.003,,,,
-67441138c36b585cf943d6e5,Cháo cá hồi đậu hủ non,Món ăn,Món khác,Thiếu máu,180.0,15.0,16.0,6.0,2.5,0.3,0.02,0.04,1.0,0.05,0.003,,,,
-67441138c36b585cf943d6e8,Canh tôm nấu củ dền,Món ăn,Món khác,Thiếu máu,100.0,7.0,8.0,2.0,2.5,0.3,0.03,0.03,2.0,0.05,0.003,,,,
-67441138c36b585cf943d6ea,Khổ qua xào trứng,Món ăn,Món khác,Thiếu máu,110.0,6.0,8.0,5.0,2.5,0.3,0.02,0.02,1.0,0.2,0.002,,,,
-67441138c36b585cf943d6eb,Canh giò heo nấu rau củ,Món ăn,Món khác,Thiếu máu,200.0,10.0,15.0,10.0,2.5,0.4,0.03,0.05,2.0,0.1,0.004,,,,
-67441138c36b585cf943d6ee,Mì trộn thịt bò sốt cà chua,Món ăn,Món khác,Thiếu máu,250.0,30.0,15.0,8.0,3.5,0.6,0.03,0.05,5.0,0.1,0.005,,,,
-67441138c36b585cf943d6f2,Thịt heo xào măng tây,Món ăn,Món chính,Thiếu máu,150.0,6.0,12.0,7.0,2.0,0.3,0.02,0.04,1.0,0.1,0.003,,,,
-67441138c36b585cf943d6f6,Canh củ dền thịt băm,Món ăn,Món khác,Thiếu máu,150.0,8.0,12.0,6.0,1.5,0.5,0.02,0.05,2.0,0.1,0.003,,,,
-67441138c36b585cf943d6f8,Salad củ dền,Món ăn,Món khác,Thiếu máu,120.0,12.0,3.0,6.0,3.5,0.2,0.04,0.01,5.0,0.0,0.004,,,,
-67441138c36b585cf943d6fc,Latte củ dền,Đồ uống,Loại khác,Thiếu máu,100.0,15.0,2.0,3.0,0.5,0.2,0.01,0.01,12.5,0.05,0.001,,,,
-67441138c36b585cf943d702,Canh kim chi chay,Món ăn,Món khác,,80.0,15.0,3.0,2.0,4.0,1.5,0.02,0.01,1.0,0.0,0.001,,,,
-67441138c36b585cf943d703,Canh hẹ đậu hũ non,Món ăn,Món khác,,70.0,8.0,5.0,3.0,2.0,0.6,0.015,0.01,1.0,0.0,0.5,,,,
-67441138c36b585cf943d707,Canh khoai mỡ chay,Món ăn,Món chay,,120.0,25.0,4.0,2.0,6.0,0.5,0.01,0.01,2.0,0.0,0.001,,,,
-67441138c36b585cf943d709,Canh ngũ sắc chay,Món ăn,Món chay,,100.0,18.0,5.0,2.0,4.0,0.6,0.02,0.01,2.0,0.0,0.001,,,,
-67441138c36b585cf943d70b,Nem nấm chay,Món ăn,Món chay,,200.0,35.0,8.0,4.0,5.0,0.5,0.01,0.01,2.0,0.0,0.001,,,,
-67441138c36b585cf943d711,Rau củ kho chay,Món ăn,Món chay,,250.0,50.0,8.0,5.0,10.0,1.5,0.015,0.01,5.0,0.0,0.0025,,,,
-67441138c36b585cf943d714,Hủ tiếu hoành thánh chay,Món ăn,Món chay,,450.0,80.0,20.0,10.0,8.0,2.0,0.015,0.01,5.0,0.0,0.003,,,,
-67441138c36b585cf943d715,Cà ri chay,Món ăn,Món chay,,500.0,70.0,15.0,25.0,10.0,1.5,0.01,0.01,5.0,0.0,0.003,,,,
-67441138c36b585cf943d3fa,Smoothie cải xoăn cam táo,Đồ uống,Sinh tố,Tiểu đường,165.0,38.0,3.0,2.0,7.0,0.075,0.09,0.015,22.5,0.0,0.0015,,,,
-67441138c36b585cf943d400,Salad cồi sò điệp thanh long đỏ,Món ăn,Món khác,Tiểu đường,250.0,18.0,20.0,11.0,3.5,0.4,0.06,0.075,6.0,0.06,0.0025,,,,
-67441138c36b585cf943d403,Thịt bò xào thanh long,Món ăn,Món chính,Tiểu đường,300.0,10.0,23.0,17.0,2.5,0.6,0.025,0.25,5.0,0.09,0.0035,,,,
-67441138c36b585cf943d412,Cá đối kho xơ mít,Món ăn,Món chính,Tiểu đường,250.0,8.0,25.0,10.0,2.5,0.6,0.025,0.125,4.0,0.06,0.0015,,,,
-67441138c36b585cf943d413,Xơ mít xào chua ngọt,Món ăn,Món chay,Tiểu đường,180.0,20.0,2.0,6.0,3.5,0.4,0.04,0.125,6.0,0.0,0.0015,,,,
-67441138c36b585cf943d414,Gỏi chôm chôm tôm thịt,Món ăn,Món chính,Tiểu đường,200.0,10.0,20.0,5.0,3.5,0.5,0.04,0.025,6.0,0.07,0.0015,,,,
-67441138c36b585cf943d418,Salad tôm nhãn,Món ăn,Món khác,Tiểu đường,200.0,15.0,20.0,5.0,3.5,0.4,0.04,0.125,6.0,0.07,0.0015,,,,
-67441138c36b585cf943d41d,Thạch đậu nành nhãn,Món ăn,Ăn vặt,Tiểu đường,100.0,10.0,3.0,3.0,2.5,0.15,0.025,0.015,12.5,0.0,0.0015,,,,
-67441138c36b585cf943d41e,Salad lê táo,Món ăn,Món khác,Tiểu đường,120.0,15.0,1.5,5.0,4.5,0.15,0.04,0.015,12.5,0.0,0.0015,,,,
-67441138c36b585cf943d421,Salad lê hạt điều,Món ăn,Món khác,Tiểu đường,180.0,12.0,4.0,14.0,4.5,0.25,0.04,0.015,9.0,0.0,0.0015,,,,
-67441138c36b585cf943d422,Đậu hũ trứng hấp tôm,Món ăn,Món chính,Tiểu đường,200.0,8.0,18.0,9.0,1.5,0.5,0.015,0.125,2.5,0.125,0.0025,,,,
-67441138c36b585cf943d432,Trứng hấp thịt,Món ăn,Món chính,Tiểu đường,150.0,1.0,12.0,7.0,0.0,0.5,0.0,0.02,1.0,0.2,0.004,,,,
-67441138c36b585cf943d435,Canh trứng nấu nấm rau củ,Món ăn,Món khác,Tiểu đường,90.0,8.0,4.0,3.0,2.0,0.5,0.02,0.02,1.0,0.1,0.003,,,,
-67441138c36b585cf943d436,Pudding sữa chua chuối và hạt chia,Món ăn,Ăn vặt,Tiểu đường,120.0,15.0,5.0,2.0,4.0,0.1,0.02,0.0,12.0,0.0,0.002,,,,
-67441138c36b585cf943d43c,Canh bí đỏ nấu tôm thịt viên,Món ăn,Món khác,Tiểu đường,180.0,12.0,15.0,7.0,2.0,0.5,0.02,0.02,2.0,0.05,0.003,,,,
-67441138c36b585cf943d43d,Canh bí đỏ hầm đậu,Món ăn,Món khác,Tiểu đường,120.0,15.0,5.0,3.0,4.0,0.4,0.02,0.01,2.0,0.0,0.003,,,,
-67441138c36b585cf943d443,Gỏi cà rốt dưa leo,Món ăn,Món chay,Tiểu đường,50.0,10.0,1.0,1.0,3.0,0.3,0.03,0.0,2.0,0.0,0.002,,,,
-67441138c36b585cf943d444,Đậu que cà rốt xào thịt băm,Món ăn,Món chính,Tiểu đường,180.0,15.0,12.0,8.0,3.0,0.5,0.02,0.02,2.0,0.05,0.003,,,,
-67441138c36b585cf943d44a,Bánh quy hạnh nhân,Món ăn,Ăn vặt,Tiểu đường,200.0,8.0,5.0,15.0,1.0,0.2,0.0,0.0,5.0,0.05,0.002,,,,
-67441138c36b585cf943d44b,Bánh quy hạt dẻ yến mạch,Món ăn,Ăn vặt,Tiểu đường,180.0,20.0,4.0,10.0,2.0,0.2,0.0,0.0,6.0,0.05,0.002,,,,
-67441138c36b585cf943d452,Bánh óc chó,Món ăn,Ăn vặt,Tiểu đường,430.0,25.0,10.0,35.0,2.0,0.2,0.0,0.0,10.0,0.05,0.003,,,,
-67441138c36b585cf943d453,Bánh dứa yến mạch úp ngược,Món ăn,Ăn vặt,Tiểu đường,280.0,40.0,6.0,8.0,3.0,0.2,0.02,0.0,15.0,0.05,0.002,,,,
-67441138c36b585cf943d454,Bánh tôm khoai lang chiên giòn,Món ăn,Ăn vặt,Tiểu đường,250.0,30.0,12.0,8.0,2.0,0.5,0.01,0.02,2.0,0.1,0.003,,,,
-67441138c36b585cf943d457,Salad cá hồi khoai lang và rau củ,Món ăn,Món khác,Cao huyết áp,400.0,25.0,30.0,18.0,3.5,0.4,0.04,0.125,2.5,0.06,0.0025,,,,
-67441138c36b585cf943d45e,Canh khoai môn hầm sườn,Món ăn,Món khác,Tiểu đường,450.0,50.0,20.0,20.0,2.0,0.6,0.01,0.02,1.0,0.05,0.003,,,,
-67441138c36b585cf943d465,Vịt nấu khoai sọ,Món ăn,Món chính,Tiểu đường,500.0,40.0,35.0,25.0,2.0,0.6,0.01,0.03,1.0,0.1,0.004,,,,
-67441138c36b585cf943d46a,Canh khoai mỳ thịt nạc,Món ăn,Món khác,Tiểu đường,300.0,40.0,20.0,10.0,2.0,0.5,0.01,0.02,1.0,0.05,0.003,,,,
-67441138c36b585cf943d46d,Rau củ xào thịt và khoai tây,Món ăn,Món chính,Tiểu đường,350.0,40.0,20.0,15.0,3.0,0.5,0.02,0.02,2.0,0.05,0.003,,,,
-67441138c36b585cf943d46f,Cháo khoai tây cà rốt cua biển,Món ăn,Món khác,Tiểu đường,300.0,40.0,20.0,10.0,2.0,0.4,0.02,0.02,1.0,0.05,0.003,,,,
-67441138c36b585cf943d472,Bún sườn mọc chua,Món ăn,Món khác,Tiểu đường,350.0,40.0,25.0,10.0,2.0,0.6,0.01,0.02,2.0,0.05,0.003,,,,
-67441138c36b585cf943d476,Bún riêu cua,Món ăn,Món khác,Tiểu đường,380.0,35.0,30.0,15.0,2.0,0.6,0.01,0.03,2.0,0.1,0.004,,,,
-67441138c36b585cf943d47a,Phở xào ức gà rau củ,Món ăn,Món khác,Tiểu đường,400.0,45.0,25.0,15.0,3.0,0.5,0.02,0.02,2.0,0.1,0.004,,,,
-67441138c36b585cf943d47b,Phở gà xé trộn,Món ăn,Món khác,Tiểu đường,300.0,35.0,20.0,10.0,2.0,0.4,0.01,0.02,1.0,0.05,0.003,,,,
-67441138c36b585cf943d480,Hủ tiếu gà cá phile,Món ăn,Món khác,Tiểu đường,350.0,35.0,25.0,10.0,2.0,0.5,0.01,0.02,1.0,0.1,0.003,,,,
-67441138c36b585cf943d48b,Xôi đậu xanh hạt sen,Món ăn,Món khác,Tiểu đường,250.0,50.0,6.0,4.0,2.0,0.2,0.01,0.0,1.0,0.0,0.002,,,,
-67441138c36b585cf943d48e,Xôi nếp than đậu xanh,Món ăn,Món khác,Tiểu đường,210.0,40.0,5.0,3.0,2.0,0.2,0.01,0.0,1.0,0.0,0.002,,,,
-67441138c36b585cf943d494,Bánh mì sandwich cá hồi,Món ăn,Món khác,Cao huyết áp,320.0,30.0,18.0,15.0,2.5,0.6,0.015,0.125,1.5,0.06,0.0025,,,,
-67441138c36b585cf943d496,Bánh gạo cay Hàn Quốc,Món ăn,Món khác,Tiểu đường,480.0,80.0,12.0,8.0,1.0,1.0,0.0,0.01,5.0,0.0,0.002,,,,
-67441138c36b585cf943d498,Bánh canh cua giò heo,Món ăn,Món khác,Tiểu đường,520.0,45.0,30.0,20.0,1.0,0.9,0.01,0.03,1.0,0.1,0.004,,,,
-67441138c36b585cf943d499,Bánh canh cá lóc,Món ăn,Món khác,Tiểu đường,450.0,50.0,20.0,12.0,1.0,0.7,0.01,0.02,1.0,0.05,0.003,,,,
-67441138c36b585cf943d49c,Bánh cuốn keto,Món ăn,Ăn vặt,Tiểu đường,250.0,15.0,20.0,12.0,2.0,0.4,0.0,0.01,0.0,0.05,0.002,,,,
-67441138c36b585cf943d49f,Bánh cuốn nhân ức gà nấm mèo,Món ăn,Ăn vặt,Tiểu đường,350.0,50.0,22.0,8.0,2.0,0.5,0.0,0.02,1.0,0.05,0.003,,,,
-67441138c36b585cf943d4a0,Bánh cuốn gấc nhân rau củ,Món ăn,Ăn vặt,Tiểu đường,320.0,60.0,8.0,6.0,2.0,0.4,0.01,0.01,1.0,0.0,0.002,,,,
-67441138c36b585cf943d4a8,Rau muống xào thịt bò,Món ăn,Món chính,Tiểu đường,250.0,10.0,22.0,15.0,2.0,0.5,0.01,0.02,1.0,0.1,0.004,,,,
-67441138c36b585cf943d4ae,Nộm (gỏi) củ đậu,Món ăn,Món khác,Tiểu đường,120.0,15.0,6.0,4.0,3.0,0.3,0.01,0.0,2.0,0.0,0.002,,,,
-67441138c36b585cf943d4b1,Củ đậu xào thịt bò,Món ăn,Món chính,Tiểu đường,220.0,10.0,22.0,10.0,2.0,0.5,0.01,0.02,1.0,0.1,0.004,,,,
-67441138c36b585cf943d4b9,Sinh tố ổi táo,Đồ uống,Sinh tố,Tiểu đường,150.0,35.0,1.0,2.0,4.0,0.1,0.05,0.0,20.0,0.0,0.002,,,,
-67441138c36b585cf943d4bd,Bơ nhồi cá hồi với hạt diêm mạch,Món ăn,Món chính,Tiểu đường,300.0,20.0,25.0,15.0,4.0,0.2,0.03,0.02,2.0,0.1,0.004,,,,
-67441138c36b585cf943d4c5,Salad táo sốt mè rang,Món ăn,Món khác,Tiểu đường,150.0,20.0,2.0,8.0,3.0,0.2,0.04,0.0,5.0,0.0,0.002,,,,
-67441138c36b585cf943d4c8,Smoothie táo quế,Đồ uống,Sinh tố,Tiểu đường,160.0,35.0,1.0,2.0,2.0,0.1,0.03,0.0,8.0,0.0,0.002,,,,
-67441138c36b585cf943d4cb,Salad táo tàu rau củ thập cẩm,Món ăn,Món khác,Tiểu đường,90.0,18.0,1.5,4.0,4.0,0.2,0.05,0.0,6.0,0.0,0.003,,,,
-67441138c36b585cf943d4d0,Canh sườn non nấu táo đỏ và nấm,Món ăn,Món khác,Tiểu đường,350.0,15.0,30.0,20.0,1.0,0.4,0.02,0.02,2.0,0.1,0.003,,,,
-67441138c36b585cf943d4d6,Salad măng tây hạt điều,Món ăn,Món khác,Tiểu đường,100.0,5.0,3.0,8.0,3.0,0.2,0.04,0.0,2.0,0.0,0.002,,,,
-67441138c36b585cf943d4da,Canh mướp hương đậu phộng,Món ăn,Món khác,Tiểu đường,160.0,18.0,8.0,7.0,2.0,0.3,0.03,0.0,1.0,0.0,0.002,,,,
-67441138c36b585cf943d4dd,Súp bắp hải sản,Món ăn,Món khác,Tiểu đường,300.0,25.0,25.0,5.0,2.0,0.3,0.02,0.02,2.0,0.05,0.003,,,,
-67441138c36b585cf943d4df,Bông cải trắng xào bắp nấm,Món ăn,Món khác,Tiểu đường,150.0,12.0,5.0,7.0,3.0,0.3,0.04,0.0,2.0,0.0,0.002,,,,
-67441138c36b585cf943d4e2,Nước cam bột sắn dây,Đồ uống,Loại khác,Tiểu đường,110.0,26.0,1.0,0.5,0.0,0.1,0.05,0.0,8.0,0.0,0.001,,,,
-67441138c36b585cf943d4e8,Yến chưng lê,Món ăn,Món khác,Tiểu đường,45.0,10.0,1.0,0.0,1.0,0.1,0.02,0.0,6.0,0.0,0.001,,,,
-67441138c36b585cf943d4ea,Lẩu riêu tôm cua,Món ăn,Món khác,Tiểu đường,500.0,15.0,40.0,20.0,2.0,0.5,0.02,0.03,2.0,0.1,0.004,,,,
-67441138c36b585cf943d4f4,Canh rau tần ô nấu thịt nạc,Món ăn,Món khác,Tiểu đường,150.0,8.0,15.0,5.0,2.0,0.3,0.03,0.02,1.0,0.05,0.003,,,,
-67441138c36b585cf943d4f6,Thịt nạc vai nướng rau củ,Món ăn,Món chính,Tiểu đường,400.0,12.0,30.0,20.0,2.0,0.4,0.02,0.02,1.0,0.1,0.004,,,,
-67441138c36b585cf943d4f7,Đậu cô ve xào thịt nạc,Món ăn,Món chính,Tiểu đường,200.0,10.0,15.0,8.0,2.0,0.3,0.02,0.02,1.0,0.05,0.003,,,,
-67441138c36b585cf943d4fc,Thịt bò xào bông cải xanh,Món ăn,Món chính,Tiểu đường,250.0,12.0,20.0,10.0,3.0,0.3,0.04,0.02,1.0,0.1,0.004,,,,
-67441138c36b585cf943d4fe,Canh khổ qua tôm thịt,Món ăn,Món khác,Tiểu đường,180.0,10.0,20.0,6.0,2.0,0.3,0.02,0.02,1.0,0.05,0.003,,,,
-67441138c36b585cf943d501,Súp tôm bông cải xanh,Món ăn,Món khác,Tiểu đường,150.0,15.0,10.0,4.0,2.0,0.3,0.03,0.02,1.0,0.05,0.003,,,,
-67441138c36b585cf943d506,Canh bí đao thịt băm,Món ăn,Món khác,Tiểu đường,120.0,10.0,12.0,3.0,1.0,0.3,0.02,0.02,1.0,0.05,0.003,,,,
-67441138c36b585cf943d507,Canh rong biển,Món ăn,Món khác,Tiểu đường,40.0,5.0,4.0,1.0,1.0,0.3,0.01,0.02,1.0,0.0,0.002,,,,
-67441138c36b585cf943d508,Canh cá hồi măng chua,Món ăn,Món khác,Tiểu đường,200.0,10.0,18.0,10.0,1.0,0.4,0.02,0.03,1.0,0.1,0.004,,,,
-67441138c36b585cf943d50d,Bò kho,Món ăn,Món chính,Tiểu đường,350.0,15.0,25.0,20.0,1.0,0.5,0.01,0.03,2.0,0.1,0.004,,,,
-67441138c36b585cf943d50f,Salad rau củ sốt sữa chua,Món ăn,Món khác,Tiểu đường,120.0,15.0,4.0,5.0,3.0,0.2,0.04,0.0,3.0,0.0,0.002,,,,
-67441138c36b585cf943d51a,Canh cải xoong tôm,Món ăn,Món khác,Tiểu đường,100.0,5.0,12.0,2.0,1.0,0.3,0.03,0.02,1.0,0.05,0.003,,,,
-67441138c36b585cf943d51f,Gỏi rau càng cua trộn cua,Món ăn,Món chính,Tiểu đường,150.0,10.0,12.0,5.0,2.0,0.2,0.03,0.02,1.0,0.05,0.003,,,,
-67441138c36b585cf943d524,Cá ba sa kho thơm,Món ăn,Món chính,Cao huyết áp,250.0,10.0,20.0,15.0,1.5,0.9,0.015,0.175,4.0,0.06,0.0015,,,,
-67441138c36b585cf943d525,Cá diêu hồng hấp kiểu Trung,Món ăn,Món chính,Cao huyết áp,220.0,5.0,25.0,10.0,1.5,0.6,0.015,0.175,2.5,0.06,0.0015,,,,
-67441138c36b585cf943d52c,Canh cà rốt thịt bằm,Món ăn,Món khác,Cao huyết áp,120.0,8.0,10.0,5.0,2.5,0.6,0.025,0.125,2.5,0.06,0.0015,,,,
-67441138c36b585cf943d531,Canh rau củ ngũ sắc,Món ăn,Món khác,Cao huyết áp,90.0,12.0,3.0,3.0,3.5,0.5,0.04,0.015,1.5,0.0,0.0015,,,,
-67441138c36b585cf943d532,Bông cải xanh xào tỏi,Món ăn,Món chay,Cao huyết áp,120.0,10.0,4.0,8.0,3.5,0.3,0.04,0.015,1.5,0.0,0.0025,,,,
-67441138c36b585cf943d535,Salad lựu cải bó xôi,Món ăn,Món khác,Cao huyết áp,120.0,15.0,3.0,5.0,3.5,0.15,0.04,0.015,6.0,0.0,0.0025,,,,
-67441138c36b585cf943d539,Sữa chua hạt chia và lựu,Món ăn,Ăn vặt,Cao huyết áp,100.0,15.0,5.0,2.0,3.5,0.15,0.025,0.015,11.0,0.0,0.0015,,,,
-67441138c36b585cf943d53a,Canh củ dền nấu bông cải,Món ăn,Món khác,Cao huyết áp,90.0,15.0,3.0,3.0,3.5,0.4,0.04,0.015,2.5,0.0,0.0025,,,,
-67441138c36b585cf943d53c,Đậu hũ chiên sả,Món ăn,Món chính,Cao huyết áp,150.0,6.0,8.0,10.0,1.5,0.5,0.015,0.015,1.5,0.0,0.0025,,,,
-67441138c36b585cf943d53f,Cá nục sốt cà chua,Món ăn,Món chính,Cao huyết áp,220.0,10.0,25.0,10.0,1.5,0.6,0.025,0.175,2.5,0.07,0.0025,,,,
-67441138c36b585cf943d540,Đậu hũ kho nấm rơm,Món ăn,Món chính,Cao huyết áp,200.0,10.0,12.0,8.0,2.5,0.5,0.015,0.015,2.5,0.0,0.0025,,,,
-67441138c36b585cf943d543,Yến mạch sốt việt quất,Món ăn,Món khác,Cao huyết áp,140.0,25.0,3.0,3.0,3.0,0.1,0.02,0.0,10.0,0.0,0.003,,,,
-67441138c36b585cf943d544,Yến mạch trái cây,Món ăn,Món khác,Cao huyết áp,160.0,30.0,4.0,3.0,4.0,0.1,0.04,0.0,12.0,0.0,0.004,,,,
-67441138c36b585cf943d546,Bánh cookies việt quất,Món ăn,Ăn vặt,Cao huyết áp,180.0,25.0,3.0,8.0,2.0,0.2,0.01,0.0,15.0,0.05,0.002,,,,
-67441138c36b585cf943d54d,Bò né,Món ăn,Món chính,Thiếu cân,250.0,10.0,20.0,18.0,0.0,0.4,0.0,0.03,1.0,0.1,0.004,,,,
-67441138c36b585cf943d551,Chè trôi nước,Món ăn,Ăn vặt,Thiếu cân,250.0,45.0,2.0,6.0,1.0,0.1,0.0,0.0,20.0,0.0,0.002,,,,
-67441138c36b585cf943d554,Sữa đậu nành,Đồ uống,Sữa hạt,Thiếu cân,80.0,6.0,7.0,4.0,1.0,0.1,0.0,0.0,6.0,0.0,0.002,,,,
-67441138c36b585cf943d562,Gà kho sả ớt,Món ăn,Món chính,Thiếu cân,200.0,5.0,18.0,12.0,0.0,0.4,0.01,0.03,2.0,0.1,0.003,,,,
-67441138c36b585cf943d568,Bún bò,Món ăn,Món khác,Thiếu cân,400.0,50.0,20.0,12.0,3.0,0.5,0.02,0.03,2.0,0.1,0.004,,,,
-67441138c36b585cf943d570,Canh cua rau đay,Món ăn,Món khác,Thiếu cân,120.0,4.0,10.0,6.0,2.0,0.3,0.02,0.02,1.0,0.05,0.003,,,,
-67441138c36b585cf943d573,Bò kho cà rốt,Món ăn,Món chính,Thiếu cân,220.0,12.0,20.0,10.0,2.0,0.4,0.02,0.03,2.0,0.1,0.004,,,,
-67441138c36b585cf943d574,Thịt viên rim,Món ăn,Món chính,Thiếu cân,180.0,8.0,15.0,8.0,1.0,0.4,0.01,0.02,2.0,0.1,0.003,,,,
-67441138c36b585cf943d575,Khoai tây chiên lắc phô mai,Món ăn,Ăn vặt,Thiếu cân,250.0,30.0,4.0,15.0,2.0,0.5,0.01,0.0,1.0,0.02,0.002,,,,
-67441138c36b585cf943d576,Cà tím nhồi thịt,Món ăn,Món chính,Thiếu cân,150.0,8.0,10.0,7.0,3.0,0.3,0.02,0.02,2.0,0.05,0.003,,,,
-67441138c36b585cf943d581,Bánh trung thu nhân trứng muối tan chảy,Món ăn,Ăn vặt,Thiếu cân,450.0,55.0,8.0,18.0,1.5,0.4,0.0,0.015,22.5,0.125,0.0025,,,,
-67441138c36b585cf943d582,Bánh kem oreo,Món ăn,Ăn vặt,Thiếu cân,300.0,40.0,5.0,15.0,1.5,0.25,0.0,0.015,17.5,0.06,0.0025,,,,
-67441138c36b585cf943d584,Bánh phô mai,Món ăn,Ăn vặt,Thiếu cân,350.0,30.0,7.0,22.0,0.5,0.25,0.0,0.015,17.5,0.125,0.0025,,,,
-67441138c36b585cf943d587,Bánh cheesecake matcha,Món ăn,Ăn vặt,Thiếu cân,360.0,32.0,6.0,24.0,1.5,0.25,0.0,0.015,17.5,0.125,0.0025,,,,
-67441138c36b585cf943d589,Bánh bông lan cuộn trái cây charlotte,Món ăn,Ăn vặt,Thiếu cân,250.0,35.0,4.0,12.0,1.5,0.25,0.015,0.015,22.5,0.06,0.0025,,,,
-67441138c36b585cf943d58f,Sinh tố sữa dừa,Đồ uống,Sinh tố,Thiếu cân,200.0,25.0,3.0,10.0,1.5,0.15,0.015,0.015,12.5,0.0,0.0015,,,,
-67441138c36b585cf943d594,Cà ri thái xanh tôm và củ hủ dừa,Món ăn,Món khác,Thiếu cân,350.0,15.0,20.0,22.0,2.5,0.5,0.02,0.05,5.0,0.1,0.003,,,,
-67441138c36b585cf943d599,Chả giò phô mai,Món ăn,Món chính,Thiếu cân,220.0,20.0,8.0,12.0,1.0,0.3,0.01,0.02,2.0,0.1,0.002,,,,
-67441138c36b585cf943d59b,Cá bống kho tiêu,Món ăn,Món chính,Thiếu cân,180.0,5.0,15.0,10.0,0.0,0.4,0.0,0.03,1.0,0.1,0.003,,,,
-67441138c36b585cf943d5a2,Cải thìa xào tỏi,Món ăn,Món chay,Thừa cân,80.0,5.0,3.0,4.0,2.0,0.2,0.03,0.0,1.0,0.0,0.002,,,,
-67441138c36b585cf943d5a5,Ức gà nướng,Món ăn,Món chính,Thừa cân,150.0,0.0,30.0,3.0,0.0,0.3,0.0,0.03,0.0,0.1,0.002,,,,
-67441138c36b585cf943d5ab,Sườn ram chanh dây,Món ăn,Món chính,Thừa cân,280.0,10.0,20.0,15.0,0.5,0.6,0.02,0.1,5.0,0.1,0.003,,,,
-67441138c36b585cf943d5ae,Sữa yến mạch mè đen,Đồ uống,Loại khác,Thừa cân,130.0,20.0,3.0,4.0,1.5,0.1,0.0,0.01,6.0,0.0,0.001,,,,
-67441138c36b585cf943d5b2,Sữa yến mạch óc chó,Đồ uống,Loại khác,Thừa cân,180.0,20.0,4.0,8.0,1.0,0.1,0.0,0.0,6.0,0.0,0.002,,,,
-67441138c36b585cf943d5b3,Sữa yến mạch nguyên chất,Đồ uống,Loại khác,Thừa cân,120.0,20.0,3.0,3.0,0.5,0.1,0.0,0.0,5.0,0.0,0.001,,,,
-67441138c36b585cf943d5bc,Sườn cốt lết nướng tiêu,Món ăn,Món chính,Thừa cân,250.0,5.0,20.0,15.0,0.5,0.6,0.0,0.1,2.0,0.1,0.003,,,,
-67441138c36b585cf943d5bf,Nước ép lựu,Đồ uống,Nước ép,Thừa cân,120.0,30.0,1.0,0.5,0.5,0.0,0.02,0.0,17.5,0.0,0.001,,,,
-67441138c36b585cf943d5c7,Detox cam vàng dâu táo,Đồ uống,Loại khác,Thừa cân,35.0,8.0,0.0,0.0,1.5,0.0,0.04,0.0,12.5,0.0,0.001,,,,
-67441138c36b585cf943d5d1,Salad bắp cải tím,Món ăn,Món khác,Thừa cân,60.0,10.0,1.0,2.0,2.5,0.2,0.03,0.0,2.0,0.0,0.002,,,,
-67441138c36b585cf943d5d3,Salad tôm cam,Món ăn,Món khác,Thừa cân,120.0,8.0,12.0,4.0,2.5,0.3,0.03,0.05,4.0,0.1,0.002,,,,
-67441138c36b585cf943d5d6,Ức gà luộc,Món ăn,Món chính,Thừa cân,150.0,0.0,31.0,2.0,0.0,0.2,0.0,0.1,0.0,0.1,0.002,,,,
-67441138c36b585cf943d5d7,Gà kẹp salad rau bina áp chảo,Món ăn,Món khác,Thừa cân,200.0,10.0,25.0,8.0,2.5,0.5,0.02,0.05,3.0,0.1,0.003,,,,
-67441138c36b585cf943d5d9,Nước ép ổi,Đồ uống,Nước ép,Thừa cân,40.0,10.0,0.0,0.0,1.0,0.1,0.05,0.0,10.0,0.0,0.002,,,,
-67441138c36b585cf943d5e1,Chè đậu đen bột lọc,Món ăn,Ăn vặt,Đau đầu,180.0,30.0,5.0,5.0,3.0,0.1,0.01,0.0,15.0,0.0,0.003,,,,
-67441138c36b585cf943d5e2,Chè đậu xanh nha đam đường phèn,Món ăn,Ăn vặt,Đau đầu,140.0,25.0,2.0,2.0,2.0,0.1,0.01,0.0,15.0,0.0,0.002,,,,
-67441138c36b585cf943d5e5,Súp bí đỏ cà ri,Món ăn,Món khác,Đau đầu,100.0,15.0,2.0,4.0,2.0,0.3,0.02,0.0,3.0,0.0,0.003,,,,
-67441138c36b585cf943d5e7,Gà xào nước tương,Món ăn,Món chính,Đau đầu,180.0,5.0,20.0,8.0,0.5,0.5,0.01,0.03,2.0,0.1,0.003,,,,
-67441138c36b585cf943d5e9,Nước ép nho,Đồ uống,Nước ép,Đau đầu,120.0,28.0,1.0,0.3,0.5,0.1,0.01,0.0,12.0,0.0,0.002,,,,
-67441138c36b585cf943d5f0,Canh sườn nấu củ dền,Món ăn,Món khác,Đau đầu,200.0,10.0,15.0,10.0,2.0,0.4,0.02,0.02,3.0,0.1,0.004,,,,
-67441138c36b585cf943d5f9,Súp thịt gà khoai lang tím đậu hũ non,Món ăn,Món khác,Máu nhiễm mỡ,170.0,15.0,12.0,6.0,2.0,0.3,0.02,0.02,2.0,0.05,0.003,,,,
-67441138c36b585cf943d5fc,Salad trộn dầu giấm thịt bò,Món ăn,Món khác,Máu nhiễm mỡ,220.0,6.0,20.0,12.0,2.0,0.3,0.03,0.02,3.0,0.05,0.004,,,,
-67441138c36b585cf943d5ff,Bắp cải cuộn thịt bò,Món ăn,Món chính,Máu nhiễm mỡ,180.0,10.0,15.0,8.0,2.0,0.3,0.02,0.02,2.0,0.1,0.004,,,,
-67441138c36b585cf943d603,Canh cà chua trứng,Món ăn,Món khác,Máu nhiễm mỡ,100.0,7.0,5.0,5.0,1.0,0.3,0.02,0.01,2.0,0.1,0.002,,,,
-67441138c36b585cf943d60a,Cá nục kho thơm,Món ăn,Món chính,Máu nhiễm mỡ,250.0,10.0,20.0,12.0,1.0,0.5,0.01,0.1,3.0,0.1,0.002,,,,
-67441138c36b585cf943d613,Dứa nướng cùng thịt bò xiên que,Món ăn,Món chính,Gút,180.0,10.0,20.0,6.0,1.5,0.4,0.03,0.05,3.0,0.1,0.004,,,,
-67441138c36b585cf943d626,Salad cá hồi sốt dầu giấm mayonnaise,Món ăn,Món khác,Đau đầu,300.0,10.0,18.0,20.0,2.5,0.4,0.02,0.03,3.0,0.1,0.003,,,,
-67441138c36b585cf943d62a,Cá hồi sốt tiêu,Món ăn,Món chính,Đau đầu,280.0,2.0,25.0,20.0,0.0,0.3,0.01,0.05,0.0,0.1,0.003,,,,
-67441138c36b585cf943d62d,Mì tươi sốt cà chua đậu hũ,Món ăn,Món khác,Máu nhiễm mỡ,200.0,30.0,8.0,6.0,3.5,0.3,0.03,0.02,3.0,0.0,0.004,,,,
-67441138c36b585cf943d62e,Cá hồi sốt rau củ,Món ăn,Món chính,Đau đầu,250.0,10.0,22.0,15.0,2.5,0.3,0.03,0.04,2.0,0.1,0.004,,,,
-67441138c36b585cf943d636,Nước ép măng tây,Đồ uống,Nước ép,Máu nhiễm mỡ,25.0,5.0,2.0,0.0,1.5,0.1,0.02,0.01,5.0,0.0,0.002,,,,
-67441138c36b585cf943d637,Nước ép cải bó xôi,Đồ uống,Nước ép,Máu nhiễm mỡ,20.0,4.0,1.0,0.0,1.5,0.1,0.03,0.01,5.0,0.0,0.002,,,,
-67441138c36b585cf943d63a,Nước ép cam,Đồ uống,Nước ép,Máu nhiễm mỡ,45.0,11.0,1.0,0.0,0.5,0.1,0.06,0.0,12.0,0.0,0.002,,,,
-67441138c36b585cf943d63f,Nước ép táo,Đồ uống,Nước ép,Máu nhiễm mỡ,50.0,13.0,0.0,0.0,0.5,0.1,0.02,0.0,11.0,0.0,0.001,,,,
-67441138c36b585cf943d643,Salad ức gà ăn kèm sốt sữa chua,Món ăn,Món khác,Máu nhiễm mỡ,180.0,8.0,20.0,6.0,2.5,0.3,0.02,0.03,3.0,0.1,0.003,,,,
-67441138c36b585cf943d650,Đậu phụ hấp gừng,Món ăn,Món chính,Gút,90.0,3.0,8.0,4.0,1.0,0.2,0.01,0.0,1.0,0.0,0.002,,,,
-67441138c36b585cf943d651,Đậu phụ sốt cà chua,Món ăn,Món chính,Gút,100.0,8.0,6.0,4.0,2.0,0.3,0.02,0.0,3.0,0.0,0.003,,,,
-67441138c36b585cf943d65c,Bắp cải trộn,Món ăn,Món chay,Gút,80.0,10.0,2.0,3.0,2.0,0.2,0.03,0.0,2.0,0.0,0.002,,,,
-67441138c36b585cf943d660,Cháo đậu đỏ tim sen,Món ăn,Món khác,Gút,120.0,20.0,4.0,2.0,3.0,0.2,0.01,0.0,2.0,0.0,0.003,,,,
-67441138c36b585cf943d662,Bánh mì lúa mạch ăn kèm bơ và trứng,Món ăn,Món khác,Gút,200.0,20.0,10.0,10.0,3.0,0.4,0.0,0.02,2.0,0.2,0.004,,,,
-67441138c36b585cf943d668,Sandwich tôm với trứng và bơ,Món ăn,Món khác,Gút,250.0,25.0,15.0,12.0,2.0,0.4,0.01,0.02,2.0,0.2,0.003,,,,
-67441138c36b585cf943d66b,Cá tra tẩm gia vị,Món ăn,Món chính,Gút,180.0,0.0,20.0,10.0,0.0,0.5,0.0,0.15,0.0,0.07,0.005,,,,
-67441138c36b585cf943d66d,Sinh tố thơm,Đồ uống,Sinh tố,Gút,80.0,20.0,0.0,0.0,1.5,0.1,0.05,0.01,17.5,0.0,0.003,,,,
-67441138c36b585cf943d672,Cá hồi áp chảo,Món ăn,Món chính,Gút,220.0,0.0,22.0,14.0,0.0,0.8,0.0,0.2,0.0,0.07,0.008,,,,
-67441138c36b585cf943d675,Sữa hạt sen hạnh nhân,Đồ uống,Sữa hạt,Gút,100.0,12.0,2.0,4.0,1.0,0.1,0.01,0.01,9.0,0.0,0.002,,,,
-67441138c36b585cf943d679,Mướp nhồi tôm hấp,Món ăn,Món chính,Gút,120.0,5.0,10.0,3.0,1.5,0.3,0.01,0.03,2.0,0.06,0.003,,,,
-67441138c36b585cf943d688,Cá bống kho tộ,Món ăn,Món chính,Gút,180.0,8.0,15.0,8.0,0.0,0.5,0.01,0.05,5.0,0.1,0.003,,,,
-67441138c36b585cf943d68b,Bắp cải xào trứng,Món ăn,Món khác,Gút,120.0,8.0,6.0,6.0,3.5,0.3,0.04,0.02,1.0,0.2,0.002,,,,
-67441138c36b585cf943d68c,Bắp cải xào cà chua,Món ăn,Món chay,Gút,90.0,10.0,2.0,4.0,3.5,0.3,0.05,0.01,2.0,0.0,0.002,,,,
-67441138c36b585cf943d69c,Đậu que xào tỏi,Món ăn,Món chay,Gút,100.0,8.0,2.0,4.0,3.5,0.2,0.03,0.01,1.0,0.0,0.002,,,,
-67441138c36b585cf943d69e,Đậu que xào chay,Món ăn,Món chay,Gút,90.0,8.0,3.0,4.0,3.5,0.2,0.03,0.01,1.0,0.0,0.002,,,,
-67441138c36b585cf943d69f,Đậu que xào cà chua,Món ăn,Món chay,Gút,100.0,10.0,3.0,4.0,3.5,0.3,0.04,0.01,2.0,0.0,0.002,,,,
-67441138c36b585cf943d6a1,Đậu que xào cà tím,Món ăn,Món chay,Gút,110.0,12.0,3.0,5.0,3.5,0.3,0.03,0.01,2.0,0.0,0.002,,,,
-67441138c36b585cf943d6a2,Đậu que xào bắp non,Món ăn,Món chay,Gút,110.0,10.0,3.0,5.0,3.5,0.3,0.03,0.01,2.0,0.0,0.002,,,,
-67441138c36b585cf943d6a3,Đậu que xào ức gà,Món ăn,Món chính,Gút,150.0,8.0,10.0,6.0,3.5,0.4,0.03,0.03,2.0,0.1,0.003,,,,
-67441138c36b585cf943d6ab,Thịt bò xào nấm,Món ăn,Món chính,Thiếu máu,180.0,4.0,20.0,8.0,1.5,0.5,0.01,0.05,2.0,0.08,0.005,,,,
-67441138c36b585cf943d6b3,Thịt bò xào măng tây,Món ăn,Món chính,Thiếu máu,180.0,4.0,20.0,8.0,2.5,0.4,0.03,0.05,2.0,0.08,0.005,,,,
-67441138c36b585cf943d6be,Sò huyết sốt chua ngọt,Món ăn,Món chính,Thiếu máu,100.0,10.0,8.0,4.0,1.0,0.7,0.02,0.15,5.0,0.1,0.02,,,,
-67441138c36b585cf943d6bf,Cua hấp sả,Món ăn,Món chính,Thiếu máu,120.0,3.0,15.0,5.0,0.0,0.5,0.01,0.1,0.0,0.1,0.01,,,,
-67441138c36b585cf943d6c0,Cháo đậu đỏ,Món ăn,Món khác,Thiếu máu,150.0,25.0,6.0,2.0,3.5,0.3,0.01,0.01,2.0,0.0,0.005,,,,
-67441138c36b585cf943d6c8,Tôm hấp nước dừa,Món ăn,Món chính,Thiếu máu,150.0,4.0,20.0,6.0,0.0,0.5,0.01,0.1,1.0,0.15,0.01,,,,
-67441138c36b585cf943d6d0,Chè đậu đỏ,Món ăn,Ăn vặt,Thiếu máu,160.0,30.0,4.0,2.0,4.5,0.1,0.02,0.01,22.5,0.0,0.004,,,,
-67441138c36b585cf943d6d1,Thịt băm kho lá quế kiểu Thái,Món ăn,Món chính,Thiếu máu,180.0,6.0,12.0,8.0,0.5,0.5,0.01,0.05,5.0,0.1,0.003,,,,
-67441138c36b585cf943d6db,Thịt heo kho cà rốt,Món ăn,Món chính,Thiếu máu,180.0,8.0,15.0,8.0,1.5,0.5,0.02,0.05,5.0,0.1,0.003,,,,
-67441138c36b585cf943d6dd,Canh bí đao nấu xương bò,Món ăn,Món khác,Thiếu máu,150.0,8.0,12.0,6.0,2.5,0.4,0.02,0.05,2.0,0.1,0.004,,,,
-67441138c36b585cf943d6e2,Cháo cá hồi rau dền,Món ăn,Món khác,Thiếu máu,170.0,15.0,15.0,5.0,2.0,0.3,0.02,0.04,1.0,0.05,0.003,,,,
-67441138c36b585cf943d6e6,Gà kho gừng,Món ăn,Món chính,Thiếu máu,220.0,6.0,20.0,12.0,0.5,0.5,0.01,0.05,5.0,0.1,0.002,,,,
-67441138c36b585cf943d6e7,Thịt heo xào bông cải xanh,Món ăn,Món chính,Thiếu máu,180.0,8.0,15.0,8.0,3.5,0.4,0.03,0.04,2.0,0.1,0.004,,,,
-67441138c36b585cf943d6e9,Sườn nướng mật ong,Món ăn,Món chính,Thiếu máu,250.0,0.0,15.0,15.0,0.0,0.5,0.01,0.05,12.5,0.1,0.003,,,,
-67441138c36b585cf943d6ec,Gà kho lá quế,Món ăn,Món chính,Thiếu máu,220.0,5.0,18.0,10.0,0.5,0.5,0.01,0.05,5.0,0.1,0.002,,,,
-67441138c36b585cf943d6ed,Bí non xào tôm,Món ăn,Món chính,Thiếu máu,100.0,8.0,10.0,3.0,2.0,0.3,0.02,0.03,1.0,0.05,0.002,,,,
-67441138c36b585cf943d6ef,Canh giò heo hầm củ dền cà rốt khoai tây,Món ăn,Món khác,Thiếu máu,220.0,15.0,18.0,10.0,3.5,0.5,0.04,0.05,3.0,0.1,0.004,,,,
-67441138c36b585cf943d6f3,Nước ép cam củ dền cà rốt,Đồ uống,Nước ép,Thiếu máu,80.0,18.0,1.0,0.0,2.5,0.1,0.05,0.01,17.5,0.0,0.002,,,,
-67441138c36b585cf943d6f7,Cháo củ dền tôm tươi,Món ăn,Món khác,Thiếu máu,160.0,15.0,10.0,4.0,1.5,0.3,0.02,0.03,1.0,0.05,0.002,,,,
-67441138c36b585cf943d6fa,Mì Ý sốt củ dền,Món ăn,Món khác,Thiếu máu,200.0,30.0,6.0,5.0,2.5,0.4,0.02,0.02,4.0,0.05,0.003,,,,
-67441138c36b585cf943d6fe,Khổ qua chiên giòn,Món ăn,Món chay,,150.0,15.0,3.0,10.0,4.0,0.5,0.03,0.01,2.0,0.0,0.001,,,,
-67441138c36b585cf943d70d,Khoai mỡ chiên,Món ăn,Ăn vặt,,200.0,40.0,3.0,10.0,5.0,0.5,0.01,0.01,1.0,1.0,0.001,,,,
-67441138c36b585cf943d70e,Đậu phụ xốt Tứ Xuyên,Món ăn,Món chính,,300.0,20.0,18.0,18.0,3.0,1.5,0.005,0.01,2.0,0.0,0.002,,,,
-67441138c36b585cf943d3fe,Salad mận hạnh nhân sốt gừng,Món ăn,Món khác,Tiểu đường,150.0,23.0,5.0,9.0,6.0,0.15,0.035,0.015,17.5,0.0,0.0015,,,,
-67441138c36b585cf943d405,Canh chuối xanh nấu tôm thịt,Món ăn,Món khác,Tiểu đường,400.0,38.0,20.0,19.0,3.5,0.6,0.025,0.125,3.0,0.07,0.0025,,,,
-67441138c36b585cf943d408,Kem chuối dâu tây,Món ăn,Ăn vặt,Tiểu đường,150.0,25.0,2.0,6.0,3.5,0.15,0.04,0.015,17.5,0.025,0.0015,,,,
-67441138c36b585cf943d40b,Canh đu đủ hầm xương,Món ăn,Món khác,Tiểu đường,150.0,11.0,10.0,5.0,2.5,0.6,0.04,0.125,3.0,0.06,0.0015,,,,
-67441138c36b585cf943d40c,Canh cá đu đủ,Món ăn,Món khác,Tiểu đường,200.0,15.0,20.0,6.0,2.5,0.5,0.04,0.125,3.0,0.06,0.0015,,,,
-67441138c36b585cf943d40d,Gỏi đu đủ thịt bò,Món ăn,Món chính,Tiểu đường,250.0,20.0,23.0,9.0,4.0,0.5,0.05,0.175,6.0,0.07,0.0025,,,,
-67441138c36b585cf943d410,Gỏi xơ mít trứng cút chua ngọt,Món ăn,Món khác,Tiểu đường,150.0,13.0,9.0,5.0,4.5,0.4,0.04,0.025,6.0,0.06,0.0015,,,,
-67441138c36b585cf943d41a,Salad gà nhãn và mắc ca,Món ăn,Món khác,Tiểu đường,250.0,15.0,20.0,10.0,4.5,0.4,0.05,0.125,6.0,0.06,0.0015,,,,
-67441138c36b585cf943d41b,Sinh tố chuối nhãn,Món ăn,Sinh tố,Tiểu đường,180.0,25.0,2.0,5.0,3.5,0.15,0.04,0.015,12.5,0.0,0.0015,,,,
-67441138c36b585cf943d424,Đậu hũ hấp trứng cút,Món ăn,Món chính,Tiểu đường,220.0,3.0,15.0,14.0,1.5,0.4,0.015,0.125,2.5,0.125,0.0025,,,,
-67441138c36b585cf943d427,Salad táo nho cần tây,Món ăn,Món khác,Tiểu đường,130.0,18.0,2.0,7.0,4.5,4.5,0.04,0.015,12.5,0.0,0.0015,,,,
-67441138c36b585cf943d429,Salad dưa leo và nho,Món ăn,Món khác,Tiểu đường,80.0,10.0,1.0,2.0,2.0,0.2,0.03,0.0,6.0,0.0,0.002,,,,
-67441138c36b585cf943d42b,Sinh tố bơ và nho xanh,Đồ uống,Sinh tố,Tiểu đường,220.0,20.0,3.0,18.0,4.0,0.1,0.04,0.0,10.0,0.0,0.002,,,,
-67441138c36b585cf943d42c,Trứng vịt chưng nấm đông cô,Món ăn,Món khác,Tiểu đường,120.0,3.0,8.0,7.0,1.0,0.4,0.0,0.02,1.0,0.2,0.004,,,,
-67441138c36b585cf943d42e,Trứng vịt chiên cà rốt và nấm,Món ăn,Món khác,Tiểu đường,130.0,4.0,9.0,7.0,2.0,0.4,0.01,0.02,1.0,0.2,0.003,,,,
-67441138c36b585cf943d42f,Trứng kho nước tương,Món ăn,Món khác,Tiểu đường,150.0,5.0,12.0,6.0,0.0,0.6,0.0,0.02,1.0,0.2,0.003,,,,
-67441138c36b585cf943d438,Gà nướng tỏi với sữa chua,Món ăn,Món chính,Tiểu đường,220.0,3.0,25.0,10.0,1.0,0.4,0.01,0.02,1.0,0.1,0.004,,,,
-67441138c36b585cf943d43f,Salad ức gà bí đỏ nướng,Món ăn,Món khác,Thừa cân,220.0,10.0,20.0,8.0,3.5,0.4,0.02,0.05,3.0,0.1,0.003,,,,
-67441138c36b585cf943d441,Salad bắp cải tím cà rốt,Món ăn,Món khác,Tiểu đường,80.0,15.0,2.0,2.0,4.0,0.3,0.04,0.0,3.0,0.0,0.002,,,,
-67441138c36b585cf943d442,Ức gà xào cà rốt bắp hột và đậu Hà Lan,Món ăn,Món chính,Tiểu đường,250.0,20.0,25.0,8.0,3.0,0.5,0.02,0.02,2.0,0.1,0.004,,,,
-67441138c36b585cf943d445,Miến trộn thịt kiểu Hàn,Món ăn,Món khác,Tiểu đường,350.0,50.0,15.0,10.0,2.0,0.6,0.01,0.02,2.0,0.05,0.003,,,,
-67441138c36b585cf943d449,Cá diêu hồng hấp miến,Món ăn,Món khác,Tiểu đường,180.0,15.0,20.0,6.0,2.0,0.5,0.01,0.03,1.0,0.1,0.004,,,,
-67441138c36b585cf943d44c,Bánh tart trứng,Món ăn,Ăn vặt,Tiểu đường,510.0,35.0,15.0,35.0,1.0,0.2,0.0,0.0,10.0,0.1,0.002,,,,
-67441138c36b585cf943d44e,Bánh yến mạch việt quất và chanh,Món ăn,Ăn vặt,Tiểu đường,300.0,35.0,8.0,14.0,3.0,0.2,0.02,0.0,12.0,0.05,0.002,,,,
-67441138c36b585cf943d44f,Bánh yến mạch táo quế,Món ăn,Ăn vặt,Tiểu đường,320.0,40.0,8.0,10.0,3.0,0.2,0.01,0.0,12.0,0.05,0.002,,,,
-67441138c36b585cf943d451,Bánh Castella matcha,Món ăn,Ăn vặt,Tiểu đường,180.0,15.0,6.0,10.0,1.0,0.2,0.0,0.0,15.0,0.05,0.002,,,,
-67441138c36b585cf943d455,Khoai lang viên cà rốt,Món ăn,Ăn vặt,Cao huyết áp,200.0,35.0,5.0,4.0,2.5,0.25,0.025,0.015,3.5,0.0,0.0015,,,,
-67441138c36b585cf943d45b,Bánh khoai lang mật,Món ăn,Ăn vặt,Tiểu đường,190.0,40.0,2.0,0.5,2.0,0.2,0.01,0.0,8.0,0.0,0.002,,,,
-67441138c36b585cf943d45c,Sữa khoai lang mật macca,Đồ uống,Loại khác,Cao huyết áp,220.0,25.0,3.0,12.0,2.5,0.15,0.015,0.015,9.0,0.0,0.0015,,,,
-67441138c36b585cf943d468,Bánh lá bột khoai mì,Món ăn,Ăn vặt,Tiểu đường,350.0,45.0,20.0,15.0,1.0,0.2,0.0,0.0,5.0,0.0,0.002,,,,
-67441138c36b585cf943d478,Phở gà,Món ăn,Món khác,Tiểu đường,350.0,30.0,25.0,10.0,1.5,2.0,0.005,0.15,1.0,0.08,0.015,,,,
-67441138c36b585cf943d481,Mì tôm xào thập cẩm với đậu phụ,Món ăn,Món khác,Tiểu đường,450.0,60.0,10.0,12.0,3.0,0.6,0.01,0.01,2.0,0.0,0.003,,,,
-67441138c36b585cf943d483,Mì trộn rau muống thịt băm,Món ăn,Món khác,Tiểu đường,500.0,55.0,20.0,15.0,2.0,0.5,0.01,0.02,1.0,0.05,0.003,,,,
-67441138c36b585cf943d485,Mì xào bò rau củ,Món ăn,Món khác,Tiểu đường,550.0,65.0,20.0,18.0,3.0,0.5,0.01,0.02,2.0,0.1,0.004,,,,
-67441138c36b585cf943d489,Cháo đậu xanh cá hồi,Món ăn,Món khác,Cao huyết áp,400.0,45.0,25.0,10.0,2.5,0.4,0.015,0.125,1.5,0.06,0.0025,,,,
-67441138c36b585cf943d48c,Xôi hạt dẻ đậu xanh,Món ăn,Món khác,Tiểu đường,220.0,45.0,5.0,3.0,3.0,0.2,0.01,0.0,2.0,0.0,0.002,,,,
-67441138c36b585cf943d495,Bánh gạo lứt sấy chà bông,Món ăn,Ăn vặt,Tiểu đường,430.0,60.0,15.0,15.0,2.5,0.75,0.0,0.01,1.0,0.0,0.002,,,,
-67441138c36b585cf943d4a2,Bánh ít nhân tôm thịt,Món ăn,Ăn vặt,Tiểu đường,450.0,40.0,20.0,18.0,1.0,0.5,0.0,0.02,2.0,0.05,0.003,,,,
-67441138c36b585cf943d4a4,Canh cà chua rau muống nấu tôm,Món ăn,Món khác,Tiểu đường,200.0,15.0,25.0,5.0,2.0,0.6,0.02,0.02,2.0,0.05,0.003,,,,
-67441138c36b585cf943d4a7,Canh chua rau muống ếch đồng,Món ăn,Món khác,Tiểu đường,230.0,15.0,28.0,8.0,2.0,0.5,0.02,0.02,2.0,0.05,0.003,,,,
-67441138c36b585cf943d4ac,Cải xanh cuốn thịt thăn,Món ăn,Món chính,Tiểu đường,250.0,15.0,20.0,10.0,2.0,0.4,0.01,0.02,1.0,0.05,0.003,,,,
-67441138c36b585cf943d4b3,Canh rau lang nấu tôm tươi,Món ăn,Món khác,Tiểu đường,50.0,5.0,7.0,0.5,2.0,0.5,0.02,0.02,1.0,0.05,0.003,,,,
-67441138c36b585cf943d4b4,Gỏi ức gà rau lang,Món ăn,Món chính,Tiểu đường,300.0,10.0,45.0,5.0,2.0,0.4,0.01,0.02,2.0,0.05,0.003,,,,
-67441138c36b585cf943d4b5,Rau lang xào thịt bò,Món ăn,Món chính,Tiểu đường,400.0,20.0,30.0,15.0,2.0,0.5,0.01,0.02,1.0,0.1,0.004,,,,
-67441138c36b585cf943d4b6,Canh rau lang nấu ngao,Món ăn,Món khác,Tiểu đường,80.0,5.0,10.0,1.0,2.0,0.5,0.02,0.02,1.0,0.05,0.003,,,,
-67441138c36b585cf943d4be,Sinh tố bơ dâu tây và bạc hà,Đồ uống,Sinh tố,Tiểu đường,180.0,20.0,2.0,8.0,3.0,0.1,0.06,0.0,10.0,0.0,0.002,,,,
-67441138c36b585cf943d4c4,Salad dưa hấu và hạt quinoa,Món ăn,Món khác,Tiểu đường,200.0,25.0,6.0,8.0,3.0,0.1,0.05,0.0,5.0,0.0,0.002,,,,
-67441138c36b585cf943d4c7,Sinh tố cam táo cần tây,Đồ uống,Sinh tố,Tiểu đường,130.0,30.0,1.0,0.5,2.0,0.1,0.06,0.0,10.0,0.0,0.002,,,,
-67441138c36b585cf943d4c9,Salad rau chân vịt táo tàu,Món ăn,Món khác,Tiểu đường,180.0,15.0,3.0,14.0,3.0,0.2,0.04,0.0,4.0,0.0,0.003,,,,
-67441138c36b585cf943d4cc,Salad rau hẹ táo tàu,Món ăn,Món khác,Tiểu đường,80.0,10.0,1.0,4.0,3.0,0.2,0.04,0.0,4.0,0.0,0.002,,,,
-67441138c36b585cf943d4cf,Trà bông cúc táo đỏ kỷ tử,Đồ uống,Loại khác,Tiểu đường,30.0,8.0,0.5,0.0,0.0,0.1,0.01,0.0,2.0,0.0,0.001,,,,
-67441138c36b585cf943d4d3,Gà nấu hạt điều,Món ăn,Món chính,Tiểu đường,300.0,20.0,25.0,12.0,1.0,0.4,0.01,0.03,2.0,0.1,0.003,,,,
-67441138c36b585cf943d4d7,Salad bắp cải tím hạt điều,Món ăn,Món khác,Tiểu đường,140.0,15.0,4.0,8.0,3.0,0.2,0.03,0.0,3.0,0.0,0.002,,,,
-67441138c36b585cf943d4d8,Súp củ sen đậu phộng,Món ăn,Món khác,Tiểu đường,350.0,30.0,25.0,18.0,2.0,0.3,0.02,0.0,1.0,0.0,0.003,,,,
-67441138c36b585cf943d4e4,Bột sắn dây hạt chia,Đồ uống,Loại khác,Tiểu đường,40.0,10.0,1.0,0.5,2.0,0.1,0.0,0.0,5.0,0.0,0.002,,,,
-67441138c36b585cf943d4e5,Bánh chuối hấp bột sắn dây,Món ăn,Ăn vặt,Tiểu đường,200.0,35.0,2.0,5.0,1.0,0.1,0.01,0.0,12.0,0.0,0.001,,,,
-67441138c36b585cf943d4e9,Yến chưng hạt sen và táo tàu,Món ăn,Món khác,Tiểu đường,60.0,12.0,2.0,0.0,1.0,0.1,0.01,0.0,7.0,0.0,0.001,,,,
-67441138c36b585cf943d4ed,Gỏi nha đam trộn tôm cua,Món ăn,Món chính,Tiểu đường,220.0,20.0,15.0,9.0,3.0,0.2,0.04,0.02,3.0,0.1,0.002,,,,
-67441138c36b585cf943d4ee,Súp măng tây tôm cua,Món ăn,Món khác,Tiểu đường,120.0,10.0,12.0,3.0,2.0,0.3,0.03,0.02,1.0,0.05,0.003,,,,
-67441138c36b585cf943d4f1,Salad tôm và bơ,Món ăn,Món khác,Tiểu đường,250.0,10.0,20.0,15.0,3.0,0.2,0.05,0.02,2.0,0.1,0.002,,,,
-67441138c36b585cf943d4f2,Cá thu nướng mè rau củ,Món ăn,Món chính,Tiểu đường,300.0,10.0,25.0,15.0,2.0,0.3,0.02,0.03,1.0,0.1,0.004,,,,
-67441138c36b585cf943d4f5,Canh cải thảo nấu thịt nạc,Món ăn,Món khác,Tiểu đường,180.0,10.0,15.0,6.0,2.0,0.3,0.02,0.02,1.0,0.05,0.003,,,,
-67441138c36b585cf943d4fa,Bít tết bò áp chảo sốt tiêu đen,Món ăn,Món chính,Tiểu đường,200.0,5.0,20.0,10.0,0.0,0.05,0.0,0.03,1.0,0.1,0.004,,,,
-67441138c36b585cf943d4fd,Canh bắp bò hầm cải chua,Món ăn,Món khác,Tiểu đường,350.0,15.0,30.0,15.0,2.0,0.4,0.02,0.03,1.0,0.1,0.004,,,,
-67441138c36b585cf943d4ff,Tôm xào sốt BBQ với thơm,Món ăn,Món chính,Tiểu đường,250.0,25.0,20.0,8.0,1.0,0.4,0.03,0.02,3.0,0.1,0.003,,,,
-67441138c36b585cf943d503,Canh cải bó xôi thịt băm,Món ăn,Món khác,Cao huyết áp,150.0,8.0,15.0,5.0,2.5,0.6,0.025,0.125,1.5,0.06,0.0025,,,,
-67441138c36b585cf943d504,Gà xào chua ngọt,Món ăn,Món chính,Tiểu đường,300.0,20.0,25.0,10.0,1.0,0.4,0.02,0.03,5.0,0.1,0.003,,,,
-67441138c36b585cf943d50b,Gà hầm rau củ,Món ăn,Món khác,Tiểu đường,250.0,15.0,20.0,8.0,2.0,0.4,0.02,0.03,2.0,0.1,0.004,,,,
-67441138c36b585cf943d512,Cá quả hấp bầu,Món ăn,Món chính,Tiểu đường,180.0,5.0,20.0,8.0,1.0,0.3,0.02,0.03,1.0,0.1,0.004,,,,
-67441138c36b585cf943d513,Canh khổ qua nhồi thịt,Món ăn,Món khác,Tiểu đường,180.0,10.0,15.0,8.0,2.0,0.3,0.02,0.02,1.0,0.05,0.003,,,,
-67441138c36b585cf943d518,Bò bít tết sốt teriyaki,Món ăn,Món chính,Tiểu đường,400.0,20.0,30.0,18.0,0.0,0.5,0.0,0.03,3.0,0.1,0.004,,,,
-67441138c36b585cf943d51c,Canh trai nấu hẹ,Món ăn,Món khác,Tiểu đường,90.0,5.0,10.0,2.0,1.0,0.3,0.02,0.02,1.0,0.05,0.003,,,,
-67441138c36b585cf943d51d,Cua sốt trứng muối,Món ăn,Món chính,Tiểu đường,250.0,8.0,18.0,15.0,0.0,0.4,0.0,0.03,1.0,0.1,0.004,,,,
-67441138c36b585cf943d51e,Cua luộc nước dừa,Món ăn,Món chính,Tiểu đường,200.0,6.0,16.0,10.0,0.0,0.3,0.0,0.03,1.0,0.1,0.003,,,,
-67441138c36b585cf943d520,Cua nấu bầu,Món ăn,Món khác,Cao huyết áp,140.0,6.0,15.0,5.0,1.5,0.6,0.025,0.125,1.5,0.06,0.0025,,,,
-67441138c36b585cf943d521,Nem cua bể,Món ăn,Món chính,Tiểu đường,180.0,20.0,15.0,8.0,1.0,0.4,0.01,0.02,1.0,0.1,0.003,,,,
-67441138c36b585cf943d522,Cá rô phi áp chảo,Món ăn,Món chính,Tiểu đường,200.0,2.0,25.0,10.0,0.0,0.3,0.0,0.03,0.0,0.1,0.002,,,,
-67441138c36b585cf943d523,Hủ tiếu tôm thịt,Món ăn,Món khác,Cao huyết áp,350.0,50.0,20.0,8.0,2.5,1.25,0.015,0.125,3.0,0.125,0.0025,,,,
-67441138c36b585cf943d526,Cá diêu hồng hấp hành gừng,Món ăn,Món chính,Cao huyết áp,200.0,3.0,22.0,8.0,1.5,0.6,0.015,0.175,2.5,0.06,0.0015,,,,
-67441138c36b585cf943d527,Canh cải xoong nấu thịt nạc heo,Món ăn,Món khác,Cao huyết áp,150.0,6.0,15.0,5.0,2.5,0.7,0.025,0.125,1.5,0.06,0.0015,,,,
-67441138c36b585cf943d528,Cháo thịt băm,Món ăn,Món khác,Cao huyết áp,180.0,30.0,10.0,3.0,1.5,0.6,0.015,0.125,1.5,0.06,0.0015,,,,
-67441138c36b585cf943d52b,Canh Cải Bó Xôi Nấu Nấm Rơm,Món ăn,Món khác,Cao huyết áp,80.0,8.0,4.0,3.0,2.5,0.5,0.025,0.075,1.5,0.0,0.0015,,,,
-67441138c36b585cf943d536,Cá hấp lựu,Món ăn,Món chính,Cao huyết áp,200.0,8.0,20.0,10.0,1.5,0.4,0.025,0.125,2.5,0.06,0.0015,,,,
-67441138c36b585cf943d53d,Mực xào ớt chuông,Món ăn,Món chính,Cao huyết áp,180.0,8.0,20.0,8.0,2.5,0.6,0.04,0.125,2.5,0.07,0.0025,,,,
-67441138c36b585cf943d545,Sinh Tố Chuối Việt Quất ,Đồ uống,Sinh tố,Cao huyết áp,150.0,30.0,2.0,2.0,3.0,0.1,0.05,0.0,15.0,0.0,0.002,,,,
-67441138c36b585cf943d547,Canh xương nấu bí đỏ,Món ăn,Món khác,Thiếu cân,150.0,10.0,12.0,8.0,2.0,0.3,0.02,0.02,2.0,0.1,0.003,,,,
-67441138c36b585cf943d54f,Yaourt,Món ăn,Món khác,Thiếu cân,60.0,8.0,5.0,2.0,0.0,0.1,0.0,0.0,10.0,0.02,0.001,,,,
-67441138c36b585cf943d550,Bò nấu vang chấm bánh mì,Món ăn,Món chính,Thiếu cân,300.0,20.0,15.0,12.0,1.0,0.5,0.01,0.03,3.0,0.1,0.005,,,,
-67441138c36b585cf943d553,Chè chuối,Món ăn,Ăn vặt,Thiếu cân,210.0,35.0,3.0,6.0,2.0,0.1,0.02,0.0,18.0,0.0,0.002,,,,
-67441138c36b585cf943d556,Thịt bò xào súp lơ,Món ăn,Món chính,Thiếu cân,170.0,8.0,18.0,9.0,2.0,0.3,0.03,0.02,1.0,0.1,0.004,,,,
-67441138c36b585cf943d559,Chè thái,Món ăn,Ăn vặt,Thiếu cân,200.0,35.0,3.0,5.0,1.0,0.1,0.01,0.0,20.0,0.0,0.002,,,,
-67441138c36b585cf943d55a,Canh nõn tôm nấu hoa thiên lý,Món ăn,Món khác,Thiếu cân,120.0,6.0,10.0,4.0,2.0,0.3,0.03,0.02,1.0,0.05,0.003,,,,
-67441138c36b585cf943d55d,Thịt kho củ cải,Món ăn,Món chính,Thiếu cân,180.0,6.0,15.0,10.0,2.0,0.3,0.01,0.02,3.0,0.1,0.004,,,,
-67441138c36b585cf943d55f,Mực xào rau củ,Món ăn,Món chính,Thiếu cân,180.0,10.0,18.0,8.0,2.0,0.3,0.02,0.02,1.0,0.1,0.003,,,,
-67441138c36b585cf943d560,Bánh chuối chiên,Món ăn,Ăn vặt,Thiếu cân,220.0,35.0,2.0,8.0,1.0,0.1,0.01,0.0,15.0,0.02,0.002,,,,
-67441138c36b585cf943d564,Cá kho dứa,Món ăn,Món chính,Thiếu cân,180.0,8.0,15.0,9.0,1.0,0.4,0.02,0.03,3.0,0.1,0.004,,,,
-67441138c36b585cf943d566,Canh hến nấu chua,Món ăn,Món khác,Thiếu cân,90.0,4.0,10.0,2.0,1.0,0.3,0.02,0.02,1.0,0.05,0.003,,,,
-67441138c36b585cf943d569,Cá lóc kho tiêu,Món ăn,Món chính,Thiếu cân,170.0,4.0,15.0,8.0,0.0,0.4,0.0,0.03,1.0,0.1,0.003,,,,
-67441138c36b585cf943d56e,Su su xào tỏi,Món ăn,Món chay,Thiếu cân,90.0,10.0,2.0,4.0,2.0,0.2,0.03,0.0,1.0,0.0,0.002,,,,
-67441138c36b585cf943d572,Canh bắp cải thịt bằm,Món ăn,Món khác,Thiếu cân,120.0,6.0,10.0,5.0,2.0,0.3,0.02,0.02,1.0,0.05,0.003,,,,
-67441138c36b585cf943d577,Bún mọc,Món ăn,Món khác,Thiếu cân,400.0,45.0,20.0,15.0,2.0,0.4,0.01,0.02,1.0,0.05,0.003,,,,
-67441138c36b585cf943d57b,Măng tây xào thịt bò,Món ăn,Món chính,Thiếu cân,160.0,6.0,15.0,7.0,2.0,0.3,0.03,0.02,1.0,0.1,0.004,,,,
-67441138c36b585cf943d57d,Bánh trà sữa trân châu đường đen,Món ăn,Ăn vặt,Thiếu cân,350.0,60.0,4.0,15.0,1.5,0.25,0.0,0.015,22.5,0.025,0.0015,,,,
-67441138c36b585cf943d585,Bánh cheesecake,Món ăn,Ăn vặt,Thiếu cân,370.0,32.0,6.0,25.0,0.5,0.25,0.0,0.015,17.5,0.125,0.0025,,,,
-67441138c36b585cf943d588,Bánh cheese,Món ăn,Ăn vặt,Thiếu cân,330.0,28.0,7.0,20.0,0.5,0.25,0.0,0.015,17.5,0.125,0.0025,,,,
-67441138c36b585cf943d58a,Gà chiên giòn sốt cay,Món ăn,Món chính,Thiếu cân,350.0,20.0,25.0,18.0,0.5,0.6,0.015,0.125,6.0,0.125,0.0025,,,,
-67441138c36b585cf943d58b,Gà Chiên Hàn Quốc,Món ăn,Món chính,Thiếu cân,400.0,30.0,26.0,20.0,0.5,0.6,0.015,0.125,6.0,0.125,0.0025,,,,
-67441138c36b585cf943d59c,Miến xào lòng gà,Món ăn,Món khác,Thiếu cân,200.0,25.0,15.0,8.0,1.0,0.5,0.01,0.02,2.0,0.1,0.002,,,,
-67441138c36b585cf943d5a8,Rau muống luộc,Món ăn,Món chay,Thừa cân,30.0,5.0,1.0,0.0,2.5,0.1,0.02,0.01,0.0,0.0,0.002,,,,
-67441138c36b585cf943d5a9,Sandwich trứng ốp la,Món ăn,Món khác,Thừa cân,250.0,30.0,10.0,10.0,1.5,0.5,0.01,0.02,2.5,0.2,0.002,,,,
-67441138c36b585cf943d5ac,Cá thu kho thơm,Món ăn,Món chính,Thừa cân,220.0,8.0,18.0,12.0,1.0,0.5,0.01,0.1,3.0,0.1,0.002,,,,
-67441138c36b585cf943d5ad,Canh rau tần ô,Món ăn,Món khác,Thừa cân,150.0,8.0,15.0,5.0,2.5,0.3,0.03,0.01,1.0,0.0,0.002,,,,
-67441138c36b585cf943d5af,Sữa yến mạch hạt chia,Đồ uống,Loại khác,Thừa cân,140.0,20.0,4.0,5.0,2.5,0.1,0.0,0.01,6.0,0.0,0.001,,,,
-67441138c36b585cf943d5b5,Bánh yến mạch ,Món ăn,Ăn vặt,Thừa cân,150.0,20.0,3.0,5.0,2.0,0.2,0.0,0.0,8.0,0.01,0.002,,,,
-67441138c36b585cf943d5b8,Miến gà xé,Món ăn,Món khác,Thừa cân,200.0,25.0,15.0,6.0,1.0,0.4,0.01,0.02,1.0,0.1,0.002,,,,
-67441138c36b585cf943d5c1,Nước ép kiwi,Đồ uống,Nước ép,Thừa cân,40.0,10.0,0.0,0.0,1.0,0.0,0.05,0.0,12.5,0.0,0.001,,,,
-67441138c36b585cf943d5c2,Nước ép thơm táo,Đồ uống,Nước ép,Thừa cân,60.0,15.0,0.0,0.0,0.5,0.0,0.02,0.0,17.5,0.0,0.001,,,,
-67441138c36b585cf943d5c3,Bánh cookie yến mạch,Món ăn,Ăn vặt,Thừa cân,150.0,20.0,2.0,6.0,2.5,0.2,0.0,0.01,17.5,0.02,0.002,,,,
-67441138c36b585cf943d5c8,Sữa gạo lứt,Đồ uống,Loại khác,Thừa cân,80.0,15.0,1.0,1.5,1.5,0.1,0.0,0.0,6.0,0.0,0.001,,,,
-67441138c36b585cf943d5c9,Detox táo sả dưa leo,Đồ uống,Loại khác,Thừa cân,30.0,7.0,0.0,0.0,1.5,0.0,0.02,0.0,7.5,0.0,0.001,,,,
-67441138c36b585cf943d5cb,Salad dưa leo trộn cà chua,Món ăn,Món khác,Thừa cân,25.0,6.0,1.0,0.0,2.5,0.1,0.02,0.0,2.0,0.0,0.001,,,,
-67441138c36b585cf943d5cd,Salad ức gà sốt Caesar - Caesar Salad,Món ăn,Món khác,Thừa cân,250.0,8.0,18.0,16.0,2.5,0.7,0.01,0.05,2.5,0.1,0.002,,,,
-67441138c36b585cf943d5d0,Salad gà xé khoai nghiền,Món ăn,Món khác,Thừa cân,200.0,18.0,15.0,8.0,3.5,0.5,0.02,0.05,2.5,0.1,0.003,,,,
-67441138c36b585cf943d5d5,Salad mùa hè sốt táo xanh,Món ăn,Món khác,Thừa cân,80.0,15.0,1.0,2.0,3.5,0.1,0.04,0.0,5.0,0.0,0.002,,,,
-67441138c36b585cf943d5dd,Canh gà lá giang,Món ăn,Món khác,Đau đầu,150.0,5.0,20.0,6.0,1.0,0.3,0.02,0.03,1.0,0.1,0.002,,,,
-67441138c36b585cf943d5df,Thịt viên bí đỏ sốt cà chua,Món ăn,Món chính,Đau đầu,180.0,12.0,15.0,8.0,2.0,0.3,0.02,0.02,3.0,0.1,0.003,,,,
-67441138c36b585cf943d5e0,Salad rau càng cua,Món ăn,Món khác,Đau đầu,30.0,6.0,1.0,0.0,2.0,0.2,0.03,0.0,2.0,0.0,0.002,,,,
-67441138c36b585cf943d5e8,Yến mạch ngâm ăn kèm hoa quả,Món ăn,Món khác,Đau đầu,150.0,25.0,5.0,4.0,4.0,0.1,0.03,0.0,10.0,0.0,0.004,,,,
-67441138c36b585cf943d5f3,Mì Ý nấm sốt củ dền,Món ăn,Món khác,Đau đầu,250.0,30.0,7.0,8.0,4.0,0.3,0.02,0.0,3.0,0.0,0.004,,,,
-67441138c36b585cf943d604,Đậu que xào trứng gà,Món ăn,Món khác,Máu nhiễm mỡ,150.0,3.0,10.0,8.0,2.0,0.3,0.02,0.01,1.0,0.2,0.003,,,,
-67441138c36b585cf943d605,Trứng cuộn rau củ,Món ăn,Món khác,Máu nhiễm mỡ,120.0,5.0,8.0,7.0,2.0,0.3,0.02,0.01,1.0,0.2,0.003,,,,
-67441138c36b585cf943d607,Sữa đậu xanh,Đồ uống,Sữa hạt,Máu nhiễm mỡ,100.0,18.0,4.0,2.0,1.5,0.1,0.0,0.01,6.0,0.0,0.001,,,,
-67441138c36b585cf943d608,Tôm đút lò sốt chanh dây,Món ăn,Món chính,Máu nhiễm mỡ,180.0,6.0,15.0,10.0,0.5,0.3,0.02,0.05,3.0,0.1,0.002,,,,
-67441138c36b585cf943d60c,Canh cải thảo nấu tôm khô,Món ăn,Món khác,Máu nhiễm mỡ,120.0,8.0,10.0,3.0,1.5,0.3,0.02,0.05,1.0,0.05,0.002,,,,
-67441138c36b585cf943d60d,Bánh yến mạch hạt điều,Món ăn,Ăn vặt,Máu nhiễm mỡ,200.0,25.0,5.0,10.0,2.5,0.2,0.0,0.01,12.5,0.02,0.002,,,,
-67441138c36b585cf943d60f,Bún gạo lứt cá ngừ,Món ăn,Món khác,Máu nhiễm mỡ,220.0,35.0,12.0,4.0,3.5,0.5,0.01,0.1,2.0,0.1,0.003,,,,
-67441138c36b585cf943d611,Ức gà kho dứa,Món ăn,Món chính,Gút,200.0,15.0,22.0,6.0,1.5,0.4,0.03,0.03,5.0,0.1,0.003,,,,
-67441138c36b585cf943d616,Xà lách cuộn gà sốt bơ đậu phộng,Món ăn,Món khác,Máu nhiễm mỡ,160.0,6.0,15.0,9.0,2.5,0.3,0.02,0.03,3.0,0.1,0.003,,,,
-67441138c36b585cf943d61d,Mủ trôm sương sáo kỷ tử hạt chia,Món ăn,Món khác,Máu nhiễm mỡ,70.0,16.0,1.0,1.0,2.5,0.1,0.01,0.01,10.0,0.0,0.002,,,,
-67441138c36b585cf943d61e,Mì soba sốt táo,Món ăn,Món khác,Máu nhiễm mỡ,180.0,35.0,5.0,2.0,2.5,0.3,0.02,0.01,5.0,0.0,0.003,,,,
-67441138c36b585cf943d61f,Nui rau củ xào bắp cải Brussels và gà xé,Món ăn,Món khác,Máu nhiễm mỡ,220.0,25.0,12.0,8.0,3.5,0.4,0.03,0.03,2.0,0.05,0.004,,,,
-67441138c36b585cf943d622,Nước ép quả mâm xôi,Đồ uống,Nước ép,Máu nhiễm mỡ,40.0,10.0,0.0,0.0,1.5,0.1,0.02,0.01,12.5,0.0,0.002,,,,
-67441138c36b585cf943d62c,Ruốc cá hồi,Món ăn,Món chính,Đau đầu,200.0,0.0,20.0,14.0,0.0,0.4,0.0,0.05,0.0,0.1,0.003,,,,
-67441138c36b585cf943d631,Lê hấp táo tàu và gừng,Món ăn,Món chay,Máu nhiễm mỡ,90.0,20.0,0.0,0.0,2.5,0.1,0.02,0.01,10.0,0.0,0.002,,,,
-67441138c36b585cf943d633,Sữa yến mạch,Đồ uống,Sữa hạt,Máu nhiễm mỡ,90.0,15.0,2.0,2.0,1.5,0.1,0.01,0.01,5.0,0.0,0.002,,,,
-67441138c36b585cf943d634,Nước ép bông cải xanh,Đồ uống,Nước ép,Máu nhiễm mỡ,30.0,6.0,2.0,0.0,1.5,0.1,0.03,0.01,5.0,0.0,0.002,,,,
-67441138c36b585cf943d641,Yến mạch qua đêm với sữa chua và quả mọng,Món ăn,Món khác,Máu nhiễm mỡ,250.0,35.0,8.0,7.0,4.0,0.2,0.03,0.0,10.0,0.01,0.003,,,,
-67441138c36b585cf943d644,Pudding hạt chia sữa chua và quả mọng,Món ăn,Ăn vặt,Máu nhiễm mỡ,12.0,15.0,4.0,5.0,4.5,0.1,0.03,0.0,8.0,0.01,0.004,,,,
-67441138c36b585cf943d645,Sữa đậu nành lá dứa,Đồ uống,Sữa hạt,Máu nhiễm mỡ,90.0,10.0,4.0,4.0,0.5,0.1,0.0,0.0,6.0,0.0,0.002,,,,
-67441138c36b585cf943d64c,Bánh mì bơ trứng,Món ăn,Món khác,Gút,220.0,22.0,10.0,10.0,2.0,0.4,0.0,0.02,2.0,0.2,0.003,,,,
-67441138c36b585cf943d64d,Salad trứng và cá hồi,Món ăn,Món khác,Gút,200.0,5.0,18.0,12.0,2.0,0.4,0.02,0.05,2.0,0.2,0.003,,,,
-67441138c36b585cf943d64e,Trứng cuộn nấm và cải bó xôi,Món ăn,Món khác,Gút,160.0,4.0,10.0,8.0,1.5,0.3,0.02,0.02,1.0,0.2,0.002,,,,
-67441138c36b585cf943d652,Đậu phụ xào rau củ,Món ăn,Món chính,Gút,120.0,8.0,8.0,6.0,3.0,0.3,0.03,0.0,2.0,0.0,0.004,,,,
-67441138c36b585cf943d653,Đậu phụ hầm tương miso,Món ăn,Món khác,Gút,140.0,12.0,8.0,6.0,2.0,0.4,0.01,0.0,2.0,0.0,0.003,,,,
-67441138c36b585cf943d654,Canh bí đỏ nấu tôm khô,Món ăn,Món khác,Gút,100.0,10.0,8.0,2.0,2.0,0.3,0.02,0.02,2.0,0.05,0.002,,,,
-67441138c36b585cf943d658,Nước chanh ổi dâu tây,Đồ uống,Nước ép,Gút,45.0,12.0,0.0,0.0,1.0,0.1,0.05,0.0,10.0,0.0,0.002,,,,
-67441138c36b585cf943d65b,Trứng xào lá lốt,Món ăn,Món khác,Gút,150.0,4.0,8.0,10.0,1.0,0.3,0.01,0.02,1.0,0.2,0.002,,,,
-67441138c36b585cf943d65d,Cháo củ cải,Món ăn,Món khác,Gút,90.0,18.0,2.0,0.0,1.0,0.2,0.01,0.0,1.0,0.0,0.002,,,,
-67441138c36b585cf943d65e,Cháo gạo lứt đậu đỏ,Món ăn,Món khác,Gút,150.0,25.0,6.0,2.0,3.0,0.2,0.01,0.0,2.0,0.0,0.003,,,,
-67441138c36b585cf943d661,Canh đậu phụ nấu kim châm,Món ăn,Món khác,Gút,100.0,5.0,6.0,3.0,2.0,0.3,0.01,0.0,1.0,0.0,0.003,,,,
-67441138c36b585cf943d664,Rau củ sốt bơ đậu phộng,Món ăn,Món chay,Gút,160.0,10.0,5.0,12.0,4.0,0.3,0.02,0.0,3.0,0.0,0.003,,,,
-67441138c36b585cf943d667,Bánh mì nướng ăn kèm đậu nghiền,Món ăn,Món khác,Gút,200.0,25.0,8.0,6.0,3.0,0.3,0.01,0.0,2.0,0.0,0.004,,,,
-67441138c36b585cf943d66a,Nước ép dưa chuột với quất,Đồ uống,Nước ép,Gút,30.0,8.0,0.0,0.0,0.5,0.1,0.03,0.01,6.0,0.0,0.002,,,,
-67441138c36b585cf943d670,Ức gà viên sốt cà chua,Món ăn,Món chính,Gút,180.0,8.0,18.0,6.0,1.0,1.5,0.015,0.12,6.0,0.08,0.005,,,,
-67441138c36b585cf943d677,Miến xào chay,Món ăn,Món khác,Gút,200.0,30.0,6.0,5.0,2.5,0.4,0.01,0.01,5.0,0.0,0.002,,,,
-67441138c36b585cf943d67b,Canh mướp nấu đậu phụ,Món ăn,Món chính,Gút,100.0,8.0,8.0,3.0,2.0,0.4,0.01,0.01,2.0,0.0,0.003,,,,
-67441138c36b585cf943d67c,Cá hồi sốt cà chua,Món ăn,Món chính,Gút,220.0,5.0,20.0,12.0,0.0,0.5,0.01,0.2,3.0,0.07,0.005,,,,
-67441138c36b585cf943d67d,Canh rau đay nấu cùng mồng tơi,Món ăn,Món khác,Gút,90.0,8.0,4.0,2.0,2.5,0.4,0.02,0.01,1.0,0.0,0.003,,,,
-67441138c36b585cf943d67e,Đậu hà lan hấp,Món ăn,Món chay,Gút,70.0,12.0,4.0,0.5,3.5,0.1,0.02,0.01,3.0,0.0,0.004,,,,
-67441138c36b585cf943d680,Cà rốt và su hào luộc,Món ăn,Món chay,Gút,50.0,10.0,1.0,0.0,2.5,0.1,0.03,0.01,4.0,0.0,0.002,,,,
-67441138c36b585cf943d682,Su su xào,Món ăn,Món chay,Gút,70.0,8.0,2.0,4.0,2.0,0.3,0.02,0.01,2.0,0.0,0.002,,,,
-67441138c36b585cf943d68d,Bắp cải xào chua ngọt,Món ăn,Món chay,Gút,100.0,12.0,3.0,4.0,3.5,0.3,0.04,0.01,3.0,0.0,0.002,,,,
-67441138c36b585cf943d690,Cháo gà với hạt sen,Món ăn,Món khác,Gút,180.0,25.0,10.0,4.0,2.5,0.3,0.02,0.03,1.0,0.05,0.003,,,,
-67441138c36b585cf943d69b,Cá thu chiên sốt tỏi ớt,Món ăn,Món chính,Gút,250.0,5.0,20.0,15.0,0.0,0.5,0.01,0.05,2.0,0.1,0.003,,,,
-67441138c36b585cf943d69d,Đậu que xào trứng,Món ăn,Món khác,Gút,120.0,8.0,5.0,6.0,3.5,0.3,0.03,0.02,1.0,0.2,0.002,,,,
-67441138c36b585cf943d6a6,Ức gà xào đậu tuyết,Món ăn,Món chính,Gút,160.0,8.0,18.0,5.0,3.5,0.3,0.03,0.03,2.0,0.1,0.003,,,,
-67441138c36b585cf943d6a8,Ức gà xào bí ngòi,Món ăn,Món chính,Gút,160.0,8.0,18.0,5.0,2.5,0.3,0.02,0.03,2.0,0.1,0.003,,,,
-67441138c36b585cf943d6aa,Gan heo nấu với táo đỏ,Món ăn,Món chính,Thiếu máu,150.0,8.0,15.0,6.0,1.0,0.4,0.02,0.1,2.0,0.1,0.02,,,,
-67441138c36b585cf943d6af,Thịt bò xào ớt chuông,Món ăn,Món chính,Thiếu máu,200.0,8.0,20.0,10.0,2.5,0.4,0.03,0.05,2.0,0.08,0.005,,,,
-67441138c36b585cf943d6b2,Thịt bò xào lá lốt,Món ăn,Món chính,Thiếu máu,190.0,5.0,20.0,10.0,2.0,0.5,0.02,0.05,1.0,0.08,0.005,,,,
-67441138c36b585cf943d6b6,Thịt bò xào dứa,Món ăn,Món chính,Thiếu máu,210.0,10.0,20.0,10.0,1.5,0.5,0.03,0.05,4.0,0.08,0.005,,,,
-67441138c36b585cf943d6b7,Thịt bò xào khoai tây,Món ăn,Món chính,Thiếu máu,250.0,15.0,20.0,12.0,2.0,0.6,0.02,0.05,3.0,0.08,0.005,,,,
-67441138c36b585cf943d6bb,Bò hấp sả thơm,Món ăn,Món chính,Thiếu máu,150.0,5.0,20.0,6.0,0.0,0.5,0.01,0.1,0.0,0.07,0.005,,,,
-67441138c36b585cf943d6bc,Bò hấp sả lá dứa,Món ăn,Món chính,Thiếu máu,160.0,5.0,20.0,6.0,0.0,0.5,0.01,0.1,0.0,0.07,0.005,,,,
-67441138c36b585cf943d6c4,Cháo táo đỏ,Món ăn,Món khác,Thiếu máu,160.0,30.0,3.0,1.0,2.5,0.2,0.01,0.01,3.0,0.0,0.004,,,,
-67441138c36b585cf943d6c5,Canh thịt nạc rau dền,Món ăn,Món khác,Thiếu máu,100.0,5.0,8.0,3.0,2.5,0.5,0.03,0.03,1.0,0.04,0.005,,,,
-67441138c36b585cf943d6c6,Hủ tiếu sườn,Món ăn,Món khác,Thiếu máu,250.0,30.0,15.0,8.0,2.5,1.0,0.01,0.05,2.0,0.1,0.005,,,,
-67441138c36b585cf943d6c7,Sữa bí đỏ,Đồ uống,Loại khác,Thiếu máu,80.0,12.0,2.0,3.0,1.5,0.1,0.02,0.01,9.0,0.0,0.002,,,,
-67441138c36b585cf943d6ca,Gà hầm thuốc bắc,Món ăn,Món khác,Thiếu máu,200.0,4.0,18.0,10.0,1.0,0.6,0.01,0.03,1.0,0.1,0.004,,,,
-67441138c36b585cf943d6cb,Sữa đậu phộng,Đồ uống,Sữa hạt,Thiếu máu,90.0,8.0,4.0,5.0,1.5,0.1,0.0,0.01,9.0,0.0,0.003,,,,
-67441138c36b585cf943d6ce,Sò huyết xào mướp,Món ăn,Món chính,Thiếu máu,100.0,8.0,10.0,3.0,2.0,0.5,0.02,0.15,2.0,0.1,0.02,,,,
-67441138c36b585cf943d6d5,Sữa bắp,Đồ uống,Sữa hạt,Thiếu máu,70.0,10.0,1.0,1.0,1.0,0.1,0.01,0.01,12.5,0.0,0.001,,,,
-67441138c36b585cf943d6d7,Thịt bò xào giá hẹ,Món ăn,Món chính,Thiếu máu,200.0,6.0,18.0,10.0,2.0,0.4,0.02,0.05,2.0,0.1,0.004,,,,
-67441138c36b585cf943d6dc,Nấm kim châm xào trứng gà non,Món ăn,Món khác,Thiếu máu,120.0,8.0,6.0,6.0,2.0,0.3,0.01,0.02,1.0,0.2,0.002,,,,
-67441138c36b585cf943d6de,Chè đậu xanh,Món ăn,Ăn vặt,Thiếu máu,140.0,25.0,4.0,2.0,3.5,0.1,0.01,0.01,22.5,0.0,0.003,,,,
-67441138c36b585cf943d6df,Su hào xào tôm,Món ăn,Món chính,Thiếu máu,120.0,6.0,10.0,4.0,2.0,0.3,0.02,0.03,1.0,0.05,0.002,,,,
-67441138c36b585cf943d6f0,Cà rốt xào tôm,Món ăn,Món chính,Thiếu máu,120.0,8.0,10.0,3.0,2.0,0.3,0.02,0.03,1.0,0.05,0.002,,,,
-67441138c36b585cf943d6f1,Bò nướng lá lốt,Món ăn,Món chính,Thiếu máu,180.0,6.0,15.0,10.0,1.0,0.4,0.01,0.05,1.0,0.1,0.005,,,,
-67441138c36b585cf943d6f5,Canh củ dền nấu xương,Món ăn,Món khác,Thiếu máu,180.0,10.0,15.0,8.0,1.5,0.5,0.02,0.05,2.0,0.1,0.003,,,,
-67441138c36b585cf943d6f9,Xôi củ dền,Món ăn,Món khác,Thiếu máu,180.0,25.0,5.0,3.0,2.5,0.3,0.02,0.01,3.0,0.0,0.003,,,,
-67441138c36b585cf943d6fd,Gỏi khổ qua chay,Món ăn,Món chay,,150.0,10.0,8.0,10.0,4.0,0.5,0.06,0.0,2.0,0.0,0.0015,,,,
-67441138c36b585cf943d706,Canh củ sen hầm táo đỏ,Món ăn,Món khác,,100.0,22.0,3.0,1.0,5.0,0.4,0.015,0.01,4.0,0.0,0.001,,,,
-67441138c36b585cf943d70a,Canh bí xanh nấu nấm,Món ăn,Món khác,,90.0,15.0,4.0,2.0,3.0,0.5,0.015,0.01,1.0,0.0,0.0005,,,,
-67441138c36b585cf943d70f,Bún xào chay,Món ăn,Món chay,,380.0,65.0,15.0,10.0,5.0,1.0,0.007,0.01,3.0,0.0,0.002,,,,
-67441138c36b585cf943d716,Bún chay nấm sa tế đậu hũ cà chua,Món ăn,Món chay,,250.0,45.0,10.0,5.0,5.0,1.0,0.03,0.01,5.0,0.0,0.002,,,,
-67441138c36b585cf943d3f9,Hải sản sốt cam,Món ăn,Món chính,Tiểu đường,190.0,14.0,27.0,5.0,0.5,0.6,0.025,0.2,7.5,0.09,0.0025,,,,
-67441138c36b585cf943d3fd,Vịt áp chảo sốt mận,Món ăn,Món chính,Tiểu đường,425.0,18.0,28.0,23.0,0.5,0.7,0.015,0.25,7.5,0.09,0.0025,,,,
-67441138c36b585cf943d401,Smoothie thanh long đỏ nhiệt đới,Đồ uống,Sinh tố,Tiểu đường,180.0,28.0,4.0,5.0,5.0,0.075,0.07,0.015,17.5,0.0,0.0015,,,,
-67441138c36b585cf943d406,Cà ri tôm chuối sáp,Món ăn,Món chính,Tiểu đường,200.0,28.0,15.0,5.0,4.5,0.7,0.04,0.175,6.0,0.08,0.0025,,,,
-67441138c36b585cf943d407,Bánh chuối yến mạch,Món ăn,Ăn vặt,Tiểu đường,250.0,40.0,5.0,9.0,6.0,0.4,0.015,0.015,12.5,0.025,0.0025,,,,
-67441138c36b585cf943d40e,Salad đu đủ chín và bơ,Món ăn,Món khác,Tiểu đường,200.0,15.0,2.0,15.0,6.0,0.25,0.07,0.015,8.5,0.0,0.0015,,,,
-67441138c36b585cf943d415,Gỏi gà chôm chôm,Món ăn,Món chính,Tiểu đường,180.0,10.0,20.0,5.0,4.0,0.4,0.05,0.125,6.0,0.06,0.0015,,,,
-67441138c36b585cf943d419,Thịt bò xào chôm chôm,Món ăn,Món chính,Tiểu đường,300.0,10.0,25.0,12.0,2.5,0.6,0.025,0.175,5.0,0.08,0.0025,,,,
-67441138c36b585cf943d41c,Salad nhãn trái cây,Món ăn,Món khác,Tiểu đường,120.0,25.0,2.0,2.0,4.5,0.25,0.06,0.015,17.5,0.0,0.0015,,,,
-67441138c36b585cf943d41f,Sinh tố bơ lê,Món ăn,Sinh tố,Tiểu đường,200.0,15.0,4.0,12.0,6.0,0.15,0.05,0.015,10.0,0.0,0.0015,,,,
-67441138c36b585cf943d423,Đậu hũ cuốn lá lốt chay,Món ăn,Món chính,Tiểu đường,150.0,8.0,8.0,5.0,3.5,0.25,0.025,0.015,2.5,0.0,0.0015,,,,
-67441138c36b585cf943d428,Salad nho thịt gà,Món ăn,Món khác,Tiểu đường,180.0,12.0,15.0,8.0,2.0,0.3,0.02,0.02,8.0,0.05,0.003,,,,
-67441138c36b585cf943d42a,Sinh tố kiwi nho xanh,Đồ uống,Sinh tố,Tiểu đường,90.0,15.0,2.0,2.0,3.0,0.1,0.05,0.0,15.0,0.0,0.002,,,,
-67441138c36b585cf943d42d,Trứng vịt xào nấm kim châm và rau củ,Món ăn,Món khác,Tiểu đường,110.0,5.0,7.0,5.0,2.0,0.5,0.01,0.02,2.0,0.2,0.003,,,,
-67441138c36b585cf943d434,Salad măng tây tôm trứng,Món ăn,Món khác,Tiểu đường,150.0,6.0,12.0,7.0,3.0,0.4,0.03,0.02,2.0,0.1,0.003,,,,
-67441138c36b585cf943d446,Miến măng ngan,Món ăn,Món khác,Tiểu đường,200.0,20.0,15.0,6.0,2.0,0.5,0.01,0.02,1.0,0.05,0.003,,,,
-67441138c36b585cf943d447,Miến hải sản,Món ăn,Món khác,Tiểu đường,300.0,40.0,20.0,8.0,2.0,0.6,0.01,0.03,1.0,0.1,0.004,,,,
-67441138c36b585cf943d448,Miến sườn nấu nấm,Món ăn,Món khác,Tiểu đường,250.0,30.0,15.0,10.0,2.0,0.5,0.01,0.02,1.0,0.05,0.003,,,,
-67441138c36b585cf943d44d,Bánh cà rốt,Món ăn,Ăn vặt,Tiểu đường,650.0,70.0,12.0,40.0,2.0,0.3,0.01,0.0,15.0,0.05,0.003,,,,
-67441138c36b585cf943d456,Hamburger khoai lang ức gà,Món ăn,Ăn vặt,Cao huyết áp,350.0,30.0,25.0,10.0,3.5,0.7,0.025,0.125,3.5,0.06,0.0025,,,,
-67441138c36b585cf943d45d,Chim cút hầm khoai lang mật kỷ tử táo đỏ,Món ăn,Món khác,Tiểu đường,300.0,30.0,18.0,15.0,3.0,0.5,0.02,0.02,5.0,0.1,0.004,,,,
-67441138c36b585cf943d45f,Khoai môn bọc cá thác lác,Món ăn,Món chính,Tiểu đường,250.0,25.0,20.0,10.0,2.0,0.4,0.01,0.02,1.0,0.05,0.003,,,,
-67441138c36b585cf943d461,Nem vuông khoai môn,Món ăn,Món khác,Tiểu đường,200.0,40.0,5.0,1.0,2.0,0.3,0.01,0.01,2.0,0.05,0.002,,,,
-67441138c36b585cf943d462,Sườn non hấp tàu xì khoai môn,Món ăn,Món chính,Tiểu đường,500.0,30.0,40.0,30.0,2.0,0.5,0.01,0.02,1.0,0.1,0.003,,,,
-67441138c36b585cf943d463,Canh khoai sọ rau nhút nấu sườn,Món ăn,Món khác,Tiểu đường,350.0,50.0,15.0,5.0,2.0,0.5,0.01,0.02,1.0,0.05,0.003,,,,
-67441138c36b585cf943d464,Súp tôm khoai sọ,Món ăn,Món khác,Tiểu đường,250.0,30.0,20.0,5.0,2.0,0.4,0.01,0.02,1.0,0.05,0.003,,,,
-67441138c36b585cf943d466,Thịt kho khoai sọ,Món ăn,Món chính,Tiểu đường,350.0,30.0,25.0,10.0,2.0,0.5,0.01,0.02,2.0,0.1,0.003,,,,
-67441138c36b585cf943d46b,Canh khoai mì nấu tôm,Món ăn,Món khác,Tiểu đường,250.0,30.0,20.0,5.0,2.0,0.5,0.01,0.02,1.0,0.05,0.003,,,,
-67441138c36b585cf943d46e,Gỏi rau củ khoai tây,Món ăn,Món chay,Tiểu đường,250.0,30.0,15.0,10.0,3.0,0.3,0.02,0.0,3.0,0.0,0.002,,,,
-67441138c36b585cf943d471,Khoai tây xào tôm,Món ăn,Món chính,Tiểu đường,350.0,35.0,25.0,15.0,2.0,0.5,0.01,0.02,1.0,0.05,0.003,,,,
-67441138c36b585cf943d473,Bún măng gà,Món ăn,Món khác,Tiểu đường,300.0,30.0,20.0,5.0,2.0,0.6,0.01,0.02,1.0,0.05,0.003,,,,
-67441138c36b585cf943d484,Mì gói nấu nấm,Món ăn,Món khác,Tiểu đường,400.0,55.0,12.0,10.0,2.0,0.6,0.01,0.01,1.0,0.0,0.002,,,,
-67441138c36b585cf943d488,Cháo cua biển mướp hương,Món ăn,Món khác,Tiểu đường,150.0,25.0,7.0,3.0,1.0,0.5,0.01,0.02,1.0,0.05,0.004,,,,
-67441138c36b585cf943d48d,Xôi đậu thận táo tàu,Món ăn,Món khác,Tiểu đường,180.0,35.0,4.0,2.0,3.0,0.2,0.02,0.0,3.0,0.0,0.003,,,,
-67441138c36b585cf943d490,Bánh mì đen trứng ngải cứu,Món ăn,Món khác,Tiểu đường,220.0,30.0,12.0,8.0,2.0,0.3,0.0,0.02,2.0,0.1,0.003,,,,
-67441138c36b585cf943d491,Bánh mì lúa mạch kẹp ức gà,Món ăn,Món khác,Tiểu đường,270.0,28.0,20.0,8.0,2.0,0.4,0.0,0.02,2.0,0.1,0.004,,,,
-67441138c36b585cf943d492,Bánh mì đen bơ trứng,Món ăn,Món khác,Tiểu đường,250.0,30.0,10.0,12.0,2.0,0.3,0.0,0.02,2.0,0.1,0.003,,,,
-67441138c36b585cf943d493,Bánh mì sandwich cá ngừ cuộn bơ,Món ăn,Món khác,Tiểu đường,300.0,30.0,15.0,14.0,2.0,0.4,0.0,0.02,2.0,0.1,0.003,,,,
-67441138c36b585cf943d497,Bánh canh sườn heo cà rốt,Món ăn,Món khác,Tiểu đường,500.0,55.0,25.0,18.0,1.0,0.8,0.01,0.02,1.0,0.05,0.003,,,,
-67441138c36b585cf943d49b,Bánh canh nấm,Món ăn,Món khác,Tiểu đường,300.0,50.0,8.0,5.0,2.0,0.6,0.01,0.01,1.0,0.0,0.002,,,,
-67441138c36b585cf943d4a3,Bánh ít lá gai sên dừa,Món ăn,Ăn vặt,Tiểu đường,350.0,60.0,5.0,10.0,2.0,0.3,0.0,0.01,6.0,0.0,0.002,,,,
-67441138c36b585cf943d4a5,Rau muống xào nấm rơm,Món ăn,Món chay,Tiểu đường,150.0,10.0,5.0,10.0,3.0,0.4,0.01,0.01,1.0,0.0,0.002,,,,
-67441138c36b585cf943d4a6,Nộm rau muống,Món ăn,Món khác,Tiểu đường,120.0,10.0,4.0,8.0,2.0,0.3,0.01,0.01,2.0,0.0,0.002,,,,
-67441138c36b585cf943d4a9,Canh rau cải nấu cá thác lác,Món ăn,Món khác,Tiểu đường,100.0,5.0,10.0,2.0,1.0,0.4,0.01,0.02,1.0,0.05,0.003,,,,
-67441138c36b585cf943d4ad,Canh cải ngọt nấu nghêu,Món ăn,Món khác,Tiểu đường,150.0,10.0,15.0,3.0,2.0,0.5,0.02,0.02,1.0,0.05,0.003,,,,
-67441138c36b585cf943d4af,Củ đậu xào tôm,Món ăn,Món chính,Tiểu đường,200.0,15.0,18.0,6.0,2.0,0.4,0.01,0.01,1.0,0.05,0.002,,,,
-67441138c36b585cf943d4b0,Canh củ đậu nấu sườn,Món ăn,Món khác,Tiểu đường,250.0,15.0,20.0,12.0,2.0,0.5,0.01,0.02,1.0,0.05,0.003,,,,
-67441138c36b585cf943d4b2,Mực ống hấp củ đậu,Món ăn,Món chính,Tiểu đường,180.0,10.0,20.0,5.0,2.0,0.4,0.01,0.01,1.0,0.05,0.003,,,,
-67441138c36b585cf943d4b7,Canh chua cá hú nấu rau lang,Món ăn,Món khác,Tiểu đường,200.0,10.0,15.0,10.0,2.0,0.6,0.02,0.02,2.0,0.05,0.003,,,,
-67441138c36b585cf943d4ba,Phi lê cá lóc bông kho ổi,Món ăn,Món chính,Tiểu đường,250.0,10.0,30.0,8.0,2.0,0.6,0.01,0.02,5.0,0.1,0.004,,,,
-67441138c36b585cf943d4bf,Sandwich nướng bơ trứng,Món ăn,Món khác,Tiểu đường,250.0,20.0,10.0,15.0,2.0,0.4,0.0,0.02,2.0,0.1,0.003,,,,
-67441138c36b585cf943d4c0,Sinh tố đá tuyết dưa hấu và chanh,Đồ uống,Sinh tố,Cao huyết áp,60.0,15.0,0.5,0.0,1.5,0.075,0.05,0.015,11.0,0.0,0.0015,,,,
-67441138c36b585cf943d4c1,Salad cá hồi dưa hấu và xoài,Món ăn,Món khác,Tiểu đường,200.0,15.0,15.0,8.0,2.0,0.2,0.04,0.02,4.0,0.1,0.003,,,,
-67441138c36b585cf943d4c2,Salad rau rocket dưa hấu và củ cải đỏ,Món ăn,Món khác,Cao huyết áp,100.0,10.0,2.0,7.0,2.5,0.15,0.04,0.015,6.0,0.0,0.0015,,,,
-67441138c36b585cf943d4cd,Salad táo tàu ớt chuông,Món ăn,Món khác,Tiểu đường,75.0,12.0,1.5,3.0,3.0,0.2,0.05,0.0,5.0,0.0,0.002,,,,
-67441138c36b585cf943d4ce,Gà tiềm táo đỏ hạt sen,Món ăn,Món chính,Tiểu đường,400.0,30.0,28.0,15.0,2.0,0.4,0.02,0.02,3.0,0.1,0.004,,,,
-67441138c36b585cf943d4d4,Hạt điều xào tôm,Món ăn,Món chính,Tiểu đường,270.0,10.0,22.0,16.0,1.0,0.3,0.01,0.02,1.0,0.1,0.002,,,,
-67441138c36b585cf943d4d5,Nộm gà trộn hạt điều,Món ăn,Món chính,Tiểu đường,275.0,18.0,31.0,13.0,2.0,0.3,0.02,0.02,2.0,0.05,0.003,,,,
-67441138c36b585cf943d4d9,Sườn non nấu đậu phộng,Món ăn,Món chính,Tiểu đường,450.0,20.0,28.0,25.0,1.0,0.4,0.01,0.02,1.0,0.1,0.003,,,,
-67441138c36b585cf943d4dc,Sữa đậu phộng mè đen,Đồ uống,Sữa hạt,Tiểu đường,370.0,17.5,10.0,30.0,1.0,0.1,0.0,0.0,6.0,0.0,0.002,,,,
-67441138c36b585cf943d4de,Salad bắp cà chua và trứng gà,Món ăn,Món khác,Cao huyết áp,250.0,15.0,12.0,18.0,2.5,0.3,0.004,0.015,1.5,0.125,0.0025,,,,
-67441138c36b585cf943d4e6,Nước yến nha đam,Đồ uống,Loại khác,Tiểu đường,35.0,8.0,1.0,0.0,0.0,0.1,0.01,0.0,8.0,0.0,0.001,,,,
-67441138c36b585cf943d4e7,Yến chưng kỷ tử,Món ăn,Món khác,Tiểu đường,40.0,9.0,1.0,0.0,0.0,0.1,0.01,0.0,5.0,0.0,0.001,,,,
-67441138c36b585cf943d4eb,Chả giò tôm cua,Món ăn,Món chính,Tiểu đường,300.0,25.0,18.0,15.0,1.0,0.4,0.01,0.02,1.0,0.1,0.003,,,,
-67441138c36b585cf943d4ef,Cá hồi nướng chanh vàng,Món ăn,Món chính,Cao huyết áp,280.0,5.0,25.0,20.0,0.5,0.75,0.025,0.175,0.5,0.07,0.0015,,,,
-67441138c36b585cf943d4f3,Cá tầm nướng riềng,Món ăn,Món chính,Tiểu đường,250.0,5.0,22.0,12.0,0.0,0.3,0.0,0.03,0.0,0.1,0.003,,,,
-67441138c36b585cf943d4f8,Nấm xào đậu hũ thịt nạc,Món ăn,Món chính,Tiểu đường,250.0,12.0,20.0,10.0,2.0,0.3,0.02,0.02,1.0,0.05,0.003,,,,
-67441138c36b585cf943d4fb,Bò nhúng giấm cuốn bánh tráng rau rừng,Món ăn,Món chính,Tiểu đường,400.0,40.0,30.0,10.0,2.0,0.4,0.03,0.03,2.0,0.1,0.004,,,,
-67441138c36b585cf943d502,Cháo đậu xanh nấu tôm,Món ăn,Món khác,Tiểu đường,250.0,30.0,15.0,6.0,2.0,0.3,0.02,0.02,1.0,0.05,0.003,,,,
-67441138c36b585cf943d50c,Cá mòi đút lò,Món ăn,Món chính,Tiểu đường,300.0,5.0,25.0,20.0,0.0,0.4,0.0,0.03,0.0,0.1,0.003,,,,
-67441138c36b585cf943d50e,Cháo cà rốt nấu tôm,Món ăn,Món khác,Tiểu đường,200.0,25.0,12.0,5.0,1.0,0.3,0.02,0.02,1.0,0.05,0.003,,,,
-67441138c36b585cf943d514,Thịt nạc heo xào cần tây,Món ăn,Món chính,Tiểu đường,200.0,8.0,18.0,10.0,1.0,0.3,0.02,0.02,1.0,0.05,0.003,,,,
-67441138c36b585cf943d515,Thịt vịt hầm hạt sen,Món ăn,Món khác,Tiểu đường,350.0,20.0,25.0,18.0,1.0,0.4,0.01,0.03,1.0,0.1,0.004,,,,
-67441138c36b585cf943d516,Rau mồng tơi nấu cua,Món ăn,Món khác,Tiểu đường,180.0,10.0,15.0,8.0,2.0,0.3,0.03,0.02,1.0,0.05,0.003,,,,
-67441138c36b585cf943d52a,Khoai tây xào gà,Món ăn,Món chính,Cao huyết áp,250.0,25.0,15.0,10.0,3.5,0.6,0.025,0.125,2.5,0.06,0.0015,,,,
-67441138c36b585cf943d533,Soup bông cải xanh,Món ăn,Món khác,Cao huyết áp,100.0,10.0,3.0,5.0,2.5,0.5,0.004,0.015,1.5,0.0,0.0015,,,,
-67441138c36b585cf943d537,Salad thịt gà lựu và rau quả,Món ăn,Món khác,Cao huyết áp,250.0,20.0,15.0,12.0,3.5,0.4,0.04,0.125,3.5,0.006,0.0025,,,,
-67441138c36b585cf943d538,Salad lựu cải xoăn nước sốt xoài,Món ăn,Món khác,Cao huyết áp,180.0,25.0,4.0,8.0,4.5,0.15,0.05,0.015,7.0,0.0,0.0025,,,,
-67441138c36b585cf943d541,Măng tây xào tỏi,Món ăn,Món chay,Cao huyết áp,80.0,8.0,3.0,4.0,2.0,0.2,0.03,0.0,1.0,0.0,0.002,,,,
-67441138c36b585cf943d542,Canh nghêu nấu hẹ,Món ăn,Món khác,Cao huyết áp,120.0,7.0,12.0,4.0,1.0,0.4,0.02,0.02,1.0,0.05,0.003,,,,
-67441138c36b585cf943d548,Canh nấm đậu phụ non,Món ăn,Món khác,Thiếu cân,80.0,6.0,5.0,3.0,2.0,0.3,0.01,0.0,1.0,0.0,0.002,,,,
-67441138c36b585cf943d54a,Sinh tố bơ,Đồ uống,Sinh tố,Thiếu cân,200.0,25.0,3.0,12.0,4.0,0.1,0.06,0.0,8.0,0.0,0.002,,,,
-67441138c36b585cf943d54b,Thịt bò xào hành tây,Món ăn,Món chính,Thiếu máu,180.0,5.0,20.0,8.0,1.5,0.6,0.01,0.05,2.0,0.08,0.005,,,,
-67441138c36b585cf943d54e,Bắp cải cuộn thịt ,Món ăn,Món chính,Thiếu cân,100.0,8.0,10.0,4.0,2.0,0.3,0.02,0.02,2.0,0.1,0.004,,,,
-67441138c36b585cf943d552,Chè khoai môn,Món ăn,Ăn vặt,Thiếu cân,220.0,40.0,3.0,5.0,2.0,0.1,0.01,0.0,15.0,0.0,0.002,,,,
-67441138c36b585cf943d555,Salad cá hồi với dầu oliu,Món ăn,Món khác,Thiếu cân,180.0,10.0,15.0,12.0,2.0,0.2,0.03,0.02,1.0,0.05,0.003,,,,
-67441138c36b585cf943d558,Chè hạt sen,Món ăn,Ăn vặt,Thiếu cân,180.0,30.0,4.0,4.0,2.0,0.1,0.01,0.0,15.0,0.0,0.002,,,,
-67441138c36b585cf943d55c,Mực nhồi thịt,Món ăn,Món chính,Thiếu cân,200.0,10.0,18.0,8.0,1.0,0.4,0.01,0.02,1.0,0.1,0.003,,,,
-67441138c36b585cf943d56c,Cháo lươn,Món ăn,Món khác,Thiếu cân,220.0,30.0,15.0,8.0,1.0,0.3,0.01,0.03,1.0,0.1,0.004,,,,
-67441138c36b585cf943d571,Canh ngao mồng tơi,Món ăn,Món khác,Thiếu cân,110.0,5.0,8.0,3.0,1.0,0.3,0.02,0.02,1.0,0.05,0.003,,,,
-67441138c36b585cf943d579,Su hào xào thịt bò,Món ăn,Món chính,Thiếu cân,140.0,6.0,12.0,6.0,2.0,0.3,0.03,0.02,1.0,0.1,0.004,,,,
-67441138c36b585cf943d57f,Mousse bơ,Món ăn,Ăn vặt,Thiếu cân,250.0,15.0,3.0,22.0,1.5,0.15,0.015,0.015,12.5,0.06,0.0015,,,,
-67441138c36b585cf943d586,Cheese cake sầu riêng,Món ăn,Ăn vặt,Thiếu cân,400.0,30.0,7.0,28.0,1.5,0.25,0.015,0.015,17.5,0.125,0.0025,,,,
-67441138c36b585cf943d58d,Sinh tố bơ sữa chua,Đồ uống,Sinh tố,Thiếu cân,160.0,20.0,3.0,8.0,2.5,0.15,0.025,0.015,12.5,0.06,0.0015,,,,
-67441138c36b585cf943d58e,Kem bơ,Món ăn,Ăn vặt,Thiếu cân,250.0,25.0,4.0,15.0,1.5,0.15,0.015,0.015,17.5,0.06,0.0015,,,,
-67441138c36b585cf943d591,Pudding bơ chocolate,Món ăn,Ăn vặt,Thiếu cân,300.0,30.0,4.0,18.0,1.5,0.15,0.01,0.01,22.5,0.05,0.002,,,,
-67441138c36b585cf943d595,Beef steak,Món ăn,Món chính,Thiếu cân,250.0,0.0,25.0,15.0,0.0,0.5,0.0,0.1,0.0,0.1,0.005,,,,
-67441138c36b585cf943d597,Tokbokki phô mai,Món ăn,Món khác,Thiếu cân,300.0,50.0,5.0,10.0,1.5,0.6,0.01,0.02,10.0,0.05,0.002,,,,
-67441138c36b585cf943d598,Canh chua cá lóc,Món ăn,Món khác,Thiếu cân,180.0,10.0,15.0,8.0,2.5,0.4,0.03,0.05,3.0,0.05,0.003,,,,
-67441138c36b585cf943d59f,Cháo bò yến mạch,Món ăn,Món khác,Thừa cân,180.0,20.0,12.0,6.0,2.0,0.3,0.01,0.02,1.0,0.1,0.004,,,,
-67441138c36b585cf943d5a0,Đậu hủ sốt cà,Món ăn,Món chính,Thừa cân,150.0,10.0,8.0,6.0,2.0,0.3,0.02,0.0,3.0,0.0,0.003,,,,
-67441138c36b585cf943d5a3,Tôm hấp sả,Món ăn,Món chính,Thừa cân,100.0,1.0,20.0,2.0,0.0,0.3,0.01,0.02,0.0,0.1,0.002,,,,
-67441138c36b585cf943d5a6,Cháo yến mạch tôm,Món ăn,Món chay,Thừa cân,160.0,25.0,12.0,4.0,2.0,0.3,0.01,0.02,1.0,0.05,0.003,,,,
-67441138c36b585cf943d5a7,Cá basa nướng,Món ăn,Món chính,Thừa cân,200.0,0.0,20.0,12.0,0.0,0.3,0.0,0.03,0.0,0.1,0.003,,,,
-67441138c36b585cf943d5b6,Nấm kho tiêu,Món ăn,Món chay,Thừa cân,90.0,8.0,5.0,3.0,2.0,0.3,0.01,0.0,1.0,0.0,0.002,,,,
-67441138c36b585cf943d5b9,Cá diêu hồng hấp,Món ăn,Món chính,Thừa cân,180.0,2.0,20.0,8.0,0.0,0.3,0.01,0.03,0.0,0.1,0.003,,,,
-67441138c36b585cf943d5bb,Sườn non hầm rau củ,Món ăn,Món khác,Thừa cân,220.0,12.0,15.0,10.0,2.5,0.5,0.02,0.1,3.0,0.1,0.003,,,,
-67441138c36b585cf943d5bd,Miến áp chảo hải sản,Món ăn,Món khác,Thừa cân,300.0,40.0,20.0,10.0,1.5,0.5,0.01,0.05,3.0,0.05,0.002,,,,
-67441138c36b585cf943d5c5,Nước chanh sả gừng,Đồ uống,Loại khác,Thừa cân,40.0,10.0,0.0,0.0,0.5,0.0,0.025,0.0,7.5,0.0,0.001,,,,
-67441138c36b585cf943d5c6,Salad ức gà kim chi,Món ăn,Món khác,Thừa cân,120.0,5.0,15.0,4.0,2.5,0.6,0.01,0.05,2.5,0.1,0.002,,,,
-67441138c36b585cf943d5ce,Sandwich kẹp ức gà,Món ăn,Món khác,Thừa cân,300.0,35.0,20.0,8.0,2.5,0.5,0.01,0.05,4.0,0.1,0.002,,,,
-67441138c36b585cf943d5d4,Salad rong biển,Món ăn,Món khác,Thừa cân,50.0,8.0,1.0,2.0,2.5,0.2,0.01,0.0,1.0,0.0,0.002,,,,
-67441138c36b585cf943d5da,Ức gà cuộn măng tây,Món ăn,Món chính,Thừa cân,180.0,5.0,25.0,7.0,2.0,0.3,0.02,0.03,1.0,0.1,0.003,,,,
-67441138c36b585cf943d5db,Salad cá hồi khoai tây,Món ăn,Món khác,Thừa cân,250.0,15.0,18.0,12.0,3.0,0.4,0.03,0.04,2.0,0.1,0.004,,,,
-67441138c36b585cf943d5dc,Canh atiso chân giò,Món ăn,Món khác,Đau đầu,180.0,8.0,15.0,8.0,2.0,0.4,0.02,0.03,1.0,0.1,0.003,,,,
-67441138c36b585cf943d5de,Canh giá đỗ kim chi,Món ăn,Món khác,Đau đầu,100.0,6.0,8.0,3.0,2.0,0.5,0.02,0.01,2.0,0.0,0.002,,,,
-67441138c36b585cf943d5e4,Súp măng tây,Món ăn,Món khác,Đau đầu,80.0,10.0,2.0,3.0,1.5,0.3,0.02,0.0,1.0,0.0,0.002,,,,
-67441138c36b585cf943d5ee,Canh củ dền,Món ăn,Món khác,Đau đầu,70.0,15.0,2.0,0.0,2.0,0.3,0.02,0.0,3.0,0.0,0.003,,,,
-67441138c36b585cf943d5f2,Salad quýt và củ dền nướng,Món ăn,Món khác,Đau đầu,90.0,15.0,2.0,3.0,3.0,0.2,0.05,0.0,5.0,0.0,0.004,,,,
-67441138c36b585cf943d5f7,Sinh tố dưa hấu sữa tươi,Đồ uống,Sinh tố,Đau đầu,90.0,18.0,2.0,1.0,1.0,0.1,0.03,0.0,12.0,0.01,0.002,,,,
-67441138c36b585cf943d5fb,Kimbap khoai lang,Món ăn,Món khác,Máu nhiễm mỡ,200.0,35.0,5.0,6.0,3.0,0.4,0.01,0.0,2.0,0.01,0.004,,,,
-67441138c36b585cf943d600,Thịt bò hấp nấm kim châm,Món ăn,Món chính,Máu nhiễm mỡ,200.0,5.0,20.0,10.0,1.0,0.3,0.01,0.03,1.0,0.1,0.004,,,,
-67441138c36b585cf943d602,Salad bơ trứng,Món ăn,Món khác,Máu nhiễm mỡ,220.0,10.0,6.0,20.0,3.0,0.2,0.04,0.02,2.0,0.2,0.003,,,,
-67441138c36b585cf943d609,Cháo cá thác lác,Món ăn,Món khác,Máu nhiễm mỡ,160.0,25.0,10.0,3.0,1.5,0.4,0.01,0.05,1.0,0.05,0.002,,,,
-67441138c36b585cf943d60b,Ức gà xào bông cải,Món ăn,Món chính,Máu nhiễm mỡ,180.0,8.0,22.0,6.0,2.5,0.4,0.02,0.05,2.0,0.1,0.002,,,,
-67441138c36b585cf943d60e,Canh chua cá hú,Món ăn,Món khác,Máu nhiễm mỡ,150.0,12.0,15.0,5.0,2.5,0.4,0.03,0.05,3.0,0.05,0.003,,,,
-67441138c36b585cf943d610,Cháo đậu xanh tôm tươi,Món ăn,Món khác,Máu nhiễm mỡ,160.0,25.0,12.0,3.0,2.5,0.4,0.01,0.05,1.0,0.05,0.002,,,,
-67441138c36b585cf943d612,Salad dứa rau củ,Món ăn,Món khác,Gút,80.0,12.0,2.0,2.0,3.5,0.2,0.05,0.01,5.0,0.0,0.002,,,,
-67441138c36b585cf943d614,Sườn xào chua ngọt với dứa,Món ăn,Món chính,Gút,250.0,15.0,18.0,12.0,1.5,0.5,0.03,0.05,10.0,0.1,0.003,,,,
-67441138c36b585cf943d615,Canh mực nấu với dứa,Món ăn,Món khác,Gút,120.0,10.0,12.0,2.0,1.5,0.4,0.03,0.04,2.0,0.1,0.003,,,,
-67441138c36b585cf943d618,Súp gà rau củ và lúa mạch,Món ăn,Món khác,Máu nhiễm mỡ,150.0,15.0,12.0,5.0,3.5,0.4,0.03,0.03,2.0,0.05,0.003,,,,
-67441138c36b585cf943d61a,Bí sợi mì sốt Pesto hạnh nhân,Món ăn,Món khác,Máu nhiễm mỡ,150.0,10.0,3.0,10.0,3.5,0.2,0.02,0.01,2.0,0.0,0.003,,,,
-67441138c36b585cf943d61b,Cà ri khoai lang đậu phộng,Món ăn,Món khác,Máu nhiễm mỡ,200.0,25.0,5.0,9.0,4.5,0.3,0.02,0.01,5.0,0.0,0.004,,,,
-67441138c36b585cf943d61c,Súp hạt lanh rau củ,Món ăn,Món khác,Máu nhiễm mỡ,120.0,15.0,3.0,6.0,3.5,0.2,0.03,0.01,2.0,0.0,0.003,,,,
-67441138c36b585cf943d620,"Pancake khoai lang, yến mạch và hạt lanh",Món ăn,Món khác,Máu nhiễm mỡ,200.0,30.0,5.0,8.0,4.5,0.2,0.01,0.01,5.0,0.0,0.003,,,,
-67441138c36b585cf943d621,Sandwich bơ trứng luộc,Món ăn,Món khác,Máu nhiễm mỡ,250.0,25.0,10.0,12.0,2.5,0.3,0.01,0.02,2.0,0.2,0.002,,,,
-67441138c36b585cf943d623,Nước ép việt quất,Đồ uống,Nước ép,Máu nhiễm mỡ,45.0,11.0,0.0,0.0,1.5,0.1,0.02,0.01,12.5,0.0,0.002,,,,
-67441138c36b585cf943d629,Cá hồi chiên xù sốt ngò thì là,Món ăn,Món chính,Đau đầu,320.0,10.0,25.0,22.0,1.0,0.4,0.01,0.05,1.0,0.1,0.003,,,,
-67441138c36b585cf943d62b,Sashimi cá hồi,Món ăn,Món chính,Đau đầu,180.0,0.0,18.0,12.0,0.0,0.1,0.0,0.05,0.0,0.1,0.002,,,,
-67441138c36b585cf943d630,Cháo đậu đen thịt bằm chà bông,Món ăn,Món khác,Máu nhiễm mỡ,180.0,28.0,10.0,4.0,3.5,0.4,0.02,0.03,2.0,0.05,0.004,,,,
-67441138c36b585cf943d632,Súp bồ câu diêm mạch,Món ăn,Món khác,Máu nhiễm mỡ,180.0,15.0,10.0,8.0,3.5,0.3,0.02,0.03,2.0,0.05,0.004,,,,
-67441138c36b585cf943d635,Nước ép nghệ,Đồ uống,Nước ép,Máu nhiễm mỡ,15.0,4.0,0.0,0.0,1.0,0.1,0.01,0.01,5.0,0.0,0.002,,,,
-67441138c36b585cf943d638,Nước ép lê,Đồ uống,Nước ép,Máu nhiễm mỡ,50.0,12.0,0.0,0.0,1.5,0.1,0.02,0.01,12.5,0.0,0.002,,,,
-67441138c36b585cf943d639,Nước ép dâu tây,Đồ uống,Nước ép,Máu nhiễm mỡ,30.0,7.0,0.0,0.0,0.5,0.1,0.05,0.0,10.0,0.0,0.002,,,,
-67441138c36b585cf943d63b,Sữa hạnh nhân,Đồ uống,Sữa hạt,Máu nhiễm mỡ,40.0,1.0,1.0,3.0,0.5,0.1,0.0,0.0,5.0,0.0,0.002,,,,
-67441138c36b585cf943d63d,Nước ép rau diếp cá,Đồ uống,Nước ép,Máu nhiễm mỡ,20.0,5.0,0.0,0.0,0.5,0.1,0.03,0.0,5.0,0.0,0.002,,,,
-67441138c36b585cf943d63e,Nước ép cải xoăn,Đồ uống,Nước ép,Máu nhiễm mỡ,25.0,6.0,1.0,0.0,0.5,0.1,0.04,0.0,5.0,0.0,0.003,,,,
-67441138c36b585cf943d640,Bánh mì nướng sữa chua,Món ăn,Món khác,Máu nhiễm mỡ,200.0,25.0,8.0,7.0,2.0,0.3,0.01,0.0,5.0,0.01,0.002,,,,
-67441138c36b585cf943d642,Panna cotta sữa chua,Món ăn,Ăn vặt,Máu nhiễm mỡ,150.0,15.0,3.0,8.0,0.0,0.1,0.0,0.0,10.0,0.02,0.001,,,,
-67441138c36b585cf943d647,Sữa đậu nành lắc sữa chua anh đào,Đồ uống,Sữa hạt,Máu nhiễm mỡ,130.0,18.0,4.0,4.0,1.0,0.1,0.01,0.0,12.0,0.0,0.002,,,,
-67441138c36b585cf943d649,Sữa hạt bí,Đồ uống,Sữa hạt,Máu nhiễm mỡ,70.0,10.0,2.0,3.0,0.5,0.1,0.0,0.0,4.0,0.0,0.002,,,,
-67441138c36b585cf943d64f,Đậu phụ sốt tiêu đen,Món ăn,Món chính,Gút,120.0,10.0,8.0,5.0,2.0,0.4,0.01,0.0,2.0,0.0,0.003,,,,
-67441138c36b585cf943d65f,Canh cá rô đồng rau cải xanh,Món ăn,Món khác,Gút,160.0,5.0,15.0,8.0,2.0,0.3,0.02,0.02,1.0,0.05,0.003,,,,
-67441138c36b585cf943d669,Sinh tố cải bó xôi với bơ,Đồ uống,Sinh tố,Gút,140.0,10.0,3.0,8.0,3.0,0.1,0.04,0.0,5.0,0.0,0.003,,,,
-67441138c36b585cf943d66f,Canh củ cải,Món ăn,Món khác,Gút,60.0,10.0,2.0,0.0,1.5,0.4,0.01,0.01,2.5,0.0,0.002,,,,
-67441138c36b585cf943d673,Canh bí đỏ nấu sườn,Món ăn,Món khác,Gút,180.0,10.0,15.0,8.0,2.5,0.5,0.02,0.05,2.0,0.05,0.003,,,,
-67441138c36b585cf943d674,Đậu phụ nhồi thịt sốt cà chua,Món ăn,Món chính,Gút,150.0,8.0,10.0,7.0,1.5,0.6,0.01,0.03,3.0,0.05,0.004,,,,
-67441138c36b585cf943d678,Sườn xào chua ngọt,Món ăn,Món chính,Gút,350.0,20.0,20.0,25.0,1.0,0.7,0.01,0.05,10.0,0.08,0.004,,,,
-67441138c36b585cf943d683,Canh cải xanh,Món ăn,Món khác,Gút,40.0,5.0,3.0,0.5,2.5,0.4,0.03,0.01,1.0,0.0,0.004,,,,
-67441138c36b585cf943d684,Cá chép chiên sốt cà chua,Món ăn,Món chính,Gút,250.0,8.0,20.0,12.0,0.0,0.6,0.01,0.2,3.0,0.08,0.005,,,,
-67441138c36b585cf943d685,Đậu phộng rang,Món ăn,Món khác,Gút,150.0,6.0,6.0,12.0,3.5,0.2,0.0,0.01,1.0,0.0,0.006,,,,
-67441138c36b585cf943d686,Bầu luộc,Món ăn,Món chay,Gút,25.0,5.0,1.0,0.0,1.5,0.1,0.01,0.01,1.0,0.0,0.002,,,,
-67441138c36b585cf943d687,Xôi đậu phộng,Món ăn,Món khác,Gút,200.0,35.0,5.0,6.0,3.5,0.2,0.01,0.01,1.0,0.0,0.003,,,,
-67441138c36b585cf943d68f,Bắp cải xào cà rốt,Món ăn,Món chay,Gút,90.0,10.0,2.0,3.0,3.5,0.3,0.05,0.01,2.0,0.0,0.002,,,,
-67441138c36b585cf943d691,Cháo gà với mướp hương,Món ăn,Món khác,Gút,160.0,22.0,8.0,3.0,1.5,0.5,0.01,0.03,1.0,0.05,0.003,,,,
-67441138c36b585cf943d696,Cháo gà súp lơ xanh,Món ăn,Món khác,Gút,170.0,20.0,10.0,3.0,2.5,0.5,0.03,0.03,1.0,0.05,0.004,,,,
-67441138c36b585cf943d698,Thịt băm sốt cà chua,Món ăn,Món chính,Gút,150.0,6.0,12.0,8.0,1.0,0.6,0.01,0.05,3.0,0.08,0.004,,,,
-67441138c36b585cf943d699,Sữa hạnh nhân chà là,Đồ uống,Sữa hạt,Gút,90.0,10.0,2.0,4.0,1.5,0.1,0.01,0.01,11.0,0.0,0.002,,,,
-67441138c36b585cf943d69a,Rau củ hấp thập cẩm,Món ăn,Món khác,Gút,70.0,15.0,2.0,0.0,3.5,0.2,0.03,0.01,3.0,0.0,0.005,,,,
-67441138c36b585cf943d6a4,Ức gà xào măng tây,Món ăn,Món chính,Gút,160.0,6.0,18.0,5.0,2.5,0.4,0.03,0.03,1.0,0.1,0.003,,,,
-67441138c36b585cf943d6a5,Ức gà xào ớt chuông,Món ăn,Món chính,Gút,170.0,10.0,18.0,6.0,2.5,0.3,0.04,0.03,2.0,0.1,0.003,,,,
-67441138c36b585cf943d6a7,Ức gà xào đậu bắp,Món ăn,Món chính,Gút,170.0,10.0,18.0,6.0,3.5,0.3,0.03,0.03,2.0,0.1,0.003,,,,
-67441138c36b585cf943d6a9,Canh gà cà rốt,Món ăn,Món khác,Thiếu máu,100.0,10.0,8.0,2.0,1.5,0.5,0.02,0.03,1.0,0.05,0.003,,,,
-67441138c36b585cf943d6ae,Thịt bò xào sả ớt,Món ăn,Món chính,Thiếu máu,200.0,6.0,20.0,10.0,1.5,0.5,0.02,0.05,2.0,0.08,0.005,,,,
-67441138c36b585cf943d6b0,Thịt bò xào bông cải,Món ăn,Món chính,Thiếu máu,180.0,6.0,20.0,8.0,2.5,0.4,0.03,0.05,2.0,0.08,0.005,,,,
-67441138c36b585cf943d6b5,Thịt bò xào măng,Món ăn,Món chính,Thiếu máu,200.0,8.0,20.0,10.0,2.0,0.5,0.02,0.05,2.0,0.08,0.005,,,,
-67441138c36b585cf943d6b9,Thịt bò xào bông thiên lý,Món ăn,Món chính,Thiếu máu,190.0,8.0,20.0,8.0,2.0,0.3,0.02,0.05,2.0,0.08,0.005,,,,
-67441138c36b585cf943d6ba,Thịt bò xào rau muống,Món ăn,Món chính,Thiếu máu,180.0,6.0,20.0,8.0,2.5,0.4,0.03,0.05,1.0,0.08,0.005,,,,
-67441138c36b585cf943d6bd,Trứng cuộn tôm,Món ăn,Món chính,Thiếu máu,120.0,5.0,10.0,6.0,0.0,0.6,0.01,0.05,1.0,0.02,0.003,,,,
-67441138c36b585cf943d6c2,Canh củ cải trắng sườn non,Món ăn,Món khác,Thiếu máu,120.0,8.0,10.0,6.0,1.5,0.5,0.02,0.03,1.0,0.05,0.003,,,,
-67441138c36b585cf943d6c3,Canh nghêu nấu với bầu,Món ăn,Món khác,Thiếu máu,90.0,5.0,8.0,2.0,1.5,0.4,0.02,0.05,1.0,0.03,0.004,,,,
-67441138c36b585cf943d6cc,Cháo gạo nếp gan lợn,Món ăn,Món khác,Thiếu máu,180.0,20.0,10.0,6.0,1.0,0.5,0.01,0.1,1.0,0.1,0.02,,,,
-67441138c36b585cf943d6cd,Sườn ram nước dừa,Món ăn,Món chính,Thiếu máu,200.0,5.0,15.0,10.0,0.0,0.7,0.01,0.05,5.0,0.1,0.005,,,,
-67441138c36b585cf943d6cf,Canh cải bó xôi nấu cua xay,Món ăn,Món khác,Thiếu máu,90.0,6.0,8.0,2.0,2.5,0.4,0.03,0.05,1.0,0.05,0.006,,,,
-67441138c36b585cf943d6d2,Canh bầu nấu tôm xay,Món ăn,Món khác,Thiếu máu,80.0,5.0,6.0,2.0,2.0,0.3,0.02,0.03,1.0,0.05,0.002,,,,
-67441138c36b585cf943d6d4,Rau củ xào thập cẩm,Món ăn,Món khác,Thiếu máu,100.0,12.0,3.0,4.0,3.5,0.3,0.04,0.01,3.0,0.0,0.003,,,,
-67441138c36b585cf943d6d8,Cá lóc hấp bầu,Món ăn,Món chính,Thiếu máu,150.0,5.0,15.0,5.0,1.5,0.3,0.02,0.05,1.0,0.1,0.003,,,,
-67441138c36b585cf943d6da,Đậu hũ kho rau củ,Món ăn,Món chính,Thiếu máu,100.0,10.0,6.0,3.0,3.5,0.3,0.03,0.01,5.0,0.0,0.004,,,,
-67441138c36b585cf943d6e3,Cháo cá hồi rau cải bó xôi,Món ăn,Món khác,Thiếu máu,170.0,15.0,15.0,5.0,2.0,0.3,0.03,0.04,1.0,0.05,0.003,,,,
-67441138c36b585cf943d6f4,Nước ép táo gừng củ dền,Đồ uống,Nước ép,Thiếu máu,70.0,16.0,0.5,0.0,1.5,0.1,0.03,0.01,17.5,0.0,0.002,,,,
-67441138c36b585cf943d6fb,Kem dâu tây mâm xôi củ dền,Món ăn,Ăn vặt,Thiếu máu,130.0,25.0,2.0,4.0,1.5,0.1,0.05,0.01,22.5,0.1,0.002,,,,
-67441138c36b585cf943d6ff,Khổ qua sốt cà chua,Món ăn,Món chay,,120.0,20.0,4.0,5.0,3.0,0.8,0.025,0.01,4.0,0.0,0.0015,,,,
-67441138c36b585cf943d700,Khổ qua kho nấm,Món ăn,Món chay,,150.0,25.0,5.0,3.0,6.0,1.0,0.07,0.01,5.0,0.0,0.001,,,,
-67441138c36b585cf943d701,Canh khổ qua hầm chay,Món ăn,Món chay,,180.0,15.0,12.0,8.0,6.0,1.5,0.08,0.01,3.0,0.0,0.002,,,,
-67441138c36b585cf943d704,Canh đu đủ nấm rơm,Món ăn,Món khác,,90.0,20.0,4.0,2.0,5.0,0.5,0.03,0.01,3.0,0.0,0.001,,,,
-67441138c36b585cf943d705,Canh bí đỏ xay nhuyễn đậu phộng,Món ăn,Món khác,,150.0,20.0,6.0,7.0,4.0,0.5,0.025,0.01,2.0,0.0,0.0015,,,,
-67441138c36b585cf943d708,Canh rong biển hạt sen,Món ăn,Món khác,,80.0,15.0,4.0,1.0,3.0,0.5,0.005,0.01,1.0,0.0,0.0005,,,,
-67441138c36b585cf943d70c,Chả lụa chay rim nước tương,Món ăn,Món chay,,180.0,15.0,10.0,8.0,2.0,1.0,0.005,0.01,3.0,0.0,0.001,,,,
-67441138c36b585cf943d710,Nấm kim châm hấp xì dầu,Món ăn,Món chay,,120.0,8.0,4.0,8.0,2.0,1.0,0.002,0.01,2.0,0.0,0.0005,,,,
-67441138c36b585cf943d712,Bò kho chay,Món ăn,Món chay,,350.0,50.0,15.0,10.0,8.0,1.5,0.015,0.01,5.0,0.0,0.003,,,,
-67441138c36b585cf943d713,Cháo lòng chay,Món ăn,Món chay,,400.0,60.0,20.0,10.0,6.0,1.5,0.005,0.01,2.0,0.0,0.002,,,,
->>>>>>> 923d9cb147cb0d959c8c8a91088188f49097b74c
+674859dde7204be7253d6f0a,Cơm chiên Dương Châu,Món ăn,Món chính,,150.0,20.0,0.0,1.0,2.0,0.0,0.262,0.5,2.0,2.0,0.0,"Calo:150,Carbohydrate:20,
+Protein:10,
+fat:1,
+fiber:2,
+Sodium:0.312,VitaminC:0.262,Purine:0.5,sugar:2,Cholesterol:2,iron:0",static/uploads/dishes/com-chien-duong-chau.jpg,Cơm1 ChénXúc xích1 Cây Trứng gà2 Quả Khoai tây1 CủCà rốt1 Củ Đậu que100 Gr Dầu ăn2 Muỗng canhTỏi băm1/2 Muỗng cà phêTỏi3 TépMuối1/2 Muỗng cà phêBột ngọt1/2 Muỗng cà phêTiêu1/4 Muỗng cà phêNước mắm1 Muỗng cà phê,"1.
+Lột vỏ xúc xích và cắt hạt lựu. Bào vỏ khoai tây, cà rốt, rửa sạch và cũng cắt thành hạt lựu nhỏ. Cắt bỏ hai đầu đậu que, tước bỏ xơ, rửa sạch rồi cắt thành khúc nhỏ. Để riêng từng loại nguyên liệu. Bới cơm ra tô, dùng muỗng xới cho cơm tơi hạt.
+
+2.
+Làm nóng chảo, cho dầu ăn vào để dầu hơi sôi lăn tăn (nên cho nhiều dầu để khi chiên cơm không bị khô cứng lại nha), thả tỏi đập dập vào phi thơm. Đổ cơm đã xới tơi vào chảo, dùng xẻng đảo đều để cơm áo một lớp dầu ăn. Nêm 1 muỗng nước mắm vào chảo cơm, tách 2 quả trứng cho vào cơm (có thể dùng trứng gà, trứng vịt tùy khẩu vị nha). Đảo cơm thường xuyên cho cơm tơi ra. Chiên cơm đến khi thấy hạt cơm khô lại, rời ra, có một màu vàng đẹp mắt của trứng.
+3.
+Tắt bếp khi cơm đã chiên chín vàng, thơm lừng. Múc cơm chiên ra tô và để qua một bên. Giữ nguyên chảo, thêm dầu ăn vào đun nóng, thêm cà rốt vào xào trước cho chín (cà rốt rất lâu chín), sau đó thêm khoai tây, đâu que và xúc xích vào cuối cùng. Đảo cho tất cả nguyên liệu hòa đều vào nhau. Nêm muối, tiêu, bột ngọt cho vừa khẩu vị.
+4.
+Đổ cơm đã chiên vào chảo rau củ, dùng xẻng đảo thật đều cho cơm và nguyên liệu rau củ đều nhau. Chiên cơm thêm 2 - 5 phút nữa cho cơm nóng lại là tắt bếp được rồi đó. Múc cơm chiên dương châu ra dĩa, ăn kèm nước tương hay tương ớt đều ngon.
+5.
+Dĩa cơm chiên dương châu hoàn thành với hương vị thơm lừng, nóng hôi hổi cùng màu sắc sặc sỡ vừa nhìn đã khiến bạn cảm thấy kích thích vị giác rồi đó. Cả nhà sẽ phải trầm trồ bởi hương vị thơm ngon của món cơm chiên dương châu. Đây cũng là cách để bạn tận dụng cơm còn dư và làm thành món ăn sáng bổ dưỡng, ngon lành cho mọi người vào ngày hôm sau nữa đấy. Nhanh tay cùng mình lưu lại ngay cách làm cơm chiên dương châu hấp dẫn này nhé.",2024-11-28 11:54:05.658,2024-11-28 12:20:55.526
