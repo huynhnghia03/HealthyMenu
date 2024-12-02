@@ -220,12 +220,12 @@ def love_food():
         try:
             data = request.form
             food_id = data.get("food_id")
-            print(food_id)
+            print(email)
             if not food_id:
                 return jsonify({"error": "food_id is required"}), 400
             
             # Kiểm tra người dùng tồn tại không
-            user = db.Users.find_one({"email": email})
+            user = db.users.find_one({"email": email})
             if not user:
                 return jsonify({"error": "User not found"}), 404
             
@@ -265,8 +265,9 @@ def get_favorites():
 
             for fav in favorites:
                 # Lấy chi tiết món ăn từ bảng Recipes
-                recipe = db.Recipes.find_one({"_id": fav["food_id"]})
-                
+                recipe = db.Recipes.find_one({"_id": ObjectId(fav["food_id"])})
+                print(recipe)
+                print(fav["food_id"])
                 # Thêm thông tin chi tiết món ăn vào danh sách
                 favorite_list.append({
                     "food_id": fav["food_id"],
@@ -298,7 +299,6 @@ def remove_favorite(food_id):
     email = get_jwt_identity()
     if email:
         try:
-            
             if not food_id:
                 return jsonify({"error": "food_id is required"}), 400
             
