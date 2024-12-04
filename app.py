@@ -1,14 +1,14 @@
-import json
+
 from mailbox import Message
 import math
 import random
 
 from bson import ObjectId
-from flask import Flask, request, jsonify, Blueprint, send_from_directory, render_template
+from flask import Flask, request, jsonify
 from flask_mail import Mail, Message
 from flask_jwt_extended import JWTManager, create_access_token, jwt_required, get_jwt_identity
 import pandas as pd
-from sklearn.preprocessing import LabelEncoder, StandardScaler # type: ignore
+from sklearn.preprocessing import  StandardScaler # type: ignore
 from sklearn.neighbors import NearestNeighbors # type: ignore
 from werkzeug.security import generate_password_hash, check_password_hash
 from flask_cors import CORS
@@ -18,13 +18,8 @@ from flask_pymongo import PyMongo
 from pymongo import MongoClient
 from datetime import datetime, timedelta
 from dotenv import load_dotenv
-from flask_restful import Api, Resource
-from flasgger import Swagger
-# import schedule
-# import time
+from flask_restful import Api
 from datetime import datetime
-# from random import random
-# Khởi tạo Flask Server Backend
 load_dotenv()
 app = Flask(__name__)
 api = Api(app)
