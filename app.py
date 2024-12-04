@@ -1,9 +1,11 @@
 import json
+from mailbox import Message
 import math
+import random
 
 from bson import ObjectId
 from flask import Flask, request, jsonify, Blueprint, send_from_directory, render_template
-
+from flask_mail import Mail, Message
 from flask_jwt_extended import JWTManager, create_access_token, jwt_required, get_jwt_identity
 import pandas as pd
 from sklearn.preprocessing import LabelEncoder, StandardScaler # type: ignore
@@ -30,6 +32,15 @@ api = Api(app)
 CORS(app)
 app.config['CORS_HEADERS'] = 'Content-Type'
 # app.config['UPLOAD_FOLDER'] = "static"
+
+# Cấu hình Flask-Mail
+app.config['MAIL_SERVER'] = 'smtp.gmail.com'
+app.config['MAIL_PORT'] = 587
+app.config['MAIL_USE_TLS'] = True
+app.config['MAIL_USE_SSL'] = False
+app.config['MAIL_USERNAME'] = os.getenv('EMAIL_USER')  # Email của bạn
+app.config['MAIL_PASSWORD'] = os.getenv('EMAIL_PASS')  # Mật khẩu ứng dụng email
+mail = Mail(app)
 
 app.config["MONGO_URI"] = os.environ.get("MONGO_URI")
 mongo = PyMongo(app)
@@ -81,6 +92,7 @@ def login():
             if(result['new']):
                 return jsonify({
                     "data": {
+                        
                         "email":result["email"],
                         "role":result["role"],
                         "username":result["username"],
@@ -270,24 +282,44 @@ def get_favorites():
                 print(fav["food_id"])
                 # Thêm thông tin chi tiết món ăn vào danh sách
                 favorite_list.append({
-                    "food_id": fav["food_id"],
+                    "_id": fav["food_id"],
                     "created_at": fav["created_at"],
-                    "recipe_details": {
-                        "title": recipe["title"] if recipe else None,
-                        "type0fgroup": recipe["type0fgroup"] if recipe else None,
-                        "typeoffood": recipe["typeoffood"] if recipe else None,
-                        "ingredient": recipe["ingredient"] if recipe else None,
-                        "methob": recipe["methob"] if recipe else None,
-                        "description": recipe["description"] if recipe else None,
-                        "image_path": recipe["image_path"] if recipe else None,
-                        "createdAt": recipe["createdAt"] if recipe else None,
-                    }
+                    "title": recipe["title"],
+                    "description": recipe.get("description", ""),
+                    "image_path": recipe.get("image_path", ""),
+                    "type0fgroup": recipe.get("type0fgroup", ""),
+                    "typeoffood": recipe.get("typeoffood", ""),
+                    "ingredient": recipe.get("ingredient", ""),
+                    "methob": recipe.get("methob", "")
+                  
                 })
             
             return jsonify({
                 "message": "Favorites retrieved successfully!",
                 "favorites": favorite_list
             }), 200
+        except Exception as e:
+            return jsonify({"error": str(e)}), 500
+    else:
+        return jsonify({"message": "Unauthorized"}), 401
+@app.route('/checkLoveDish/<food_id>', methods=['GET'])
+@jwt_required()
+def check_love(food_id):
+    email = get_jwt_identity()
+    if email:
+        try:
+            # Lấy danh sách món ăn yêu thích từ bảng Favourites
+            isLove = db.Favourites.find_one({"user_email": email,"food_id":food_id})
+            print(isLove)
+            if(isLove):
+                return jsonify({
+                    "message": "Dish was added in favourite love list!",
+                    "love": True
+                }), 200
+            return jsonify({
+                    "message": "Dish doesnt add in favourite love list!",
+                    "love": False
+                }), 200
         except Exception as e:
             return jsonify({"error": str(e)}), 500
     else:
@@ -657,7 +689,6 @@ def update_user_info():
     updated_user = user_collection.find_one({"email": email})
     data = {
         "email": updated_user['email'],
-        "success": 1,
         "role": updated_user["role"],
         "username": updated_user['username'],
         "avatar": updated_user['avatar'],
@@ -758,6 +789,13 @@ def infor_user():
              "email":user["email"],
                         "role":user["role"],
                         "username":user["username"],
+                        "gender": data.get("gender", user.get("gender")),
+        "statusHealth": data.get("statusHealth", user.get("statusHealth")),
+        "height": data.get("height", user.get("height")),
+        "weight": data.get("weight", user.get("weight")),
+        "updatedAt": datetime.utcnow(),
+        "new":False,
+                             "avatar":user['avatar']
                         
         }
         dataRes.update(update_data)
@@ -819,6 +857,153 @@ def delete_user(user_id):
 
     except Exception as e:
         return jsonify({"message": "Internal Server Error", "error": str(e)}), 500
+
+
+@app.route('/forgot-password', methods=['POST'])
+def forgot_password():
+    data = request.json
+    email = data.get('email')
+
+    if not email:
+        return jsonify({'error': 'Email is required'}), 400
+
+    user = db.users.find_one({'email': email})
+    if not user:
+        return jsonify({'error': 'Email not found'}), 404
+
+    # Tạo mã xác minh 4 chữ số
+    verification_code = random.randint(1000, 9999)
+
+    # Lưu mã vào database
+    db.users.update_one(
+        {'email': email},
+        {
+            '$set': {
+                'code': verification_code,
+                'created_at': datetime.utcnow(),
+                'expires_at': datetime.utcnow() + timedelta(minutes=2)
+            }
+        },
+        upsert=True
+    )
+
+    # Gửi email
+    try:
+        msg = Message('Reset Password Code', sender=app.config['MAIL_USERNAME'], recipients=[email])
+        msg.body = f'Your verification code is: {verification_code}. This code will expire in 2 minutes.'
+        mail.send(msg)
+        return jsonify({'message': 'Verification code sent successfully!'}), 200
+    except Exception as e:
+        return jsonify({'error': f'Failed to send email: {str(e)}'}), 500
+
+@app.route('/verify-code', methods=['POST'])
+def verify_code():
+    data = request.json
+    email = data.get('email')
+    code = data.get('code')
+
+    if not email or not code:
+        return jsonify({'error': 'Email and code are required'}), 400
+
+    # Kiểm tra mã trong database
+    record = db.users.find_one({'email': email})
+    if not record or record['code'] != int(code):
+        return jsonify({'error': 'Invalid code'}), 400
+
+    # Kiểm tra thời gian hết hạn
+    if datetime.utcnow() > record['expires_at']:
+        return jsonify({'error': 'Code expired'}), 400
+
+    return jsonify({'message': 'Code verified successfully!'}), 200
+
+@app.route('/reset-password', methods=['POST'])
+def reset_password():
+    data = request.json
+    email = data.get('email')
+    new_password = generate_password_hash(data.get('newpass'))
+
+    if not email or not new_password:
+        return jsonify({'error': 'Email and password are required'}), 400
+
+    # Cập nhật mật khẩu mới
+    db.users.update_one({'email': email}, {'$set': {'password': new_password}})
+    return jsonify({'message': 'Password reset successfully!'}), 200
+
+@app.route('/comments/<recipe_id>', methods=['GET'])
+@jwt_required()
+def get_comments(recipe_id):
+    email = get_jwt_identity()
+    if not email:
+        return jsonify({"message": "Unauthorized"}), 401
+    comments = list(db.Comments.find({"recipeId": recipe_id}))
+    for comment in comments:
+        comment["_id"] = str(comment["_id"])
+    return jsonify({"status": 200, "comments": comments}), 200
+
+# 2. API Thêm bình luận mới
+@app.route('/comments', methods=['POST'])
+@jwt_required()
+def add_comment():
+    email = get_jwt_identity()
+    if not email:
+        return jsonify({"message": "Unauthorized"}), 401
+    data = request.get_json()
+    recipe_id = data.get("recipeId")
+    content = data.get("content")
+    user = data.get("user", "Anonymous")
+    emailUser = data.get("emailUser", "")
+    if not recipe_id or not content:
+        return jsonify({"status": 400, "message": "Recipe ID and content are required"}), 400
+
+    comment = {
+        "recipeId": recipe_id,
+        "content": content,
+        "user": user,
+        "emailUser":emailUser,
+        "createdAt": datetime.utcnow(),
+        "updatedAt": datetime.utcnow()
+    }
+    result = db.Comments.insert_one(comment)
+    comment["_id"] = str(result.inserted_id)
+    return jsonify({"status": 200, "comment": comment}), 200
+
+# 3. API Chỉnh sửa bình luận
+@app.route('/comments/<comment_id>', methods=['PUT'])
+@jwt_required()
+def edit_comment(comment_id):
+    email = get_jwt_identity()
+    if not email:
+        return jsonify({"message": "Unauthorized"}), 401
+    data = request.json
+    content = data.get("content")
+
+    if not content:
+        return jsonify({"status": 400, "message": "Content is required"}), 400
+
+    updated = db.Comments.update_one(
+        {"_id": ObjectId(comment_id)},
+        {"$set": {"content": content, "updatedAt": datetime.utcnow()}}
+    )
+
+    if updated.modified_count == 1:
+        return jsonify({"status": 200, "message": "Comment updated successfully"}), 200
+    return jsonify({"status": 400, "message": "Failed to update comment"}), 400
+
+# 4. API Xóa bình luận
+@app.route('/comments/<comment_id>', methods=['DELETE'])
+@jwt_required()
+def delete_comment(comment_id):
+    email = get_jwt_identity()
+    if not email:
+        return jsonify({"message": "Unauthorized"}), 401
+    deleted = db.Comments.delete_one({"_id": ObjectId(comment_id)})
+    if deleted.deleted_count == 1:
+        return jsonify({"status": 200, "message": "Comment deleted successfully"}), 200
+    return jsonify({"status": 400, "message": "Failed to delete comment"}), 400
+
+
+
+
 def recommend_dishes_by_health(calories, carbs, protein, fat, fiber, Sodium, VitaminC, Purine, sugar, Cholesterol, iron, typeOfGroup):
     data = pd.read_csv('Recipes.csv')
    
